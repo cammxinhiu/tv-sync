@@ -24,261 +24,6 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "kaytee-45ebf59f1586",
-          "name": "⚽ Vietnam U17 vs Korea Republic U17 | 23:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-45ebf59f1586.webp?v=1778435668",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-45ebf59f1586",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-45ebf59f1586",
-                  "name": "Vietnam U17 vs Korea Republic U17",
-                  "streams": [
-                    {
-                      "id": "kaytee-45ebf59f1586",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-8db0507ddf",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfvr3gr4nhct1gwzdepjqgrhuqmm3q3suocbige5nh3mrc71s4amacp1gh.100ycdn.com/yvm80526.edgemaxcdn.org/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=c288958a0de70b7be61e6e47-177843565269255&wsIPSercert=311d4cdb56b894024064adbe25b14672&wsBindIP=2&wsserid=1168276518868027036"
-                        },
-                        {
-                          "id": "lnk-22be9a0153",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://yvm80526.edgemaxcdn.org/live/hqtv_blv_phanliem/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "kaytee-dd2200979891",
-          "name": "⚽ Parma vs AS Roma | 23:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-dd2200979891.webp?v=1778435669",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-dd2200979891",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-dd2200979891",
-                  "name": "Parma vs AS Roma",
-                  "streams": [
-                    {
-                      "id": "kaytee-dd2200979891",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1ad7cfb94b",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfvr3gr4nhct1gwzdepjqgrhuqmm3q3suocbige5nh3mrc71s4amacp1gh.100ycdn.com/yvm80526.edgemaxcdn.org/live/hqtv_blv_phanhalinh/playlist.m3u8?wsSession=c9a11b4b0df370078d09ef97-177843565268677&wsIPSercert=311d4cdb56b894024064adbe25b14672&wsBindIP=2&wsserid=1168271556798807710"
-                        },
-                        {
-                          "id": "lnk-145bee0bdf",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://yvm80526.edgemaxcdn.org/live/hqtv_blv_phanhalinh/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "kaytee-eb668f171c43",
-          "name": "⚽ Elisabetta Cocciaretto vs Iga Swiatek | 00:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-eb668f171c43.webp?v=1778435671",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-eb668f171c43",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-eb668f171c43",
-                  "name": "Elisabetta Cocciaretto vs Iga Swiatek",
-                  "streams": [
-                    {
-                      "id": "kaytee-eb668f171c43",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-3697549960",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://yvm80526.edgemaxcdn.org/live/hqtv_blv_phantu/playlist.m3u8"
-                        },
-                        {
-                          "id": "lnk-561f56528d",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://tfvr3gr4nhct1gwzdepjqgrhuqmm3q3suocbige5nh3mrc71s4amacp1gh.100ycdn.com/yvm80526.edgemaxcdn.org/live/hqtv_blv_phantu/playlist.m3u8?wsSession=2d28cbe1e393200576730cf1-177843565865309&wsIPSercert=311d4cdb56b894024064adbe25b14672&wsBindIP=2&wsserid=1168276443747689227"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "kaytee-f91dd7eb38fe",
-          "name": "⚽ AC Milan vs Atalanta | 01:45",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-f91dd7eb38fe.webp?v=1778435670",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "⏳ Chưa live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#d54f1a"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-f91dd7eb38fe",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-f91dd7eb38fe",
-                  "name": "AC Milan vs Atalanta",
-                  "streams": [
-                    {
-                      "id": "kaytee-f91dd7eb38fe",
-                      "name": "F",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "kaytee-17d7b005b89a",
-          "name": "⚽ Barcelona vs Real Madrid | 02:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-17d7b005b89a.webp?v=1778435670",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "⏳ Chưa live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#d54f1a"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-17d7b005b89a",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-17d7b005b89a",
-                  "name": "Barcelona vs Real Madrid",
-                  "streams": [
-                    {
-                      "id": "kaytee-17d7b005b89a",
-                      "name": "F",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "kaytee-d1f96cc95817",
           "name": "⚽ Philadelphia 76ers vs New York Knicks | 02:30",
           "type": "single",
@@ -288,16 +33,16 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-d1f96cc95817.webp?v=1778435672",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-d1f96cc95817.webp?v=1778448862",
             "width": 1600,
             "height": 1200
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -311,6 +56,120 @@
                   "streams": [
                     {
                       "id": "kaytee-d1f96cc95817",
+                      "name": "F",
+                      "stream_links": [
+                        {
+                          "id": "lnk-27ec0b415e",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfvr3gr4nhct1gwzdrcbqgr5ucmm3q3suocbige5nh3mrc71s4amacp1gh.100ycdn.com/yvm80526.edgemaxcdn.org/live/hqtv_blv_phanchanh/playlist.m3u8?wsSession=441c85b9c398cf4de6ca129f-177844885261684&wsIPSercert=311d4cdb56b894024064adbe25b14672&wsBindIP=2&wsserid=1172648037438224979"
+                        },
+                        {
+                          "id": "lnk-fe00f54d0e",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://yvm80526.edgemaxcdn.org/live/hqtv_blv_phanchanh/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-68f6f5bf0bd6",
+          "name": "⚽ Santos vs RB Bragantino | 04:30",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-68f6f5bf0bd6.webp?v=1778448863",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-68f6f5bf0bd6",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-68f6f5bf0bd6",
+                  "name": "Santos vs RB Bragantino",
+                  "streams": [
+                    {
+                      "id": "kaytee-68f6f5bf0bd6",
+                      "name": "F",
+                      "stream_links": [
+                        {
+                          "id": "lnk-2a6ce4305a",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfvr3gr4nhct1gwzdrcbqgr5ucmm3q3suocbige5nh3mrc71s4amacp1gh.100ycdn.com/yvm80526.edgemaxcdn.org/live/hqtv_blv_phanto/playlist.m3u8?wsSession=6b8d7324f89c8dfd23660e01-177844885260174&wsIPSercert=fc4acc60e94b8aeff93609b084b272d2&wsBindIP=2&wsserid=1172648037400475881"
+                        },
+                        {
+                          "id": "lnk-4526ca3fe4",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://yvm80526.edgemaxcdn.org/live/hqtv_blv_phanto/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-9293ad39015c",
+          "name": "⚽ Vasco da Gama vs Atletico Paranaense | 06:30",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-9293ad39015c.webp?v=1778448864",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-9293ad39015c",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-9293ad39015c",
+                  "name": "Vasco da Gama vs Atletico Paranaense",
+                  "streams": [
+                    {
+                      "id": "kaytee-9293ad39015c",
                       "name": "F",
                       "stream_links": []
                     }
@@ -330,7 +189,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-9698cf01515b.webp?v=1778435672",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-9698cf01515b.webp?v=1778448864",
             "width": 1600,
             "height": 1200
           },
@@ -353,6 +212,132 @@
                   "streams": [
                     {
                       "id": "kaytee-9698cf01515b",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-0644a177dfa8",
+          "name": "⚽ Los Angeles FC vs Houston Dynamo | 08:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-0644a177dfa8.webp?v=1778448865",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-0644a177dfa8",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-0644a177dfa8",
+                  "name": "Los Angeles FC vs Houston Dynamo",
+                  "streams": [
+                    {
+                      "id": "kaytee-0644a177dfa8",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-3038710e9782",
+          "name": "⚽ Vietnam U17 W vs Australia U17 W | 14:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-3038710e9782.webp?v=1778448866",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-3038710e9782",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-3038710e9782",
+                  "name": "Vietnam U17 W vs Australia U17 W",
+                  "streams": [
+                    {
+                      "id": "kaytee-3038710e9782",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-d7225eb6cf18",
+          "name": "⚽ Bali United vs Pusamania Borneo | 19:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-d7225eb6cf18.webp?v=1778448866",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-d7225eb6cf18",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-d7225eb6cf18",
+                  "name": "Bali United vs Pusamania Borneo",
+                  "streams": [
+                    {
+                      "id": "kaytee-d7225eb6cf18",
                       "name": "F",
                       "stream_links": []
                     }
