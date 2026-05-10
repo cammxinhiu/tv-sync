@@ -1,0 +1,635 @@
+{
+  "id": "hoiquan",
+  "url": "https://tinyurl.com/thapcam",
+  "name": "Hội Quán TV",
+  "color": "#1cb57a",
+  "grid_number": 3,
+  "image": {
+    "type": "cover",
+    "url": "https://kaytee1012.github.io/hoiquan_logo.png"
+  },
+  "notice": {
+    "closeable": true,
+    "icon": "https://kaytee1012.github.io/pngegg.png",
+    "id": "notice",
+    "link": "https://t.me/dqstore1",
+    "text": "Nhóm Tele"
+  },
+  "groups": [
+    {
+      "id": "live",
+      "name": "🔴 Live bóng đá",
+      "display": "vertical",
+      "grid_number": 2,
+      "enable_detail": false,
+      "channels": [
+        {
+          "id": "kaytee-4b71fab32256",
+          "name": "⚽ Trung Quốc vs Nhật Bản | 17:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-4b71fab32256.webp?v=1778408070",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-4b71fab32256",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-4b71fab32256",
+                  "name": "Trung Quốc vs Nhật Bản",
+                  "streams": [
+                    {
+                      "id": "kaytee-4b71fab32256",
+                      "name": "F",
+                      "stream_links": [
+                        {
+                          "id": "lnk-551cc6c55c",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://yvm80526.edgemaxcdn.org/live/hqtv_blv_phanchop/playlist.m3u8"
+                        },
+                        {
+                          "id": "lnk-be447830bf",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://tfvr3gr3dgmtugrzdgpbqgrhdomm3q3suocbige5nh3mrc71s4amacp1gh.100ycdn.com/yvm80526.edgemaxcdn.org/live/hqtv_blv_phanchop/playlist.m3u8?wsSession=7cbc343716daafb071284be1-177840805329021&wsIPSercert=311d4cdb56b894024064adbe25b14672&wsBindIP=2&wsserid=1168239032784443754"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-1af13557922d",
+          "name": "⚽ Hoang Anh Gia Lai vs Pho Hien | 17:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-1af13557922d.webp?v=1778408070",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-1af13557922d",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-1af13557922d",
+                  "name": "Hoang Anh Gia Lai vs Pho Hien",
+                  "streams": [
+                    {
+                      "id": "kaytee-1af13557922d",
+                      "name": "F",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1d6695cdcb",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://yvm80526.edgemaxcdn.org/live/hqtv_blv_thienloi/playlist.m3u8"
+                        },
+                        {
+                          "id": "lnk-13495ef725",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://tfvr3gr3dgmtugrzdgpbqgrhdomm3q3suocbige5nh3mrc71s4amacp1gh.100ycdn.com/yvm80526.edgemaxcdn.org/live/hqtv_blv_thienloi/playlist.m3u8?wsSession=917b3eb59fab720619101bec-177840805329293&wsIPSercert=fc4acc60e94b8aeff93609b084b272d2&wsBindIP=2&wsserid=1168239032764520582"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-e20a736e2b46",
+          "name": "⚽ Hellas Verona vs Como | 17:30",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-e20a736e2b46.webp?v=1778408071",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-e20a736e2b46",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-e20a736e2b46",
+                  "name": "Hellas Verona vs Como",
+                  "streams": [
+                    {
+                      "id": "kaytee-e20a736e2b46",
+                      "name": "F",
+                      "stream_links": [
+                        {
+                          "id": "lnk-17b81f3a6d",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfvr3gr3dgmtugrzdgpbqgrhdomm3q3suocbige5nh3mrc71s4amacp1gh.100ycdn.com/yvm80526.edgemaxcdn.org/live/hqtv_blv_phanchanh/playlist.m3u8?wsSession=917b3eb59fab720619101bec-177840805329489&wsIPSercert=fc4acc60e94b8aeff93609b084b272d2&wsBindIP=2&wsserid=1168239032764520582"
+                        },
+                        {
+                          "id": "lnk-fe00f54d0e",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://yvm80526.edgemaxcdn.org/live/hqtv_blv_phanchanh/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-0b55291e0fb9",
+          "name": "⚽ Ho Chi Minh vs Song Lam Nghe An | 18:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-0b55291e0fb9.webp?v=1778408072",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-0b55291e0fb9",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-0b55291e0fb9",
+                  "name": "Ho Chi Minh vs Song Lam Nghe An",
+                  "streams": [
+                    {
+                      "id": "kaytee-0b55291e0fb9",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-864565e91f49",
+          "name": "⚽ Hồng Lĩnh Hà Tĩnh vs Viettel | 18:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-864565e91f49.webp?v=1778408073",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-864565e91f49",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-864565e91f49",
+                  "name": "Hồng Lĩnh Hà Tĩnh vs Viettel",
+                  "streams": [
+                    {
+                      "id": "kaytee-864565e91f49",
+                      "name": "F",
+                      "stream_links": [
+                        {
+                          "id": "lnk-22be9a0153",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://yvm80526.edgemaxcdn.org/live/hqtv_blv_phanliem/playlist.m3u8"
+                        },
+                        {
+                          "id": "lnk-a705be57b5",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://tfvr3gr3dgmtugrzdgpbqgrhdomm3q3suocbige5nh3mrc71s4amacp1gh.100ycdn.com/yvm80526.edgemaxcdn.org/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=f0a676f6dae09fc1c971720f-177840805720058&wsIPSercert=311d4cdb56b894024064adbe25b14672&wsBindIP=2&wsserid=1168239032787589538"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-e0504624554d",
+          "name": "⚽ Alexander Blockx vs Alexandet Zverev | 18:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-e0504624554d.webp?v=1778408077",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-e0504624554d",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-e0504624554d",
+                  "name": "Alexander Blockx vs Alexandet Zverev",
+                  "streams": [
+                    {
+                      "id": "kaytee-e0504624554d",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-86b9ebe44551",
+          "name": "⚽ Shanxi Zhongyu vs Zhejiang Guangsha | 18:30",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-86b9ebe44551.webp?v=1778408075",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-86b9ebe44551",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-86b9ebe44551",
+                  "name": "Shanxi Zhongyu vs Zhejiang Guangsha",
+                  "streams": [
+                    {
+                      "id": "kaytee-86b9ebe44551",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-aa29a0f8bd01",
+          "name": "⚽ Công An Nhân Dân vs Nam Dinh | 19:15",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-aa29a0f8bd01.webp?v=1778408073",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-aa29a0f8bd01",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-aa29a0f8bd01",
+                  "name": "Công An Nhân Dân vs Nam Dinh",
+                  "streams": [
+                    {
+                      "id": "kaytee-aa29a0f8bd01",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-294246349de5",
+          "name": "⚽ Lorenzo Musett vs Francisco Cerundolo | 20:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-294246349de5.webp?v=1778408077",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-294246349de5",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-294246349de5",
+                  "name": "Lorenzo Musett vs Francisco Cerundolo",
+                  "streams": [
+                    {
+                      "id": "kaytee-294246349de5",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-84ec18aa94b2",
+          "name": "⚽ Trung Quốc vs Nhật Bản | 22:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-84ec18aa94b2.webp?v=1778408074",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-84ec18aa94b2",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-84ec18aa94b2",
+                  "name": "Trung Quốc vs Nhật Bản",
+                  "streams": [
+                    {
+                      "id": "kaytee-84ec18aa94b2",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-eb668f171c43",
+          "name": "⚽ Elisabetta Cocciaretto vs Iga Swiatek | 00:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-eb668f171c43.webp?v=1778408078",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-eb668f171c43",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-eb668f171c43",
+                  "name": "Elisabetta Cocciaretto vs Iga Swiatek",
+                  "streams": [
+                    {
+                      "id": "kaytee-eb668f171c43",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-d1f96cc95817",
+          "name": "⚽ Philadelphia 76ers vs New York Knicks | 02:30",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-d1f96cc95817.webp?v=1778408075",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-d1f96cc95817",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-d1f96cc95817",
+                  "name": "Philadelphia 76ers vs New York Knicks",
+                  "streams": [
+                    {
+                      "id": "kaytee-d1f96cc95817",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-9698cf01515b",
+          "name": "⚽ Minnesota Timberwolves vs San Antonio Spurs | 06:30",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-9698cf01515b.webp?v=1778408076",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-9698cf01515b",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-9698cf01515b",
+                  "name": "Minnesota Timberwolves vs San Antonio Spurs",
+                  "streams": [
+                    {
+                      "id": "kaytee-9698cf01515b",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
