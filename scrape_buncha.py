@@ -16,7 +16,6 @@ def scrape_matches():
     matches = []
     for a in soup.select("a[href*='/truc-tiep/']"):
         href = a.get("href", "")
-        # Lấy match_id từ cuối URL: /truc-tiep/slug/601450240
         parts = href.rstrip("/").split("/")
         if len(parts) < 2:
             continue
@@ -24,20 +23,28 @@ def scrape_matches():
         if not match_id.isdigit():
             continue
         
-        # Tên trận từ text trong card
         name = a.get_text(" ", strip=True)
-        # Thumbnail logo đội nhà
-        img = a.select_one("img[src*='team']")
-        thumb = img["src"] if img else ""
+        
+        # Thử nhiều cách tìm ảnh
+        img = a.select_one("img") or a.find_parent().select_one("img") if a.find_parent() else None
+        thumb = ""
+        if img and img.get("src"):
+            thumb = img["src"]
+            if not thumb.startswith("http"):
+                thumb = "https://bunchatv4.net" + thumb
+        
+        # Fallback: dùng logo mặc định
+        if not thumb:
+            thumb = "https://bunchatv4.net/themes/default/images/logo.svg"
         
         matches.append({
             "match_id": match_id,
-            "name": name[:80],  # cắt bớt nếu quá dài
+            "name": name[:80],
             "thumb": thumb,
             "href": href,
         })
     
-    # Bỏ duplicate theo match_id
+    # Bỏ duplicate
     seen = set()
     unique = []
     for m in matches:
@@ -53,36 +60,33 @@ async def get_stream_url(match_id, channel_id):
     m3u8_url = None
     
     async with async_playwright() as p:
-        browser = await p.chromium.launch(args=["--no-sandbox"])
+        browser = await p.chromium.launch(args=["--no-sandbox", "--disable-blink-features=AutomationControlled"])
         page = await browser.new_page()
         
-        # Intercept mọi request, lọc lấy .m3u8
-        async def handle_request(request):
+        # Bắt RESPONSE thay vì request
+        async def handle_response(response):
             nonlocal m3u8_url
-            if ".m3u8" in request.url and m3u8_url is None:
-                m3u8_url = request.url
+            if ".m3u8" in response.url and m3u8_url is None:
+                m3u8_url = response.url
+                print(f"    ✓ Caught M3U8: {m3u8_url[:80]}")
         
-        page.on("request", handle_request)
+        page.on("response", handle_response)
         
         try:
-            await page.goto(player_url, timeout=15000)
-            await page.wait_for_timeout(8000)  # chờ JS load và gọi stream
+            await page.goto(player_url, wait_until="networkidle", timeout=20000)
+            await page.wait_for_timeout(12000)  # Chờ 12s
         except Exception as e:
-            print(f"  Timeout/error: {e}")
+            print(f"  ⚠ Error: {e}")
         finally:
             await browser.close()
     
     return m3u8_url
 
 def get_channel_id(match_id):
-    """Lấy channel_id từ trang trận cụ thể"""
-    url = f"https://bunchatv4.net/truc-tiep"
-    # channel_id nằm trong href của iframe: cbox-v2...?match_id=...&channel_id=...
+    """Lấy channel_id từ trang homepage"""
     try:
-        r = requests.get(f"https://bunchatv4.net/", headers=HEADERS, timeout=10)
-        match = re.search(
-            rf"match_id={match_id}&(?:amp;)?channel_id=(\d+)", r.text
-        )
+        r = requests.get("https://bunchatv4.net/", headers=HEADERS, timeout=10)
+        match = re.search(rf"match_id={match_id}&(?:amp;)?channel_id=(\d+)", r.text)
         if match:
             return match.group(1)
     except:
@@ -139,21 +143,30 @@ def build_channel(match):
     }
 
 async def main():
-    print("Scraping match list...")
+    print("🔍 Scraping match list...")
     matches = scrape_matches()
-    print(f"Found {len(matches)} matches")
+    print(f"✅ Found {len(matches)} matches\n")
     
-    # Chỉ lấy stream cho 5 trận đầu (tránh timeout GitHub Actions)
+    # DEBUG: In ra 3 trận đầu
+    for m in matches[:3]:
+        print(f"  📌 {m['name'][:45]}")
+        print(f"     Thumb: {m['thumb'][:60]}\n")
+    
+    # Lấy stream cho 5 trận đầu
     for i, match in enumerate(matches[:5]):
-        print(f"[{i+1}] Getting stream for match_id={match['match_id']}...")
+        print(f"[{i+1}/5] 🎯 Getting stream for: {match['name'][:45]}")
+        print(f"        Player: https://cbox-v2.bunchatv2.com/?match_id={match['match_id']}&channel_id=...")
         
-        # Thử lấy channel_id từ trang homepage
         channel_id = get_channel_id(match["match_id"]) or "0"
         m3u8 = await get_stream_url(match["match_id"], channel_id)
         match["m3u8"] = m3u8
-        print(f"    → {'Found: ' + m3u8[:60] if m3u8 else 'No stream found'}")
+        
+        if m3u8:
+            print(f"        ✅ Stream found: {m3u8[:80]}\n")
+        else:
+            print(f"        ❌ No stream (chưa live hoặc bị block)\n")
     
-    # Các trận còn lại không có stream link (chưa live)
+    # Các trận còn lại không có stream
     for match in matches[5:]:
         match["m3u8"] = None
     
@@ -180,7 +193,7 @@ async def main():
     with open("buncha.json", "w", encoding="utf-8") as f:
         json.dump(output, f, ensure_ascii=False, indent=2)
     
-    print(f"Done! Saved {len(matches)} channels to buncha.json")
+    print(f"✅ Done! Saved {len(matches)} channels to buncha.json")
 
 if __name__ == "__main__":
     asyncio.run(main())
