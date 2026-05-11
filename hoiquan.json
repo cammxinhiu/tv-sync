@@ -24,8 +24,8 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "kaytee-dc460f9f2b8b",
-          "name": "⚽ Coco Gauff vs Iva Jovic | 17:30",
+          "id": "kaytee-a58e0b82d9ef",
+          "name": "⚽ Jannik Sinner vs Alexei Popyrin | 20:00",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -33,7 +33,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-dc460f9f2b8b.webp?v=1778496267",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-a58e0b82d9ef.webp?v=1778511871",
             "width": 1600,
             "height": 1200
           },
@@ -47,23 +47,23 @@
           ],
           "sources": [
             {
-              "id": "kaytee-dc460f9f2b8b",
+              "id": "kaytee-a58e0b82d9ef",
               "name": "Hội Quán",
               "contents": [
                 {
-                  "id": "kaytee-dc460f9f2b8b",
-                  "name": "Coco Gauff vs Iva Jovic",
+                  "id": "kaytee-a58e0b82d9ef",
+                  "name": "Jannik Sinner vs Alexei Popyrin",
                   "streams": [
                     {
-                      "id": "kaytee-dc460f9f2b8b",
+                      "id": "kaytee-a58e0b82d9ef",
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-5e9e06dfc1",
+                          "id": "lnk-9ac120419e",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfvs3gr4nhct1gwzdrcbqgr5ucmm3q3suocbige5nh3mrc71s4amacp1gh.100ycdn.com/yvm80526.edgemaxcdn.org/live/hqtv_blv_phantu/playlist.m3u8?wsSession=6b8d7324f89c8dfd23660e01-177849625420367&wsIPSercert=fc4acc60e94b8aeff93609b084b272d2&wsBindIP=2&wsserid=1172648037400475881"
+                          "url": "https://tfvs1gr4nhct1gwzdrcttfaauycjpxf5g4qbogw3dcmufctusk5mbxbtse5o.100ycdn.com/yvm80526.edgemaxcdn.org/live/hqtv_blv_phantu/playlist.m3u8?wsSession=fd8131b9773553a4086e8001-177851185362151&wsIPSercert=fc4acc60e94b8aeff93609b084b272d2&wsBindIP=2&wsserid=1172647681751796670"
                         },
                         {
                           "id": "lnk-3697549960",
@@ -81,90 +81,6 @@
           ]
         },
         {
-          "id": "kaytee-d7225eb6cf18",
-          "name": "⚽ Bali United vs Pusamania Borneo | 19:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-d7225eb6cf18.webp?v=1778496267",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "⏳ Chưa live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#d54f1a"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-d7225eb6cf18",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-d7225eb6cf18",
-                  "name": "Bali United vs Pusamania Borneo",
-                  "streams": [
-                    {
-                      "id": "kaytee-d7225eb6cf18",
-                      "name": "F",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "kaytee-a58e0b82d9ef",
-          "name": "⚽ Jannik Sinner vs Alexei Popyrin | 20:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-a58e0b82d9ef.webp?v=1778496268",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "⏳ Chưa live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#d54f1a"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-a58e0b82d9ef",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-a58e0b82d9ef",
-                  "name": "Jannik Sinner vs Alexei Popyrin",
-                  "streams": [
-                    {
-                      "id": "kaytee-a58e0b82d9ef",
-                      "name": "F",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "kaytee-08e593548d38",
           "name": "⚽ Pablo Llamas Ruiz vs Daniil Medvedev | 21:30",
           "type": "single",
@@ -174,16 +90,16 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-08e593548d38.webp?v=1778496269",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-08e593548d38.webp?v=1778511872",
             "width": 1600,
             "height": 1200
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -198,7 +114,22 @@
                     {
                       "id": "kaytee-08e593548d38",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-ad1dc1e6b0",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfvs1gr4nhct1gwzdrcttfaauycjpxf5g4qbogw3dcmufctusk5mbxbtse5o.100ycdn.com/yvm80526.edgemaxcdn.org/live/hqtv_blv_phanchuot/playlist.m3u8?wsSession=33ece0df93530cd0c8f3ce16-177851185375525&wsIPSercert=fc4acc60e94b8aeff93609b084b272d2&wsBindIP=2&wsserid=1168144352663545232"
+                        },
+                        {
+                          "id": "lnk-f3e1c26f06",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://yvm80526.edgemaxcdn.org/live/hqtv_blv_phanchuot/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
@@ -216,7 +147,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-c58fde3439e2.webp?v=1778496270",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-c58fde3439e2.webp?v=1778511873",
             "width": 1600,
             "height": 1200
           },
@@ -258,7 +189,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-cc2b357b4608.webp?v=1778496271",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-cc2b357b4608.webp?v=1778511873",
             "width": 1600,
             "height": 1200
           },
@@ -300,7 +231,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-d51b2e595d06.webp?v=1778496270",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-d51b2e595d06.webp?v=1778511874",
             "width": 1600,
             "height": 1200
           },
@@ -333,6 +264,48 @@
           ]
         },
         {
+          "id": "kaytee-1b35814484b2",
+          "name": "⚽ Elena Rybakina vs Karolína Plíšková | 01:30",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-1b35814484b2.webp?v=1778511875",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-1b35814484b2",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-1b35814484b2",
+                  "name": "Elena Rybakina vs Karolína Plíšková",
+                  "streams": [
+                    {
+                      "id": "kaytee-1b35814484b2",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
           "id": "kaytee-5638faa42433",
           "name": "⚽ Napoli vs Bologna | 01:45",
           "type": "single",
@@ -342,7 +315,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-5638faa42433.webp?v=1778496272",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-5638faa42433.webp?v=1778511876",
             "width": 1600,
             "height": 1200
           },
@@ -384,7 +357,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-9b82233aa672.webp?v=1778496273",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-9b82233aa672.webp?v=1778511876",
             "width": 1600,
             "height": 1200
           },
@@ -426,7 +399,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-bdb9950ea7b8.webp?v=1778496274",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-bdb9950ea7b8.webp?v=1778511877",
             "width": 1600,
             "height": 1200
           },
@@ -459,6 +432,48 @@
           ]
         },
         {
+          "id": "kaytee-f92af95647af",
+          "name": "⚽ Benfica vs SC Braga | 02:15",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-f92af95647af.webp?v=1778511878",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-f92af95647af",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-f92af95647af",
+                  "name": "Benfica vs SC Braga",
+                  "streams": [
+                    {
+                      "id": "kaytee-f92af95647af",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
           "id": "kaytee-e4ad4eb40667",
           "name": "⚽ Cleveland Cavaliers vs Detroit Pistons | 07:00",
           "type": "single",
@@ -468,7 +483,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-e4ad4eb40667.webp?v=1778496274",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-e4ad4eb40667.webp?v=1778511878",
             "width": 1600,
             "height": 1200
           },
@@ -510,7 +525,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-e470c69c099b.webp?v=1778496276",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-e470c69c099b.webp?v=1778511881",
             "width": 1600,
             "height": 1200
           },
@@ -533,6 +548,48 @@
                   "streams": [
                     {
                       "id": "kaytee-e470c69c099b",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-cc7bde090777",
+          "name": "⚽ Beijing vs Quangdong | 18:35",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-cc7bde090777.webp?v=1778511881",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-cc7bde090777",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-cc7bde090777",
+                  "name": "Beijing vs Quangdong",
+                  "streams": [
+                    {
+                      "id": "kaytee-cc7bde090777",
                       "name": "F",
                       "stream_links": []
                     }
