@@ -1,7 +1,7 @@
 name: Sync JSON
 on:
   schedule:
-    - cron: '*/5 * * * *'   # Chạy 5 phút 1 lần
+    - cron: '*/10 * * * *'   # Chạy 5 phút 1 lần
   workflow_dispatch:
 jobs:
   sync:
@@ -13,13 +13,14 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: '3.11'
-      - run: pip install requests beautifulsoup4 playwright
-      - run: playwright install chromium
-      - run: python sync.py
-      - run: python scrape_buncha.py
-      - run: |
+      - name: Install dependencies
+        run: pip install requests
+      - name: Run sync script
+        run: python sync.py
+      - name: Push changes
+        run: |
           git config user.name "github-actions"
           git config user.email "actions@github.com"
-          git add hoiquan.json buncha.json
+          git add hoiquan.json
           git diff --staged --quiet || git commit -m "sync"
           git push
