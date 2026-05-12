@@ -2,43 +2,50 @@ import requests
 import json
 import sys
 import os
+import time
 
-SOURCE_URL = "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan1.json"
+# 1. Thêm cái đuôi ?t=thời_gian_thực để phá nát cache của Cloudflare
+# Mỗi lần chạy link sẽ khác nhau 1 xíu, ép Cloudflare phải tải file mới
+SOURCE_URL = f"https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan1.json?t={int(time.time())}"
 FILE_NAME = "hoiquan.json"
 
-# 1. Tải dữ liệu từ nguồn
 try:
-    r = requests.get(SOURCE_URL, timeout=10)
+    # Giả lập làm người dùng thật bằng trình duyệt để không bị chặn
+    headers = {
+        'Cache-Control': 'no-cache',
+        'Pragma': 'no-cache',
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64)'
+    }
+    r = requests.get(SOURCE_URL, headers=headers, timeout=10)
     r.raise_for_status()
     new_data = r.json()
 except Exception as e:
     print(f"Lỗi khi tải dữ liệu: {e}")
     sys.exit(1)
 
-# 2. XỬ LÝ LỌC TRẬN ĐẤU (Bỏ các trận đã End)
-# Tìm đến mảng groups -> tìm cái group có id là "live" -> lọc mảng "channels"
+# 2. XỬ LÝ LỌC TRẬN ĐẤU (Không lo phân biệt hoa/thường)
 if "groups" in new_data:
     for group in new_data["groups"]:
         if group.get("id") == "live" and "channels" in group:
             valid_channels = []
             for channel in group["channels"]:
                 is_active = False
-                # Kiểm tra trong các labels của channel này
                 if "labels" in channel:
                     for label in channel["labels"]:
-                        text = label.get("text", "")
-                        # Chỉ giữ lại nếu là "● Live" hoặc "⏳ Chưa live"
-                        if "Live" in text or "Chưa live" in text:
+                        # Ép tất cả về chữ thường (lowercase) để quét
+                        text = label.get("text", "").lower()
+                        # Lấy tất cả các nhãn có chứa chữ "live"
+                        # Loại bỏ ngay lập tức nếu có chứa chữ "end" hoặc "kết thúc"
+                        if "live" in text and "end" not in text and "kết thúc" not in text:
                             is_active = True
                             break
                 
                 if is_active:
                     valid_channels.append(channel)
             
-            # Ghi đè danh sách channels đã lọc (chỉ còn live/chưa live)
             group["channels"] = valid_channels
 
-# 3. Mở file cũ ra để đối chiếu
+# 3. So sánh với file cũ
 old_data = None
 if os.path.exists(FILE_NAME):
     with open(FILE_NAME, "r", encoding="utf-8") as f:
@@ -47,13 +54,12 @@ if os.path.exists(FILE_NAME):
         except json.JSONDecodeError:
             pass
 
-# 4. Tiến hành so sánh
 if new_data == old_data:
-    print("Dữ liệu không có thay đổi (chưa có trận mới hoặc trạng thái mới). Dừng script!")
+    print("Cloudflare đã nhả data mới, nhưng nội dung không có gì thay đổi. Dừng script!")
     sys.exit(0)
 
-# 5. Lưu vào file
+# 4. Lưu dữ liệu
 with open(FILE_NAME, "w", encoding="utf-8") as f:
     json.dump(new_data, f, ensure_ascii=False, indent=2)
 
-print("Đã cập nhật dữ liệu trận đấu thành công (đã dọn dẹp trận cũ)!")
+print("Phát hiện trận mới/trạng thái mới! Đã dọn dẹp sạch sẽ và cập nhật file thành công.")
