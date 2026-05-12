@@ -1,8 +1,8 @@
 name: Sync JSON
 on:
-  schedule:
-    - cron: '*/10 * * * *'   # Chạy 5 phút 1 lần
-  workflow_dispatch:
+  repository_dispatch:
+    types: [trigger-sync]   # Đây là "mật khẩu" để nhận lệnh từ cron-job
+  workflow_dispatch:        # Giữ lại nút chạy bằng tay để sếp test
 jobs:
   sync:
     runs-on: ubuntu-latest
