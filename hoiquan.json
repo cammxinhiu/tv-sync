@@ -24,120 +24,6 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "kaytee-daaf0f87f352",
-          "name": "⚽ Southampton vs Middlesbrough | 02:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-daaf0f87f352.webp?v=1778621062",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "⏳ Chưa live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#d54f1a"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-daaf0f87f352",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-daaf0f87f352",
-                  "name": "Southampton vs Middlesbrough",
-                  "streams": [
-                    {
-                      "id": "kaytee-daaf0f87f352",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-fe00f54d0e",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://yvm80526.edgemaxcdn.org/live/hqtv_blv_phanchanh/playlist.m3u8"
-                        },
-                        {
-                          "id": "lnk-b412998b36",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://tfvt3gr4nhct1gwzdepjqgr5u1mm3q3suocbige5nh3mrc71s4amacp1gh.100ycdn.com/yvm80526.edgemaxcdn.org/live/hqtv_blv_phanchanh/playlist.m3u8?wsSession=4ef7849f9d838cdc5a99cfaf-177862105354710&wsIPSercert=311d4cdb56b894024064adbe25b14672&wsBindIP=2&wsserid=1168271909120324450"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "kaytee-c4586a2ae5e1",
-          "name": "⚽ Osasuna vs Atletico Madrid | 02:30",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-c4586a2ae5e1.webp?v=1778621063",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-c4586a2ae5e1",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-c4586a2ae5e1",
-                  "name": "Osasuna vs Atletico Madrid",
-                  "streams": [
-                    {
-                      "id": "kaytee-c4586a2ae5e1",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-145bee0bdf",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://yvm80526.edgemaxcdn.org/live/hqtv_blv_phanhalinh/playlist.m3u8"
-                        },
-                        {
-                          "id": "lnk-be012a2376",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://tfvt3gr4nhct1gwzdepjqgr5u1mm3q3suocbige5nh3mrc71s4amacp1gh.100ycdn.com/yvm80526.edgemaxcdn.org/live/hqtv_blv_phanhalinh/playlist.m3u8?wsSession=534033ee7f5198c990ad01e3-177862105354563&wsIPSercert=fc4acc60e94b8aeff93609b084b272d2&wsBindIP=2&wsserid=1168271909244056829"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "kaytee-7b77445b4e1b",
           "name": "⚽ Internacional vs Athletic ClubB | 05:30",
           "type": "single",
@@ -147,7 +33,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-7b77445b4e1b.webp?v=1778621064",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-7b77445b4e1b.webp?v=1778621660",
             "width": 1600,
             "height": 1200
           },
@@ -189,7 +75,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-efc4ce00675a.webp?v=1778621065",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-efc4ce00675a.webp?v=1778621661",
             "width": 1600,
             "height": 1200
           },
@@ -231,7 +117,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-f9fdc55a7c9c.webp?v=1778621065",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-f9fdc55a7c9c.webp?v=1778621662",
             "width": 1600,
             "height": 1200
           },
@@ -273,7 +159,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-e28de9f2f935.webp?v=1778621066",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-e28de9f2f935.webp?v=1778621662",
             "width": 1600,
             "height": 1200
           },
@@ -315,7 +201,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-8f3a83e870fd.webp?v=1778621067",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-8f3a83e870fd.webp?v=1778621663",
             "width": 1600,
             "height": 1200
           },
@@ -357,7 +243,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-2082639de6b1.webp?v=1778621067",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-2082639de6b1.webp?v=1778621664",
             "width": 1600,
             "height": 1200
           },
@@ -390,6 +276,48 @@
           ]
         },
         {
+          "id": "kaytee-cc7aaa084988",
+          "name": "⚽ Nam Dinh vs Selangor | 17:30",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-cc7aaa084988.webp?v=1778621664",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-cc7aaa084988",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-cc7aaa084988",
+                  "name": "Nam Dinh vs Selangor",
+                  "streams": [
+                    {
+                      "id": "kaytee-cc7aaa084988",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
           "id": "kaytee-f2eab0dc0c0a",
           "name": "⚽ Zhejiang Guangsha vs Shanxi Zhongyu | 18:35",
           "type": "single",
@@ -399,7 +327,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-f2eab0dc0c0a.webp?v=1778621068",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-f2eab0dc0c0a.webp?v=1778621665",
             "width": 1600,
             "height": 1200
           },
