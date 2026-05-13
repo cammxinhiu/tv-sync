@@ -24,63 +24,6 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "kaytee-f9fdc55a7c9c",
-          "name": "⚽ Tay cơ 1 vs Tay cơ 2 | 10:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-f9fdc55a7c9c.webp?v=1778649867",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "⏳ Chưa live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#d54f1a"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-f9fdc55a7c9c",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-f9fdc55a7c9c",
-                  "name": "Tay cơ 1 vs Tay cơ 2",
-                  "streams": [
-                    {
-                      "id": "kaytee-f9fdc55a7c9c",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-400c747426",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfvu3gr3dgmtugrzdgpbqgrhdomm3q3suocbige5nh3mrc71s4amacp1gh.100ycdn.com/yvm80526.edgemaxcdn.org/live/hqtv_blv_phananh/playlist.m3u8?wsSession=7cbc343716daafb071284be1-177864985617987&wsIPSercert=fc4acc60e94b8aeff93609b084b272d2&wsBindIP=2&wsserid=1168239032784443754"
-                        },
-                        {
-                          "id": "lnk-21a3ca865c",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://yvm80526.edgemaxcdn.org/live/hqtv_blv_phananh/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "kaytee-e28de9f2f935",
           "name": "⚽ Vissel Kobe vs Kyoto Sanga | 17:00",
           "type": "single",
@@ -90,7 +33,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-e28de9f2f935.webp?v=1778649868",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-e28de9f2f935.webp?v=1778650469",
             "width": 1600,
             "height": 1200
           },
@@ -132,7 +75,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-8f3a83e870fd.webp?v=1778649868",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-8f3a83e870fd.webp?v=1778650470",
             "width": 1600,
             "height": 1200
           },
@@ -174,7 +117,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-2082639de6b1.webp?v=1778649871",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-2082639de6b1.webp?v=1778650472",
             "width": 1600,
             "height": 1200
           },
@@ -216,7 +159,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-cc7aaa084988.webp?v=1778649869",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-cc7aaa084988.webp?v=1778650470",
             "width": 1600,
             "height": 1200
           },
@@ -258,7 +201,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-c5a2db43a6fa.webp?v=1778649870",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-c5a2db43a6fa.webp?v=1778650471",
             "width": 1600,
             "height": 1200
           },
@@ -300,7 +243,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-78b41abf957e.webp?v=1778649871",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-78b41abf957e.webp?v=1778650472",
             "width": 1600,
             "height": 1200
           },
@@ -342,7 +285,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-f2eab0dc0c0a.webp?v=1778649872",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-f2eab0dc0c0a.webp?v=1778650473",
             "width": 1600,
             "height": 1200
           },
