@@ -24,48 +24,6 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "kaytee-7b77445b4e1b",
-          "name": "⚽ Internacional vs Athletic ClubB | 05:30",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-7b77445b4e1b.webp?v=1778633673",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "⏳ Chưa live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#d54f1a"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-7b77445b4e1b",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-7b77445b4e1b",
-                  "name": "Internacional vs Athletic ClubB",
-                  "streams": [
-                    {
-                      "id": "kaytee-7b77445b4e1b",
-                      "name": "F",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "kaytee-efc4ce00675a",
           "name": "⚽ San Antonio Spurs vs Minnesota Timberwolves | 07:00",
           "type": "single",
@@ -75,7 +33,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-efc4ce00675a.webp?v=1778633673",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-efc4ce00675a.webp?v=1778634261",
             "width": 1600,
             "height": 1200
           },
@@ -101,18 +59,18 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-330309da5d",
+                          "id": "lnk-3697549960",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfvu3gr3dgmtugrzdgpbqgrhdomm3q3suocbige5nh3mrc71s4amacp1gh.100ycdn.com/yvm80526.edgemaxcdn.org/live/hqtv_blv_phantu/playlist.m3u8?wsSession=e017e27a2b7f9fb8e278c49d-177863365318780&wsIPSercert=311d4cdb56b894024064adbe25b14672&wsBindIP=2&wsserid=1168239032780249394"
+                          "url": "https://yvm80526.edgemaxcdn.org/live/hqtv_blv_phantu/playlist.m3u8"
                         },
                         {
-                          "id": "lnk-3697549960",
+                          "id": "lnk-b4417cf213",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
-                          "url": "https://yvm80526.edgemaxcdn.org/live/hqtv_blv_phantu/playlist.m3u8"
+                          "url": "https://tfvu3gr3dgmtugrzdgpbqgrhdomm3q3suocbige5nh3mrc71s4amacp1gh.100ycdn.com/yvm80526.edgemaxcdn.org/live/hqtv_blv_phantu/playlist.m3u8?wsSession=e017e27a2b7f9fb8e278c49d-177863425218062&wsIPSercert=fc4acc60e94b8aeff93609b084b272d2&wsBindIP=2&wsserid=1168239032780249394"
                         }
                       ]
                     }
@@ -132,7 +90,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-f9fdc55a7c9c.webp?v=1778633674",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-f9fdc55a7c9c.webp?v=1778634262",
             "width": 1600,
             "height": 1200
           },
@@ -174,7 +132,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-e28de9f2f935.webp?v=1778633675",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-e28de9f2f935.webp?v=1778634263",
             "width": 1600,
             "height": 1200
           },
@@ -216,7 +174,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-8f3a83e870fd.webp?v=1778633676",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-8f3a83e870fd.webp?v=1778634264",
             "width": 1600,
             "height": 1200
           },
@@ -258,7 +216,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-2082639de6b1.webp?v=1778633679",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-2082639de6b1.webp?v=1778634265",
             "width": 1600,
             "height": 1200
           },
@@ -300,7 +258,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-cc7aaa084988.webp?v=1778633677",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-cc7aaa084988.webp?v=1778634266",
             "width": 1600,
             "height": 1200
           },
@@ -342,7 +300,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-c5a2db43a6fa.webp?v=1778633678",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-c5a2db43a6fa.webp?v=1778634267",
             "width": 1600,
             "height": 1200
           },
@@ -375,6 +333,48 @@
           ]
         },
         {
+          "id": "kaytee-78b41abf957e",
+          "name": "⚽ Ulsan Hyundai FC vs Jeju United FC | 17:30",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-78b41abf957e.webp?v=1778634267",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-78b41abf957e",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-78b41abf957e",
+                  "name": "Ulsan Hyundai FC vs Jeju United FC",
+                  "streams": [
+                    {
+                      "id": "kaytee-78b41abf957e",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
           "id": "kaytee-f2eab0dc0c0a",
           "name": "⚽ Zhejiang Guangsha vs Shanxi Zhongyu | 18:35",
           "type": "single",
@@ -384,7 +384,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-f2eab0dc0c0a.webp?v=1778633679",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-f2eab0dc0c0a.webp?v=1778634265",
             "width": 1600,
             "height": 1200
           },
