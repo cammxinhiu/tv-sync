@@ -24,8 +24,8 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "kaytee-94e79b7e44e9",
-          "name": "⚽ Tay Vợt Số 1 vs Tay Vợt Số 2 | 09:50",
+          "id": "kaytee-8defdb0b80a7",
+          "name": "⚽ Tay Vợt Số 1 vs Tay Vợt Số 2 | 13:30",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -33,44 +33,44 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-94e79b7e44e9.webp?v=1778655309",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-8defdb0b80a7.webp?v=1778655877",
             "width": 1600,
             "height": 1200
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
             {
-              "id": "kaytee-94e79b7e44e9",
+              "id": "kaytee-8defdb0b80a7",
               "name": "Hội Quán",
               "contents": [
                 {
-                  "id": "kaytee-94e79b7e44e9",
+                  "id": "kaytee-8defdb0b80a7",
                   "name": "Tay Vợt Số 1 vs Tay Vợt Số 2",
                   "streams": [
                     {
-                      "id": "kaytee-94e79b7e44e9",
+                      "id": "kaytee-8defdb0b80a7",
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-3697549960",
+                          "id": "lnk-1caf9b5dab",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://yvm80526.edgemaxcdn.org/live/hqtv_blv_phantu/playlist.m3u8"
+                          "url": "https://tfvu3gr3dgmtugrzdgpbqgrhdomm3q3suocbige5nh3mrc71s4amacp1gh.100ycdn.com/yvm80526.edgemaxcdn.org/live/hqtv_blv_phanma/playlist.m3u8?wsSession=7d3b46c0aba07fb167fd728c-177865585690828&wsIPSercert=fc4acc60e94b8aeff93609b084b272d2&wsBindIP=2&wsserid=1168239032757180434"
                         },
                         {
-                          "id": "lnk-8f5c5076ad",
+                          "id": "lnk-120015cd30",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
-                          "url": "https://tfvu3gr4nhct1gwzdepjqgr5u1mm3q3suocbige5nh3mrc71s4amacp1gh.100ycdn.com/yvm80526.edgemaxcdn.org/live/hqtv_blv_phantu/playlist.m3u8?wsSession=68b50ac810dc563d2756a4df-177865527029285&wsIPSercert=311d4cdb56b894024064adbe25b14672&wsBindIP=2&wsserid=1168271909128713172"
+                          "url": "https://yvm80526.edgemaxcdn.org/live/hqtv_blv_phanma/playlist.m3u8"
                         }
                       ]
                     }
@@ -81,8 +81,8 @@
           ]
         },
         {
-          "id": "kaytee-f9fdc55a7c9c",
-          "name": "⚽ Tay cơ 1 vs Tay cơ 2 | 10:00",
+          "id": "kaytee-91c3086a4e13",
+          "name": "⚽ Tay cơ 1 vs Tay cơ 2 | 14:00",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -90,31 +90,46 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-f9fdc55a7c9c.webp?v=1778655319",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-91c3086a4e13.webp?v=1778655878",
             "width": 1600,
             "height": 1200
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
             {
-              "id": "kaytee-f9fdc55a7c9c",
+              "id": "kaytee-91c3086a4e13",
               "name": "Hội Quán",
               "contents": [
                 {
-                  "id": "kaytee-f9fdc55a7c9c",
+                  "id": "kaytee-91c3086a4e13",
                   "name": "Tay cơ 1 vs Tay cơ 2",
                   "streams": [
                     {
-                      "id": "kaytee-f9fdc55a7c9c",
+                      "id": "kaytee-91c3086a4e13",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-22be9a0153",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://yvm80526.edgemaxcdn.org/live/hqtv_blv_phanliem/playlist.m3u8"
+                        },
+                        {
+                          "id": "lnk-247b9d6357",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://tfvu3gr3dgmtugrzdgpbqgrhdomm3q3suocbige5nh3mrc71s4amacp1gh.100ycdn.com/yvm80526.edgemaxcdn.org/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=f0a676f6dae09fc1c971720f-177865585690143&wsIPSercert=311d4cdb56b894024064adbe25b14672&wsBindIP=2&wsserid=1168239032787589538"
+                        }
+                      ]
                     }
                   ]
                 }
@@ -132,7 +147,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-e28de9f2f935.webp?v=1778655320",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-e28de9f2f935.webp?v=1778655879",
             "width": 1600,
             "height": 1200
           },
@@ -174,7 +189,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-8f3a83e870fd.webp?v=1778655321",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-8f3a83e870fd.webp?v=1778655880",
             "width": 1600,
             "height": 1200
           },
@@ -216,7 +231,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-2082639de6b1.webp?v=1778655322",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-2082639de6b1.webp?v=1778655883",
             "width": 1600,
             "height": 1200
           },
@@ -258,7 +273,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-cc7aaa084988.webp?v=1778655322",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-cc7aaa084988.webp?v=1778655881",
             "width": 1600,
             "height": 1200
           },
@@ -300,7 +315,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-c5a2db43a6fa.webp?v=1778655325",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-c5a2db43a6fa.webp?v=1778655882",
             "width": 1600,
             "height": 1200
           },
@@ -342,7 +357,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-f2eab0dc0c0a.webp?v=1778655327",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-f2eab0dc0c0a.webp?v=1778655884",
             "width": 1600,
             "height": 1200
           },
@@ -384,7 +399,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-fd45a4f08d39.webp?v=1778655326",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-fd45a4f08d39.webp?v=1778655882",
             "width": 1600,
             "height": 1200
           },
