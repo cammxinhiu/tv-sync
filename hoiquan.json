@@ -24,63 +24,6 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "kaytee-55d6e5fe345c",
-          "name": "⚽ FC Cincinnati vs Inter Miami | 06:30",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-55d6e5fe345c.webp?v=1778723080",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-55d6e5fe345c",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-55d6e5fe345c",
-                  "name": "FC Cincinnati vs Inter Miami",
-                  "streams": [
-                    {
-                      "id": "kaytee-55d6e5fe345c",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1879fe2877",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfvv3gr3dgmtugrzdgpbqgrhdommeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=f0a676f6dae09fc1c971720f-177872305674366&wsIPSercert=311d4cdb56b894024064adbe25b14672&wsBindIP=2&wsserid=1168239032787589538"
-                        },
-                        {
-                          "id": "lnk-c057a6c8ab",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "kaytee-a7a9cb850050",
           "name": "⚽ Detroit Pistons vs Cleveland Cavaliers | 07:00",
           "type": "single",
@@ -90,7 +33,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-a7a9cb850050.webp?v=1778723081",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-a7a9cb850050.webp?v=1778723674",
             "width": 1600,
             "height": 1200
           },
@@ -116,18 +59,18 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-6024bb46f8",
+                          "id": "lnk-f59d8dd8ae",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanhalinh/playlist.m3u8"
+                          "url": "https://tfvv3gr3dgmtugrzdgpbqgrhdommeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanhalinh/playlist.m3u8?wsSession=fea8abdd187ccef6390cf85e-177872365267156&wsIPSercert=fc4acc60e94b8aeff93609b084b272d2&wsBindIP=2&wsserid=1168239032760326218"
                         },
                         {
-                          "id": "lnk-efe763ddd0",
+                          "id": "lnk-6024bb46f8",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
-                          "url": "https://tfvv3gr3dgmtugrzdgpbqgrhdommeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanhalinh/playlist.m3u8?wsSession=fea8abdd187ccef6390cf85e-177872305674238&wsIPSercert=311d4cdb56b894024064adbe25b14672&wsBindIP=2&wsserid=1168239032760326218"
+                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanhalinh/playlist.m3u8"
                         }
                       ]
                     }
@@ -147,7 +90,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-e15fd699d7bc.webp?v=1778723082",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-e15fd699d7bc.webp?v=1778723675",
             "width": 1600,
             "height": 1200
           },
@@ -173,18 +116,18 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-2e16848b67",
+                          "id": "lnk-21a3ca865c",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfvv3gr4nhct1gwzdrcbqgrhdqmm3q3suocbige5nh3mrc71s4amacp1gh.100ycdn.com/yvm80526.edgemaxcdn.org/live/hqtv_blv_phananh/playlist.m3u8?wsSession=c96e200ec396e4e90770201d-177872305691740&wsIPSercert=311d4cdb56b894024064adbe25b14672&wsBindIP=2&wsserid=1168239097241285722"
+                          "url": "https://yvm80526.edgemaxcdn.org/live/hqtv_blv_phananh/playlist.m3u8"
                         },
                         {
-                          "id": "lnk-21a3ca865c",
+                          "id": "lnk-1579498cef",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
-                          "url": "https://yvm80526.edgemaxcdn.org/live/hqtv_blv_phananh/playlist.m3u8"
+                          "url": "https://tfvv3gr4nhct1gwzdrcbqgrhdqmm3q3suocbige5nh3mrc71s4amacp1gh.100ycdn.com/yvm80526.edgemaxcdn.org/live/hqtv_blv_phananh/playlist.m3u8?wsSession=c96e200ec396e4e90770201d-177872365267628&wsIPSercert=311d4cdb56b894024064adbe25b14672&wsBindIP=2&wsserid=1168239097241285722"
                         }
                       ]
                     }
@@ -204,7 +147,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-10ca9e47d015.webp?v=1778723083",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-10ca9e47d015.webp?v=1778723684",
             "width": 1600,
             "height": 1200
           },
@@ -246,7 +189,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-46e989eba4d0.webp?v=1778723084",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-46e989eba4d0.webp?v=1778723685",
             "width": 1600,
             "height": 1200
           },
@@ -288,7 +231,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-5ad186439b21.webp?v=1778723088",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-5ad186439b21.webp?v=1778723686",
             "width": 1600,
             "height": 1200
           },
@@ -330,7 +273,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-bea787b3bc83.webp?v=1778723087",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-bea787b3bc83.webp?v=1778723691",
             "width": 1600,
             "height": 1200
           },
@@ -372,7 +315,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-367ded3fd10f.webp?v=1778723088",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-367ded3fd10f.webp?v=1778723690",
             "width": 1600,
             "height": 1200
           },
@@ -414,7 +357,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-3961058092b5.webp?v=1778723089",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-3961058092b5.webp?v=1778723692",
             "width": 1600,
             "height": 1200
           },
@@ -456,7 +399,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-a7e284c6d8e4.webp?v=1778723090",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-a7e284c6d8e4.webp?v=1778723693",
             "width": 1600,
             "height": 1200
           },
@@ -498,7 +441,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-31957e7b946f.webp?v=1778723084",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-31957e7b946f.webp?v=1778723687",
             "width": 1600,
             "height": 1200
           },
@@ -540,7 +483,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-a0035c5315d6.webp?v=1778723085",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-a0035c5315d6.webp?v=1778723688",
             "width": 1600,
             "height": 1200
           },
@@ -582,7 +525,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-6ef382c0a463.webp?v=1778723086",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-6ef382c0a463.webp?v=1778723688",
             "width": 1600,
             "height": 1200
           },
@@ -605,6 +548,48 @@
                   "streams": [
                     {
                       "id": "kaytee-6ef382c0a463",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-9c7a8e343c8d",
+          "name": "⚽ Valencia vs Rayo Vallecano | 00:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-9c7a8e343c8d.webp?v=1778723689",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-9c7a8e343c8d",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-9c7a8e343c8d",
+                  "name": "Valencia vs Rayo Vallecano",
+                  "streams": [
+                    {
+                      "id": "kaytee-9c7a8e343c8d",
                       "name": "F",
                       "stream_links": []
                     }
