@@ -24,63 +24,6 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "kaytee-b76fe3cfcbf0",
-          "name": "⚽ Girona vs Real Sociedad | 01:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-b76fe3cfcbf0.webp?v=1778788471",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-b76fe3cfcbf0",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-b76fe3cfcbf0",
-                  "name": "Girona vs Real Sociedad",
-                  "streams": [
-                    {
-                      "id": "kaytee-b76fe3cfcbf0",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-f134b76d55",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfvv3gr4nhct1gwzdrcbqgrhdqmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanhalinh/playlist.m3u8?wsSession=9f200e9fee5887df427c77bb-177878845382846&wsIPSercert=fc4acc60e94b8aeff93609b084b272d2&wsBindIP=2&wsserid=1168239097219265334"
-                        },
-                        {
-                          "id": "lnk-6024bb46f8",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanhalinh/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "kaytee-8c764040d3b1",
           "name": "⚽ Real Madrid vs Oviedo | 02:30",
           "type": "single",
@@ -90,7 +33,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-8c764040d3b1.webp?v=1778788470",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-8c764040d3b1.webp?v=1778789065",
             "width": 1600,
             "height": 1200
           },
@@ -116,11 +59,11 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-52cd6aa715",
+                          "id": "lnk-83b3968a4a",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfvv3gr4nhct1gwzdrcbqgrhdqmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=9f200e9fee5887df427c77bb-177878845382834&wsIPSercert=fc4acc60e94b8aeff93609b084b272d2&wsBindIP=2&wsserid=1168239097219265334"
+                          "url": "https://tfvv3gr4nhct1gwzdrcbqgrhdqmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=9f200e9fee5887df427c77bb-177878905370354&wsIPSercert=fc4acc60e94b8aeff93609b084b272d2&wsBindIP=2&wsserid=1168239097219265334"
                         },
                         {
                           "id": "lnk-21b1651418",
@@ -130,18 +73,18 @@
                           "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8"
                         },
                         {
-                          "id": "lnk-c057a6c8ab",
+                          "id": "lnk-31b814fed8",
                           "name": "Link 3",
                           "type": "hls",
                           "default": false,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8"
+                          "url": "https://tfvv3gr4nhct1gwzdrcbqgrhdqmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=e5cf23cfc6852089a4b9be17-177878905370337&wsIPSercert=fc4acc60e94b8aeff93609b084b272d2&wsBindIP=2&wsserid=1168239097216119550"
                         },
                         {
-                          "id": "lnk-44a90be603",
+                          "id": "lnk-c057a6c8ab",
                           "name": "Link 4",
                           "type": "hls",
                           "default": false,
-                          "url": "https://tfvv3gr4nhct1gwzdrcbqgrhdqmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=e5cf23cfc6852089a4b9be17-177878845382623&wsIPSercert=fc4acc60e94b8aeff93609b084b272d2&wsBindIP=2&wsserid=1168239097216119550"
+                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8"
                         }
                       ]
                     }
@@ -152,8 +95,8 @@
           ]
         },
         {
-          "id": "kaytee-b63176e8cf6e",
-          "name": "⚽ Iga Swiatek vs Elina Svitolina | 02:30",
+          "id": "kaytee-b4b169158dcb",
+          "name": "⚽ Iga Swiatek vs Elina Svitolina | 03:00",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -161,7 +104,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-b63176e8cf6e.webp?v=1778788473",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-b4b169158dcb.webp?v=1778789068",
             "width": 1600,
             "height": 1200
           },
@@ -175,30 +118,30 @@
           ],
           "sources": [
             {
-              "id": "kaytee-b63176e8cf6e",
+              "id": "kaytee-b4b169158dcb",
               "name": "Hội Quán",
               "contents": [
                 {
-                  "id": "kaytee-b63176e8cf6e",
+                  "id": "kaytee-b4b169158dcb",
                   "name": "Iga Swiatek vs Elina Svitolina",
                   "streams": [
                     {
-                      "id": "kaytee-b63176e8cf6e",
+                      "id": "kaytee-b4b169158dcb",
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-8272dee604",
+                          "id": "lnk-3697549960",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfvv3gr3dgmtugrzdgpbqgrhdomm3q3suocbige5nh3mrc71s4amacp1gh.100ycdn.com/yvm80526.edgemaxcdn.org/live/hqtv_blv_phantu/playlist.m3u8?wsSession=e017e27a2b7f9fb8e278c49d-177878846066150&wsIPSercert=fc4acc60e94b8aeff93609b084b272d2&wsBindIP=2&wsserid=1168239032780249394"
+                          "url": "https://yvm80526.edgemaxcdn.org/live/hqtv_blv_phantu/playlist.m3u8"
                         },
                         {
-                          "id": "lnk-3697549960",
+                          "id": "lnk-d5cf981413",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
-                          "url": "https://yvm80526.edgemaxcdn.org/live/hqtv_blv_phantu/playlist.m3u8"
+                          "url": "https://tfvv3gr4nhct1gwzdrcbqgrhdqmm3q3suocbige5nh3mrc71s4amacp1gh.100ycdn.com/yvm80526.edgemaxcdn.org/live/hqtv_blv_phantu/playlist.m3u8?wsSession=9f200e9fee5887df427c77bb-177878906009323&wsIPSercert=fc4acc60e94b8aeff93609b084b272d2&wsBindIP=2&wsserid=1168239097219265334"
                         }
                       ]
                     }
@@ -218,7 +161,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-a745f962eaff.webp?v=1778788471",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-a745f962eaff.webp?v=1778789066",
             "width": 1600,
             "height": 1200
           },
@@ -260,7 +203,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-7a7b7d80d425.webp?v=1778788472",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-7a7b7d80d425.webp?v=1778789066",
             "width": 1600,
             "height": 1200
           },
@@ -293,6 +236,48 @@
           ]
         },
         {
+          "id": "kaytee-2893ac04e55f",
+          "name": "⚽ Semen Padang vs Persebaya Surabaya | 15:30",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-2893ac04e55f.webp?v=1778789067",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-2893ac04e55f",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-2893ac04e55f",
+                  "name": "Semen Padang vs Persebaya Surabaya",
+                  "streams": [
+                    {
+                      "id": "kaytee-2893ac04e55f",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
           "id": "kaytee-af1581c5425e",
           "name": "⚽ Shanghai vs Beijing | 18:35",
           "type": "single",
@@ -302,7 +287,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-af1581c5425e.webp?v=1778788474",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-af1581c5425e.webp?v=1778789069",
             "width": 1600,
             "height": 1200
           },
