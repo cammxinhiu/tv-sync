@@ -24,113 +24,6 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "kaytee-fc7460d62ccf",
-          "name": "⚽ SHANGHAI SIPG vs Hangzhou Greentown | 18:35",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-fc7460d62ccf.webp?v=1778852069",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-fc7460d62ccf",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-fc7460d62ccf",
-                  "name": "SHANGHAI SIPG vs Hangzhou Greentown",
-                  "streams": [
-                    {
-                      "id": "kaytee-fc7460d62ccf",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-6024bb46f8",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanhalinh/playlist.m3u8"
-                        },
-                        {
-                          "id": "lnk-fc42301c36",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://tfvw3gr3dgmtugrzdgpbqgrhdommeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanhalinh/playlist.m3u8?wsSession=fea8abdd187ccef6390cf85e-177885205512449&wsIPSercert=311d4cdb56b894024064adbe25b14672&wsBindIP=2&wsserid=1168239032760326218"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "kaytee-86cec1f6063b",
-          "name": "⚽ Tianjin Teda vs Chengdu Better City | 18:35",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-86cec1f6063b.webp?v=1778852078",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-86cec1f6063b",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-86cec1f6063b",
-                  "name": "Tianjin Teda vs Chengdu Better City",
-                  "streams": [
-                    {
-                      "id": "kaytee-86cec1f6063b",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-e1f049c34d",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfvw3gr3dgmtugrzdgpbqgrhdommeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phando/playlist.m3u8?wsSession=fea8abdd187ccef6390cf85e-177885205512433&wsIPSercert=311d4cdb56b894024064adbe25b14672&wsBindIP=2&wsserid=1168239032760326218"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "kaytee-d4bbc6bb5a24",
           "name": "⚽ Beijing Guoan vs Qingdao Jonoon | 19:00",
           "type": "single",
@@ -140,7 +33,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-d4bbc6bb5a24.webp?v=1778852079",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-d4bbc6bb5a24.webp?v=1778852669",
             "width": 1600,
             "height": 1200
           },
@@ -166,18 +59,75 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-c6a83e8c0c",
+                          "id": "lnk-bed6681f1c",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfvw3gr3dgmtugrzdgpbqgrhdommeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanchuot/playlist.m3u8?wsSession=7d3b46c0aba07fb167fd728c-177885205512489&wsIPSercert=311d4cdb56b894024064adbe25b14672&wsBindIP=2&wsserid=1168239032757180434"
+                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanchuot/playlist.m3u8"
                         },
                         {
-                          "id": "lnk-bed6681f1c",
+                          "id": "lnk-87c1c9da36",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
+                          "url": "https://tfvw3gr3dgmtugrzdgpbqgrhdommeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanchuot/playlist.m3u8?wsSession=7d3b46c0aba07fb167fd728c-177885265455185&wsIPSercert=311d4cdb56b894024064adbe25b14672&wsBindIP=2&wsserid=1168239032757180434"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-ca48765a8120",
+          "name": "⚽ Casper Ruud vs Luciano Darderi | 21:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-ca48765a8120.webp?v=1778852669",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-ca48765a8120",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-ca48765a8120",
+                  "name": "Casper Ruud vs Luciano Darderi",
+                  "streams": [
+                    {
+                      "id": "kaytee-ca48765a8120",
+                      "name": "F",
+                      "stream_links": [
+                        {
+                          "id": "lnk-bed6681f1c",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
                           "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanchuot/playlist.m3u8"
+                        },
+                        {
+                          "id": "lnk-03e9d2924f",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://tfvw3gr3dgmtugrzdgpbqgrhdommeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanchuot/playlist.m3u8?wsSession=7d3b46c0aba07fb167fd728c-177885265453880&wsIPSercert=311d4cdb56b894024064adbe25b14672&wsBindIP=2&wsserid=1168239032757180434"
                         }
                       ]
                     }
@@ -197,7 +147,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-3a5d88435a5d.webp?v=1778852080",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-3a5d88435a5d.webp?v=1778852670",
             "width": 1600,
             "height": 1200
           },
@@ -239,7 +189,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-5db57e1aa460.webp?v=1778852081",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-5db57e1aa460.webp?v=1778852671",
             "width": 1600,
             "height": 1200
           },
@@ -272,6 +222,90 @@
           ]
         },
         {
+          "id": "kaytee-264fa823f655",
+          "name": "⚽ Saudi Arabia U17 vs China PR U17 | 00:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-264fa823f655.webp?v=1778852672",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-264fa823f655",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-264fa823f655",
+                  "name": "Saudi Arabia U17 vs China PR U17",
+                  "streams": [
+                    {
+                      "id": "kaytee-264fa823f655",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-bb5b67a64c7f",
+          "name": "⚽ Aston Villa vs Liverpool | 02:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-bb5b67a64c7f.webp?v=1778852673",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-bb5b67a64c7f",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-bb5b67a64c7f",
+                  "name": "Aston Villa vs Liverpool",
+                  "streams": [
+                    {
+                      "id": "kaytee-bb5b67a64c7f",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
           "id": "kaytee-df9153ae8e1f",
           "name": "⚽ Cleveland Cavaliers vs Detroit Pistons | 06:00",
           "type": "single",
@@ -281,7 +315,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-df9153ae8e1f.webp?v=1778852084",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-df9153ae8e1f.webp?v=1778852677",
             "width": 1600,
             "height": 1200
           },
@@ -323,7 +357,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-147534492b0b.webp?v=1778852084",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-147534492b0b.webp?v=1778852677",
             "width": 1600,
             "height": 1200
           },
@@ -356,6 +390,48 @@
           ]
         },
         {
+          "id": "kaytee-5a9eb0aa6e5c",
+          "name": "⚽ Dương Quốc Hoàng vs Nguyễn Hoàng Minh Tài | 12:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-5a9eb0aa6e5c.webp?v=1778852674",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-5a9eb0aa6e5c",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-5a9eb0aa6e5c",
+                  "name": "Dương Quốc Hoàng vs Nguyễn Hoàng Minh Tài",
+                  "streams": [
+                    {
+                      "id": "kaytee-5a9eb0aa6e5c",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
           "id": "kaytee-a9a2fb7cc171",
           "name": "⚽ BRO vs T1 | 15:00",
           "type": "single",
@@ -365,7 +441,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-a9a2fb7cc171.webp?v=1778852082",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-a9a2fb7cc171.webp?v=1778852675",
             "width": 1600,
             "height": 1200
           },
@@ -407,7 +483,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-7d7a22513a5b.webp?v=1778852083",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-7d7a22513a5b.webp?v=1778852676",
             "width": 1600,
             "height": 1200
           },
@@ -430,48 +506,6 @@
                   "streams": [
                     {
                       "id": "kaytee-7d7a22513a5b",
-                      "name": "F",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "kaytee-a091df3eb349",
-          "name": "⚽ Casper Ruud vs Luciano Darderi | 20:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-a091df3eb349.webp?v=1778852085",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "⏳ Chưa live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#d54f1a"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-a091df3eb349",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-a091df3eb349",
-                  "name": "Casper Ruud vs Luciano Darderi",
-                  "streams": [
-                    {
-                      "id": "kaytee-a091df3eb349",
                       "name": "F",
                       "stream_links": []
                     }
