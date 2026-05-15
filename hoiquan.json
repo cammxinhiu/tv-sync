@@ -24,48 +24,6 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "kaytee-c7c43d3df93f",
-          "name": "⚽ Hội Quán TV | 14:54",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-c7c43d3df93f.webp?v=1778831791",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-c7c43d3df93f",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-c7c43d3df93f",
-                  "name": "Hội Quán TV",
-                  "streams": [
-                    {
-                      "id": "kaytee-c7c43d3df93f",
-                      "name": "F",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "kaytee-82c5f10041a7",
           "name": "⚽ Tay Vợt Số 1 vs Tay Vợt Số 2 | 15:00",
           "type": "single",
@@ -75,16 +33,16 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-82c5f10041a7.webp?v=1778831781",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-82c5f10041a7.webp?v=1778832289",
             "width": 1600,
             "height": 1200
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -99,7 +57,22 @@
                     {
                       "id": "kaytee-82c5f10041a7",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-98438c9797",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfvw3gr3dgmtugrzdgpbqgrhdommeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanto/playlist.m3u8?wsSession=7d3b46c0aba07fb167fd728c-177883225372566&wsIPSercert=fc4acc60e94b8aeff93609b084b272d2&wsBindIP=2&wsserid=1168239032757180434"
+                        },
+                        {
+                          "id": "lnk-8944736bd5",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanto/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
@@ -108,8 +81,8 @@
           ]
         },
         {
-          "id": "kaytee-0fd4ed6fdcee",
-          "name": "⚽ Dương Quốc Hoàng vs An Nhiệt | 16:00",
+          "id": "kaytee-f8e4d02117c2",
+          "name": "⚽ HLE vs DK | 15:00",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -117,7 +90,64 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-0fd4ed6fdcee.webp?v=1778831791",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-f8e4d02117c2.webp?v=1778832290",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-f8e4d02117c2",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-f8e4d02117c2",
+                  "name": "HLE vs DK",
+                  "streams": [
+                    {
+                      "id": "kaytee-f8e4d02117c2",
+                      "name": "F",
+                      "stream_links": [
+                        {
+                          "id": "lnk-9c38332d51",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfvw3gr3dgmtugrzdgpbqgrhdommeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=f0a676f6dae09fc1c971720f-177883225591758&wsIPSercert=fc4acc60e94b8aeff93609b084b272d2&wsBindIP=2&wsserid=1168239032787589538"
+                        },
+                        {
+                          "id": "lnk-793457802f",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-2893ac04e55f",
+          "name": "⚽ Semen Padang vs Persebaya Surabaya | 15:30",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-2893ac04e55f.webp?v=1778832291",
             "width": 1600,
             "height": 1200
           },
@@ -131,17 +161,32 @@
           ],
           "sources": [
             {
-              "id": "kaytee-0fd4ed6fdcee",
+              "id": "kaytee-2893ac04e55f",
               "name": "Hội Quán",
               "contents": [
                 {
-                  "id": "kaytee-0fd4ed6fdcee",
-                  "name": "Dương Quốc Hoàng vs An Nhiệt",
+                  "id": "kaytee-2893ac04e55f",
+                  "name": "Semen Padang vs Persebaya Surabaya",
                   "streams": [
                     {
-                      "id": "kaytee-0fd4ed6fdcee",
+                      "id": "kaytee-2893ac04e55f",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-e35b17367e",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfvw3gr3dgmtugrzdgpbqgrhdommeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phando/playlist.m3u8?wsSession=fea8abdd187ccef6390cf85e-177883225617960&wsIPSercert=fc4acc60e94b8aeff93609b084b272d2&wsBindIP=2&wsserid=1168239032760326218"
+                        },
+                        {
+                          "id": "lnk-fbdd2a5258",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phando/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
@@ -159,7 +204,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-342a1cc7f00d.webp?v=1778831794",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-342a1cc7f00d.webp?v=1778832292",
             "width": 1600,
             "height": 1200
           },
@@ -192,6 +237,90 @@
           ]
         },
         {
+          "id": "kaytee-0fd4ed6fdcee",
+          "name": "⚽ Dương Quốc Hoàng vs An Nhiệt | 16:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-0fd4ed6fdcee.webp?v=1778832295",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-0fd4ed6fdcee",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-0fd4ed6fdcee",
+                  "name": "Dương Quốc Hoàng vs An Nhiệt",
+                  "streams": [
+                    {
+                      "id": "kaytee-0fd4ed6fdcee",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-3e9f11e34acb",
+          "name": "⚽ Tay Vợt Số 1 vs Tay Vợt Số 2 | 16:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-3e9f11e34acb.webp?v=1778832297",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-3e9f11e34acb",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-3e9f11e34acb",
+                  "name": "Tay Vợt Số 1 vs Tay Vợt Số 2",
+                  "streams": [
+                    {
+                      "id": "kaytee-3e9f11e34acb",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
           "id": "kaytee-f6bda2579dd8",
           "name": "⚽ Adelaide United vs Auckland | 16:35",
           "type": "single",
@@ -201,7 +330,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-f6bda2579dd8.webp?v=1778831794",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-f6bda2579dd8.webp?v=1778832292",
             "width": 1600,
             "height": 1200
           },
@@ -234,6 +363,48 @@
           ]
         },
         {
+          "id": "kaytee-ef5fb07dfbc6",
+          "name": "⚽ BRO vs DNS | 17:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-ef5fb07dfbc6.webp?v=1778832296",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-ef5fb07dfbc6",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-ef5fb07dfbc6",
+                  "name": "BRO vs DNS",
+                  "streams": [
+                    {
+                      "id": "kaytee-ef5fb07dfbc6",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
           "id": "kaytee-b1a874faffd1",
           "name": "⚽ Ho Chi Minh vs Da Nang | 18:00",
           "type": "single",
@@ -243,7 +414,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-b1a874faffd1.webp?v=1778831795",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-b1a874faffd1.webp?v=1778832293",
             "width": 1600,
             "height": 1200
           },
@@ -285,7 +456,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-bab51ee72030.webp?v=1778831793",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-bab51ee72030.webp?v=1778832298",
             "width": 1600,
             "height": 1200
           },
@@ -327,7 +498,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-fc7460d62ccf.webp?v=1778831796",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-fc7460d62ccf.webp?v=1778832294",
             "width": 1600,
             "height": 1200
           },
@@ -369,7 +540,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-af1581c5425e.webp?v=1778831796",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-af1581c5425e.webp?v=1778832299",
             "width": 1600,
             "height": 1200
           },
@@ -411,7 +582,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-df9153ae8e1f.webp?v=1778831797",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-df9153ae8e1f.webp?v=1778832299",
             "width": 1600,
             "height": 1200
           },
@@ -453,7 +624,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-147534492b0b.webp?v=1778831798",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-147534492b0b.webp?v=1778832300",
             "width": 1600,
             "height": 1200
           },
@@ -495,7 +666,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-a9a2fb7cc171.webp?v=1778831792",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-a9a2fb7cc171.webp?v=1778832296",
             "width": 1600,
             "height": 1200
           },
@@ -518,90 +689,6 @@
                   "streams": [
                     {
                       "id": "kaytee-a9a2fb7cc171",
-                      "name": "F",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "kaytee-a091df3eb349",
-          "name": "⚽ Casper Ruud vs Luciano Darderi | 20:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-a091df3eb349.webp?v=1778831799",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "⏳ Chưa live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#d54f1a"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-a091df3eb349",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-a091df3eb349",
-                  "name": "Casper Ruud vs Luciano Darderi",
-                  "streams": [
-                    {
-                      "id": "kaytee-a091df3eb349",
-                      "name": "F",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "kaytee-5028c95d7464",
-          "name": "⚽ Jannik Sinner vs Daniil Medvedev | 00:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-5028c95d7464.webp?v=1778831799",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "⏳ Chưa live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#d54f1a"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-5028c95d7464",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-5028c95d7464",
-                  "name": "Jannik Sinner vs Daniil Medvedev",
-                  "streams": [
-                    {
-                      "id": "kaytee-5028c95d7464",
                       "name": "F",
                       "stream_links": []
                     }
