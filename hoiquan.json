@@ -24,120 +24,6 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "kaytee-fb07b6bc4567",
-          "name": "⚽ Bayern München vs 1. FC Köln | 20:30",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-fb07b6bc4567.webp?v=1778945688",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-fb07b6bc4567",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-fb07b6bc4567",
-                  "name": "Bayern München vs 1. FC Köln",
-                  "streams": [
-                    {
-                      "id": "kaytee-fb07b6bc4567",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-dd36f88ec4",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfvx3gr4nhct1gwzdrcbqgrhdqmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phando/playlist.m3u8?wsSession=d84597a87d248b6d5e1fe3d5-177894567584324&wsIPSercert=311d4cdb56b894024064adbe25b14672&wsBindIP=2&wsserid=1168239097231848478"
-                        },
-                        {
-                          "id": "lnk-fbdd2a5258",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phando/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "kaytee-05fcec6a6c81",
-          "name": "⚽ Eintracht Frankfurt vs VfB Stuttgart | 20:30",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-05fcec6a6c81.webp?v=1778945689",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-05fcec6a6c81",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-05fcec6a6c81",
-                  "name": "Eintracht Frankfurt vs VfB Stuttgart",
-                  "streams": [
-                    {
-                      "id": "kaytee-05fcec6a6c81",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-bed6681f1c",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanchuot/playlist.m3u8"
-                        },
-                        {
-                          "id": "lnk-4657ef0138",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://tfvx3gr4nhct1gwzdrcbqgrhdqmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanchuot/playlist.m3u8?wsSession=d84597a87d248b6d5e1fe3d5-177894567764125&wsIPSercert=311d4cdb56b894024064adbe25b14672&wsBindIP=2&wsserid=1168239097231848478"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "kaytee-22831eedc9e8",
           "name": "⚽ Chelsea vs Manchester City | 21:00",
           "type": "single",
@@ -147,7 +33,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-22831eedc9e8.webp?v=1778945687",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-22831eedc9e8.webp?v=1778946267",
             "width": 1600,
             "height": 1200
           },
@@ -173,46 +59,46 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-389f0c6e1c",
+                          "id": "lnk-180e2e89ec",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfvx3gr4nhct1gwzdrcbqgrhdqmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_thienloi/playlist.m3u8?wsSession=8ec2a074f5e81bdc89241b67-177894567039135&wsIPSercert=311d4cdb56b894024064adbe25b14672&wsBindIP=2&wsserid=1168239097228702694"
-                        },
-                        {
-                          "id": "lnk-180e2e89ec",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
                           "url": "https://hqlive.yarncdn.live/live/hqtv_blv_thienloi/playlist.m3u8"
                         },
                         {
-                          "id": "lnk-002544acd6",
-                          "name": "Link 3",
+                          "id": "lnk-c0865aea8b",
+                          "name": "Link 2",
                           "type": "hls",
                           "default": false,
-                          "url": "https://tfvx3gr4nhct1gwzdrcbqgrhdqmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=8ec2a074f5e81bdc89241b67-177894567039171&wsIPSercert=311d4cdb56b894024064adbe25b14672&wsBindIP=2&wsserid=1168239097228702694"
+                          "url": "https://tfvx3gr4nhct1gwzdrcbqgrhdqmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_thienloi/playlist.m3u8?wsSession=9f200e9fee5887df427c77bb-177894625431891&wsIPSercert=fc4acc60e94b8aeff93609b084b272d2&wsBindIP=2&wsserid=1168239097219265334"
                         },
                         {
                           "id": "lnk-21b1651418",
-                          "name": "Link 4",
+                          "name": "Link 3",
                           "type": "hls",
                           "default": false,
                           "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8"
                         },
                         {
-                          "id": "lnk-3990941f08",
-                          "name": "Link 5",
+                          "id": "lnk-e9f6b80994",
+                          "name": "Link 4",
                           "type": "hls",
                           "default": false,
-                          "url": "https://tfvx3gr4nhct1gwzdrcbqgrhdqmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=8ec2a074f5e81bdc89241b67-177894567039165&wsIPSercert=311d4cdb56b894024064adbe25b14672&wsBindIP=2&wsserid=1168239097228702694"
+                          "url": "https://tfvx3gr4nhct1gwzdrcbqgrhdqmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=9f200e9fee5887df427c77bb-177894625431825&wsIPSercert=fc4acc60e94b8aeff93609b084b272d2&wsBindIP=2&wsserid=1168239097219265334"
                         },
                         {
                           "id": "lnk-c057a6c8ab",
-                          "name": "Link 6",
+                          "name": "Link 5",
                           "type": "hls",
                           "default": false,
                           "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8"
+                        },
+                        {
+                          "id": "lnk-63c80cb65b",
+                          "name": "Link 6",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://tfvx3gr4nhct1gwzdrcbqgrhdqmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=9f200e9fee5887df427c77bb-177894625431816&wsIPSercert=fc4acc60e94b8aeff93609b084b272d2&wsBindIP=2&wsserid=1168239097219265334"
                         }
                       ]
                     }
@@ -232,7 +118,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-1a6544b18dc0.webp?v=1778945690",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-1a6544b18dc0.webp?v=1778946270",
             "width": 1600,
             "height": 1200
           },
@@ -258,11 +144,11 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-4e9dd38643",
+                          "id": "lnk-3b0acbb17b",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfvx3gr3dgmtugrzdgpbqgrhdomm3q3suocbige5nh3mrc71s4amacp1gh.100ycdn.com/yvm80526.edgemaxcdn.org/live/hqtv_blv_phantu/playlist.m3u8?wsSession=60d20a8f9cd2f3234dc0b694-177894567787343&wsIPSercert=311d4cdb56b894024064adbe25b14672&wsBindIP=2&wsserid=1168239032784443754"
+                          "url": "https://tfvx3gr3dgmtugrzdgpbqgrhdomm3q3suocbige5nh3mrc71s4amacp1gh.100ycdn.com/yvm80526.edgemaxcdn.org/live/hqtv_blv_phantu/playlist.m3u8?wsSession=60d20a8f9cd2f3234dc0b694-177894626159901&wsIPSercert=311d4cdb56b894024064adbe25b14672&wsBindIP=2&wsserid=1168239032784443754"
                         },
                         {
                           "id": "lnk-3697549960",
@@ -280,6 +166,105 @@
           ]
         },
         {
+          "id": "kaytee-4fe2ab626026",
+          "name": "⚽ Al-Hilal Saudi FC vs NEOM | 23:05",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-4fe2ab626026.webp?v=1778946268",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-4fe2ab626026",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-4fe2ab626026",
+                  "name": "Al-Hilal Saudi FC vs NEOM",
+                  "streams": [
+                    {
+                      "id": "kaytee-4fe2ab626026",
+                      "name": "F",
+                      "stream_links": [
+                        {
+                          "id": "lnk-6024bb46f8",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanhalinh/playlist.m3u8"
+                        },
+                        {
+                          "id": "lnk-d32f1b1bad",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://tfvx3gr4nhct1gwzdrcbqgrhdqmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanhalinh/playlist.m3u8?wsSession=c9b9928a1c8c9371aa19b85a-177894626094551&wsIPSercert=fc4acc60e94b8aeff93609b084b272d2&wsBindIP=2&wsserid=1168239097225556910"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-7228c0298612",
+          "name": "⚽ Vietnam U17 vs Australia U17 | 00:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-7228c0298612.webp?v=1778946269",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-7228c0298612",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-7228c0298612",
+                  "name": "Vietnam U17 vs Australia U17",
+                  "streams": [
+                    {
+                      "id": "kaytee-7228c0298612",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
           "id": "kaytee-a24335c2af4a",
           "name": "⚽ Tay Vợt Số 1 vs Tay Vợt Số 2 | 12:00",
           "type": "single",
@@ -289,7 +274,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-a24335c2af4a.webp?v=1778945691",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-a24335c2af4a.webp?v=1778946271",
             "width": 1600,
             "height": 1200
           },
@@ -331,7 +316,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-82c5f10041a7.webp?v=1778945691",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-82c5f10041a7.webp?v=1778946272",
             "width": 1600,
             "height": 1200
           },
