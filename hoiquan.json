@@ -24,291 +24,6 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "kaytee-13cdd798b5aa",
-          "name": "⚽ Brentford vs Crystal Palace | 21:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-13cdd798b5aa.webp?v=1779033267",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-13cdd798b5aa",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-13cdd798b5aa",
-                  "name": "Brentford vs Crystal Palace",
-                  "streams": [
-                    {
-                      "id": "kaytee-13cdd798b5aa",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-7270133c25",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfvy3gr4nhct1gwzdepjqgrhdommeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=356889280c26ef2300f67449-177903325567598&wsIPSercert=fc4acc60e94b8aeff93609b084b272d2&wsBindIP=2&wsserid=1168276527555238596"
-                        },
-                        {
-                          "id": "lnk-c057a6c8ab",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "kaytee-7aa591d92c46",
-          "name": "⚽ Everton vs Sunderland | 21:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-7aa591d92c46.webp?v=1779033268",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-7aa591d92c46",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-7aa591d92c46",
-                  "name": "Everton vs Sunderland",
-                  "streams": [
-                    {
-                      "id": "kaytee-7aa591d92c46",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-aa2931e4e3",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfvy3gr4nhct1gwzdepjqgrhdommeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phando/playlist.m3u8?wsSession=356889280c26ef2300f67449-177903325567589&wsIPSercert=fc4acc60e94b8aeff93609b084b272d2&wsBindIP=2&wsserid=1168276527555238596"
-                        },
-                        {
-                          "id": "lnk-fbdd2a5258",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phando/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "kaytee-abcc869a9d2f",
-          "name": "⚽ Leeds vs Brighton | 21:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-abcc869a9d2f.webp?v=1779033269",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-abcc869a9d2f",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-abcc869a9d2f",
-                  "name": "Leeds vs Brighton",
-                  "streams": [
-                    {
-                      "id": "kaytee-abcc869a9d2f",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-a9a6dff45d",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfvy3gr4nhct1gwzdepjqgrhdommeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=356889280c26ef2300f67449-177903325567559&wsIPSercert=fc4acc60e94b8aeff93609b084b272d2&wsBindIP=2&wsserid=1168276527555238596"
-                        },
-                        {
-                          "id": "lnk-21b1651418",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "kaytee-f386f0e47ce9",
-          "name": "⚽ Wolves vs Fulham | 21:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-f386f0e47ce9.webp?v=1779033270",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-f386f0e47ce9",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-f386f0e47ce9",
-                  "name": "Wolves vs Fulham",
-                  "streams": [
-                    {
-                      "id": "kaytee-f386f0e47ce9",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-6024bb46f8",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanhalinh/playlist.m3u8"
-                        },
-                        {
-                          "id": "lnk-2a004fa91f",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://tfvy3gr4nhct1gwzdepjqgrhdommeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanhalinh/playlist.m3u8?wsSession=356889280c26ef2300f67449-177903326141436&wsIPSercert=fc4acc60e94b8aeff93609b084b272d2&wsBindIP=2&wsserid=1168276527555238596"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "kaytee-965a26fb6f80",
-          "name": "⚽ Santos vs Coritiba | 21:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-965a26fb6f80.webp?v=1779033270",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-965a26fb6f80",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-965a26fb6f80",
-                  "name": "Santos vs Coritiba",
-                  "streams": [
-                    {
-                      "id": "kaytee-965a26fb6f80",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-793457802f",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8"
-                        },
-                        {
-                          "id": "lnk-e095cc374b",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://tfvy3gr4nhct1gwzdepjqgrhdommeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=263292a6b44546632ecc2d47-177903326175218&wsIPSercert=fc4acc60e94b8aeff93609b084b272d2&wsBindIP=2&wsserid=1168293536444441315"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "kaytee-d563e8644a5f",
           "name": "⚽ Jannik Sinner vs Casper Ruud | 22:00",
           "type": "single",
@@ -318,7 +33,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-d563e8644a5f.webp?v=1779033271",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-d563e8644a5f.webp?v=1779034465",
             "width": 1600,
             "height": 1200
           },
@@ -344,25 +59,25 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-1a9390ebe5",
+                          "id": "lnk-bed6681f1c",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfvy3gr4nhct1gwzdepjqgrhdommeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanchuot/playlist.m3u8?wsSession=356889280c26ef2300f67449-177903326163594&wsIPSercert=fc4acc60e94b8aeff93609b084b272d2&wsBindIP=2&wsserid=1168276527555238596"
-                        },
-                        {
-                          "id": "lnk-bed6681f1c",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
                           "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanchuot/playlist.m3u8"
                         },
                         {
-                          "id": "lnk-7239e58406",
+                          "id": "lnk-256ea115c8",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://tfvy3gr4nhct1gwzdepjqgr5u1mmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanchuot/playlist.m3u8?wsSession=5b783a478b37be93476be6a5-177903445244907&wsIPSercert=fc4acc60e94b8aeff93609b084b272d2&wsBindIP=2&wsserid=1168271909128713172"
+                        },
+                        {
+                          "id": "lnk-c6448db179",
                           "name": "Link 3",
                           "type": "hls",
                           "default": false,
-                          "url": "https://tfvy3gr4nhct1gwzdepjqgrhdomm3q3suocbige5nh3mrc71s4amacp1gh.100ycdn.com/yvm80526.edgemaxcdn.org/live/hqtv_blv_phantu/playlist.m3u8?wsSession=356889280c26ef2300f67449-177903326602209&wsIPSercert=fc4acc60e94b8aeff93609b084b272d2&wsBindIP=2&wsserid=1168276527555238596"
+                          "url": "https://tfvy3gr4nhct1gwzdepjqgr5u1mm3q3suocbige5nh3mrc71s4amacp1gh.100ycdn.com/yvm80526.edgemaxcdn.org/live/hqtv_blv_phantu/playlist.m3u8?wsSession=415f1590d43482d9081dd5f6-177903445244777&wsIPSercert=311d4cdb56b894024064adbe25b14672&wsBindIP=2&wsserid=1168271909244056829"
                         },
                         {
                           "id": "lnk-3697549960",
@@ -380,6 +95,246 @@
           ]
         },
         {
+          "id": "kaytee-3ce10e3e6009",
+          "name": "⚽ Atalanta vs Bologna | 23:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-3ce10e3e6009.webp?v=1779034466",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-3ce10e3e6009",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-3ce10e3e6009",
+                  "name": "Atalanta vs Bologna",
+                  "streams": [
+                    {
+                      "id": "kaytee-3ce10e3e6009",
+                      "name": "F",
+                      "stream_links": [
+                        {
+                          "id": "lnk-8791a48771",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfvy3gr4nhct1gwzdepjqgr5u1mmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=5b783a478b37be93476be6a5-177903445269562&wsIPSercert=fc4acc60e94b8aeff93609b084b272d2&wsBindIP=2&wsserid=1168271909128713172"
+                        },
+                        {
+                          "id": "lnk-793457802f",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-f4dcbfffcc25",
+          "name": "⚽ Newcastle vs West Ham | 23:30",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-f4dcbfffcc25.webp?v=1779034467",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-f4dcbfffcc25",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-f4dcbfffcc25",
+                  "name": "Newcastle vs West Ham",
+                  "streams": [
+                    {
+                      "id": "kaytee-f4dcbfffcc25",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-055329ffff44",
+          "name": "⚽ Atletico Madrid vs Girona | 00:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-055329ffff44.webp?v=1779034467",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-055329ffff44",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-055329ffff44",
+                  "name": "Atletico Madrid vs Girona",
+                  "streams": [
+                    {
+                      "id": "kaytee-055329ffff44",
+                      "name": "F",
+                      "stream_links": [
+                        {
+                          "id": "lnk-77cc1de5b5",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfvy3gr4nhct1gwzdepjqgr5u1mmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phando/playlist.m3u8?wsSession=d55828481e68275435a67591-177903445695133&wsIPSercert=fc4acc60e94b8aeff93609b084b272d2&wsBindIP=2&wsserid=1168271909252445665"
+                        },
+                        {
+                          "id": "lnk-fbdd2a5258",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phando/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-777de075cfa2",
+          "name": "⚽ Athletic Club vs Celta Vigo | 00:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-777de075cfa2.webp?v=1779034468",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-777de075cfa2",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-777de075cfa2",
+                  "name": "Athletic Club vs Celta Vigo",
+                  "streams": [
+                    {
+                      "id": "kaytee-777de075cfa2",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-1188d737994b",
+          "name": "⚽ Rayo Vallecano vs Villarreal | 00:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-1188d737994b.webp?v=1779034469",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-1188d737994b",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-1188d737994b",
+                  "name": "Rayo Vallecano vs Villarreal",
+                  "streams": [
+                    {
+                      "id": "kaytee-1188d737994b",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
           "id": "kaytee-a7a9cb850050",
           "name": "⚽ Detroit Pistons vs Cleveland Cavaliers | 07:00",
           "type": "single",
@@ -389,7 +344,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-a7a9cb850050.webp?v=1779033272",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-a7a9cb850050.webp?v=1779034470",
             "width": 1600,
             "height": 1200
           },
@@ -431,7 +386,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-c3b6101ae611.webp?v=1779033273",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-c3b6101ae611.webp?v=1779034471",
             "width": 1600,
             "height": 1200
           },
