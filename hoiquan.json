@@ -24,63 +24,6 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "kaytee-b42be4462125",
-          "name": "⚽ Jeonbuk Motors vs Gimcheon Sangmu FC | 14:40",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-b42be4462125.webp?v=1779010484",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-b42be4462125",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-b42be4462125",
-                  "name": "Jeonbuk Motors vs Gimcheon Sangmu FC",
-                  "streams": [
-                    {
-                      "id": "kaytee-b42be4462125",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-21b1651418",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8"
-                        },
-                        {
-                          "id": "lnk-7a3713392b",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://tfvy3gr4nhct1gwzdepjqgr5u1mmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=43c54a31bdafab5fcccf4a3e-177901046947732&wsIPSercert=fc4acc60e94b8aeff93609b084b272d2&wsBindIP=2&wsserid=1168271909250348456"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "kaytee-82c5f10041a7",
           "name": "⚽ Tay Vợt Số 1 vs Tay Vợt Số 2 | 15:00",
           "type": "single",
@@ -90,7 +33,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-82c5f10041a7.webp?v=1779010484",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-82c5f10041a7.webp?v=1779011068",
             "width": 1600,
             "height": 1200
           },
@@ -116,18 +59,132 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-8944736bd5",
+                          "id": "lnk-19cca09c4c",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanto/playlist.m3u8"
+                          "url": "https://tfvy3gr4nhct1gwzdepjqgrhdommeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanto/playlist.m3u8?wsSession=263292a6b44546632ecc2d47-177901105349148&wsIPSercert=311d4cdb56b894024064adbe25b14672&wsBindIP=2&wsserid=1168293536444441315"
                         },
                         {
-                          "id": "lnk-4d75228a29",
+                          "id": "lnk-8944736bd5",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
-                          "url": "https://tfvy3gr4nhct1gwzdepjqgr5u1mmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanto/playlist.m3u8?wsSession=5b783a478b37be93476be6a5-177901046941252&wsIPSercert=fc4acc60e94b8aeff93609b084b272d2&wsBindIP=2&wsserid=1168271909128713172"
+                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanto/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-26d0f141dcd8",
+          "name": "⚽ Hoang Anh Gia Lai vs Hồng Lĩnh Hà Tĩnh | 17:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-26d0f141dcd8.webp?v=1779011069",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-26d0f141dcd8",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-26d0f141dcd8",
+                  "name": "Hoang Anh Gia Lai vs Hồng Lĩnh Hà Tĩnh",
+                  "streams": [
+                    {
+                      "id": "kaytee-26d0f141dcd8",
+                      "name": "F",
+                      "stream_links": [
+                        {
+                          "id": "lnk-bb420ac123",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfvy3gr4nhct1gwzdepjqgrhdommeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanchop/playlist.m3u8?wsSession=356889280c26ef2300f67449-177901105349542&wsIPSercert=311d4cdb56b894024064adbe25b14672&wsBindIP=2&wsserid=1168276527555238596"
+                        },
+                        {
+                          "id": "lnk-b159434135",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanchop/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-69eef89dd9be",
+          "name": "⚽ Como vs Parma | 17:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-69eef89dd9be.webp?v=1779011069",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-69eef89dd9be",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-69eef89dd9be",
+                  "name": "Como vs Parma",
+                  "streams": [
+                    {
+                      "id": "kaytee-69eef89dd9be",
+                      "name": "F",
+                      "stream_links": [
+                        {
+                          "id": "lnk-1ab293169a",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanbap/playlist.m3u8"
+                        },
+                        {
+                          "id": "lnk-cabaffb68f",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://tfvy3gr4nhct1gwzdepjqgrhdommeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanbap/playlist.m3u8?wsSession=356889280c26ef2300f67449-177901105349448&wsIPSercert=311d4cdb56b894024064adbe25b14672&wsBindIP=2&wsserid=1168276527555238596"
                         }
                       ]
                     }
@@ -147,7 +204,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-bb09d5101b7b.webp?v=1779010485",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-bb09d5101b7b.webp?v=1779011070",
             "width": 1600,
             "height": 1200
           },
@@ -173,104 +230,20 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-fbdd2a5258",
+                          "id": "lnk-ec6dad1396",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phando/playlist.m3u8"
+                          "url": "https://tfvy3gr4nhct1gwzdepjqgrhdommeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phando/playlist.m3u8?wsSession=d37cc6b41eaf0676ed385d9e-177901105743959&wsIPSercert=311d4cdb56b894024064adbe25b14672&wsBindIP=2&wsserid=1168276527180739302"
                         },
                         {
-                          "id": "lnk-4a4943c71a",
+                          "id": "lnk-fbdd2a5258",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
-                          "url": "https://tfvy3gr4nhct1gwzdepjqgr5u1mmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phando/playlist.m3u8?wsSession=d55828481e68275435a67591-177901046955463&wsIPSercert=fc4acc60e94b8aeff93609b084b272d2&wsBindIP=2&wsserid=1168271909252445665"
+                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phando/playlist.m3u8"
                         }
                       ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "kaytee-26d0f141dcd8",
-          "name": "⚽ Hoang Anh Gia Lai vs Hồng Lĩnh Hà Tĩnh | 17:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-26d0f141dcd8.webp?v=1779010486",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "⏳ Chưa live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#d54f1a"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-26d0f141dcd8",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-26d0f141dcd8",
-                  "name": "Hoang Anh Gia Lai vs Hồng Lĩnh Hà Tĩnh",
-                  "streams": [
-                    {
-                      "id": "kaytee-26d0f141dcd8",
-                      "name": "F",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "kaytee-69eef89dd9be",
-          "name": "⚽ Como vs Parma | 17:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-69eef89dd9be.webp?v=1779010486",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "⏳ Chưa live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#d54f1a"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-69eef89dd9be",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-69eef89dd9be",
-                  "name": "Como vs Parma",
-                  "streams": [
-                    {
-                      "id": "kaytee-69eef89dd9be",
-                      "name": "F",
-                      "stream_links": []
                     }
                   ]
                 }
@@ -288,7 +261,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-3eef1fc436ef.webp?v=1779010487",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-3eef1fc436ef.webp?v=1779011071",
             "width": 1600,
             "height": 1200
           },
@@ -330,7 +303,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-54011cb511c2.webp?v=1779010488",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-54011cb511c2.webp?v=1779011073",
             "width": 1600,
             "height": 1200
           },
@@ -363,6 +336,48 @@
           ]
         },
         {
+          "id": "kaytee-a46eebc5e787",
+          "name": "⚽ Manchester United vs Nottingham Forest | 18:30",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-a46eebc5e787.webp?v=1779011072",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-a46eebc5e787",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-a46eebc5e787",
+                  "name": "Manchester United vs Nottingham Forest",
+                  "streams": [
+                    {
+                      "id": "kaytee-a46eebc5e787",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
           "id": "kaytee-d0e19d03e6ea",
           "name": "⚽ Diego Dedura-Palomero vs Frances Tiafoe | 18:30",
           "type": "single",
@@ -372,7 +387,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-d0e19d03e6ea.webp?v=1779010489",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-d0e19d03e6ea.webp?v=1779011074",
             "width": 1600,
             "height": 1200
           },
@@ -414,7 +429,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-c3b6101ae611.webp?v=1779010489",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-c3b6101ae611.webp?v=1779011073",
             "width": 1600,
             "height": 1200
           },
@@ -456,7 +471,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-7be84586a8ee.webp?v=1779010490",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-7be84586a8ee.webp?v=1779011075",
             "width": 1600,
             "height": 1200
           },
@@ -498,7 +513,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-d563e8644a5f.webp?v=1779010491",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-d563e8644a5f.webp?v=1779011075",
             "width": 1600,
             "height": 1200
           },
