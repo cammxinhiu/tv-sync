@@ -24,8 +24,8 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "kaytee-d1d259b95e6e",
-          "name": "⚽ Udinese vs Cremonese | 01:45",
+          "id": "kaytee-eb86107832b2",
+          "name": "⚽ Inter Miami vs Portland Timbers | 05:00",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -33,258 +33,37 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-d1d259b95e6e.webp?v=1779050684",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-eb86107832b2.webp?v=1779053064",
             "width": 1600,
             "height": 1200
           },
           "labels": [
             {
-              "text": "● Live",
+              "text": "⏳ Chưa live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#ff0000"
+              "text_color": "#d54f1a"
             }
           ],
           "sources": [
             {
-              "id": "kaytee-d1d259b95e6e",
+              "id": "kaytee-eb86107832b2",
               "name": "Hội Quán",
               "contents": [
                 {
-                  "id": "kaytee-d1d259b95e6e",
-                  "name": "Udinese vs Cremonese",
+                  "id": "kaytee-eb86107832b2",
+                  "name": "Inter Miami vs Portland Timbers",
                   "streams": [
                     {
-                      "id": "kaytee-d1d259b95e6e",
+                      "id": "kaytee-eb86107832b2",
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-3697549960",
+                          "id": "lnk-b49daf73bf",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://yvm80526.edgemaxcdn.org/live/hqtv_blv_phantu/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "kaytee-afd7368c335d",
-          "name": "⚽ Paris FC vs Paris Saint Germain | 02:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-afd7368c335d.webp?v=1779050684",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-afd7368c335d",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-afd7368c335d",
-                  "name": "Paris FC vs Paris Saint Germain",
-                  "streams": [
-                    {
-                      "id": "kaytee-afd7368c335d",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1ab293169a",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanbap/playlist.m3u8"
-                        },
-                        {
-                          "id": "lnk-30b8b5a1f1",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://tfvy3gr4nhct1gwzdepjqgrhdommeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanbap/playlist.m3u8?wsSession=263292a6b44546632ecc2d47-177905066505117&wsIPSercert=311d4cdb56b894024064adbe25b14672&wsBindIP=2&wsserid=1168293536444441315"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "kaytee-063545d7c32b",
-          "name": "⚽ Marseille vs Rennes | 02:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-063545d7c32b.webp?v=1779050685",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-063545d7c32b",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-063545d7c32b",
-                  "name": "Marseille vs Rennes",
-                  "streams": [
-                    {
-                      "id": "kaytee-063545d7c32b",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-6024bb46f8",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanhalinh/playlist.m3u8"
-                        },
-                        {
-                          "id": "lnk-3882d9da91",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://tfvy3gr4nhct1gwzdepjqgrhdommeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanhalinh/playlist.m3u8?wsSession=263292a6b44546632ecc2d47-177905066932337&wsIPSercert=311d4cdb56b894024064adbe25b14672&wsBindIP=2&wsserid=1168293536444441315"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "kaytee-aab219260d9a",
-          "name": "⚽ Lyon vs Lens | 02:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-aab219260d9a.webp?v=1779050686",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-aab219260d9a",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-aab219260d9a",
-                  "name": "Lyon vs Lens",
-                  "streams": [
-                    {
-                      "id": "kaytee-aab219260d9a",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-21b1651418",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8"
-                        },
-                        {
-                          "id": "lnk-3a6e8d66e2",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://tfvy3gr4nhct1gwzdepjqgrhdommeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=263292a6b44546632ecc2d47-177905066969457&wsIPSercert=311d4cdb56b894024064adbe25b14672&wsBindIP=2&wsserid=1168293536444441315"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "kaytee-b31ddb86ebc5",
-          "name": "⚽ Barcelona vs Real Betis | 02:15",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-b31ddb86ebc5.webp?v=1779050683",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-b31ddb86ebc5",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-b31ddb86ebc5",
-                  "name": "Barcelona vs Real Betis",
-                  "streams": [
-                    {
-                      "id": "kaytee-b31ddb86ebc5",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-b20baa2dbd",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfvy3gr4nhct1gwzdepjqgrhdommeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=263292a6b44546632ecc2d47-177905066505103&wsIPSercert=311d4cdb56b894024064adbe25b14672&wsBindIP=2&wsserid=1168293536444441315"
+                          "url": "https://tfvy3gr4nhct1gwzdepjqgr5u1mmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=415f1590d43482d9081dd5f6-177905305267262&wsIPSercert=311d4cdb56b894024064adbe25b14672&wsBindIP=2&wsserid=1168271909244056829"
                         },
                         {
                           "id": "lnk-c057a6c8ab",
@@ -302,6 +81,90 @@
           ]
         },
         {
+          "id": "kaytee-93989d0c0388",
+          "name": "⚽ Atletico Paranaense vs Flamengo | 05:30",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-93989d0c0388.webp?v=1779053065",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-93989d0c0388",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-93989d0c0388",
+                  "name": "Atletico Paranaense vs Flamengo",
+                  "streams": [
+                    {
+                      "id": "kaytee-93989d0c0388",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-4e653f3d24c6",
+          "name": "⚽ Nashville SC vs Los Angeles FC | 07:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-4e653f3d24c6.webp?v=1779053066",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-4e653f3d24c6",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-4e653f3d24c6",
+                  "name": "Nashville SC vs Los Angeles FC",
+                  "streams": [
+                    {
+                      "id": "kaytee-4e653f3d24c6",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
           "id": "kaytee-a7a9cb850050",
           "name": "⚽ Detroit Pistons vs Cleveland Cavaliers | 07:00",
           "type": "single",
@@ -311,7 +174,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-a7a9cb850050.webp?v=1779050686",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-a7a9cb850050.webp?v=1779053066",
             "width": 1600,
             "height": 1200
           },
@@ -344,6 +207,48 @@
           ]
         },
         {
+          "id": "kaytee-2074709bf300",
+          "name": "⚽ U.N.A.M. - Pumas vs CF Pachuca | 08:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-2074709bf300.webp?v=1779053067",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-2074709bf300",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-2074709bf300",
+                  "name": "U.N.A.M. - Pumas vs CF Pachuca",
+                  "streams": [
+                    {
+                      "id": "kaytee-2074709bf300",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
           "id": "kaytee-37b783693b9b",
           "name": "⚽ Sebastian Baez vs Alex Michelsen | 15:30",
           "type": "single",
@@ -353,7 +258,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-37b783693b9b.webp?v=1779050688",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-37b783693b9b.webp?v=1779053069",
             "width": 1600,
             "height": 1200
           },
@@ -386,6 +291,48 @@
           ]
         },
         {
+          "id": "kaytee-5219a0343c61",
+          "name": "⚽ Zorya Luhansk vs Polessya | 17:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-5219a0343c61.webp?v=1779053068",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-5219a0343c61",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-5219a0343c61",
+                  "name": "Zorya Luhansk vs Polessya",
+                  "streams": [
+                    {
+                      "id": "kaytee-5219a0343c61",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
           "id": "kaytee-437af71120ea",
           "name": "⚽ Arthur Rinderknech vs Thiago Agustin Tirante | 17:00",
           "type": "single",
@@ -395,7 +342,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-437af71120ea.webp?v=1779050689",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-437af71120ea.webp?v=1779053070",
             "width": 1600,
             "height": 1200
           },
@@ -437,7 +384,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-e0e7ac41803f.webp?v=1779050690",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-e0e7ac41803f.webp?v=1779053071",
             "width": 1600,
             "height": 1200
           },
@@ -479,7 +426,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-9c6eac5c7b18.webp?v=1779050690",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-9c6eac5c7b18.webp?v=1779053072",
             "width": 1600,
             "height": 1200
           },
@@ -521,7 +468,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-c3b6101ae611.webp?v=1779050687",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-c3b6101ae611.webp?v=1779053069",
             "width": 1600,
             "height": 1200
           },
@@ -563,7 +510,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-8c1797c03f65.webp?v=1779050691",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-8c1797c03f65.webp?v=1779053073",
             "width": 1600,
             "height": 1200
           },
