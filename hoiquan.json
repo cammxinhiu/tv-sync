@@ -24,48 +24,6 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "kaytee-39df40d63718",
-          "name": "⚽ V-varen Nagasaki vs Vissel Kobe | 11:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-39df40d63718.webp?v=1778998498",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-39df40d63718",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-39df40d63718",
-                  "name": "V-varen Nagasaki vs Vissel Kobe",
-                  "streams": [
-                    {
-                      "id": "kaytee-39df40d63718",
-                      "name": "F",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "kaytee-a24335c2af4a",
           "name": "⚽ Tay Vợt Số 1 vs Tay Vợt Số 2 | 12:00",
           "type": "single",
@@ -75,7 +33,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-a24335c2af4a.webp?v=1778998499",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-a24335c2af4a.webp?v=1778999671",
             "width": 1600,
             "height": 1200
           },
@@ -101,11 +59,11 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-7f7d5e3c48",
+                          "id": "lnk-79d42c2a52",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfvy3gr4nhct1gwzdepjqgr5u1mm3q3suocbige5nh3mrc71s4amacp1gh.100ycdn.com/yvm80526.edgemaxcdn.org/live/hqtv_blv_phantu/playlist.m3u8?wsSession=415f1590d43482d9081dd5f6-177899846930277&wsIPSercert=311d4cdb56b894024064adbe25b14672&wsBindIP=2&wsserid=1168271909244056829"
+                          "url": "https://tfvy3gr4nhct1gwzdepjqgrhdomm3q3suocbige5nh3mrc71s4amacp1gh.100ycdn.com/yvm80526.edgemaxcdn.org/live/hqtv_blv_phantu/playlist.m3u8?wsSession=263292a6b44546632ecc2d47-177899965320377&wsIPSercert=311d4cdb56b894024064adbe25b14672&wsBindIP=2&wsserid=1168293536444441315"
                         },
                         {
                           "id": "lnk-3697549960",
@@ -132,7 +90,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-dc5e29685c51.webp?v=1778998509",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-dc5e29685c51.webp?v=1778999681",
             "width": 1600,
             "height": 1200
           },
@@ -174,7 +132,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-6fb06c63bce2.webp?v=1778998510",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-6fb06c63bce2.webp?v=1778999682",
             "width": 1600,
             "height": 1200
           },
@@ -200,18 +158,18 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-c057a6c8ab",
+                          "id": "lnk-1cc7bd3a0c",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8"
+                          "url": "https://tfvy3gr4nhct1gwzdepjqgr5u1mmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=7e770dfc09697713155d76ff-177899965330373&wsIPSercert=fc4acc60e94b8aeff93609b084b272d2&wsBindIP=2&wsserid=1168271909248251247"
                         },
                         {
-                          "id": "lnk-7fccffede2",
+                          "id": "lnk-c057a6c8ab",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
-                          "url": "https://tfvy3gr4nhct1gwzdepjqgr5u1mmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=7e770dfc09697713155d76ff-177899847541655&wsIPSercert=fc4acc60e94b8aeff93609b084b272d2&wsBindIP=2&wsserid=1168271909248251247"
+                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8"
                         }
                       ]
                     }
@@ -231,7 +189,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-b42be4462125.webp?v=1778998510",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-b42be4462125.webp?v=1778999682",
             "width": 1600,
             "height": 1200
           },
@@ -273,7 +231,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-82c5f10041a7.webp?v=1778998513",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-82c5f10041a7.webp?v=1778999683",
             "width": 1600,
             "height": 1200
           },
@@ -315,7 +273,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-22da70140ade.webp?v=1778998513",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-22da70140ade.webp?v=1778999686",
             "width": 1600,
             "height": 1200
           },
@@ -357,7 +315,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-26d0f141dcd8.webp?v=1778998511",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-26d0f141dcd8.webp?v=1778999684",
             "width": 1600,
             "height": 1200
           },
@@ -399,7 +357,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-69eef89dd9be.webp?v=1778998512",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-69eef89dd9be.webp?v=1778999685",
             "width": 1600,
             "height": 1200
           },
@@ -432,6 +390,48 @@
           ]
         },
         {
+          "id": "kaytee-bb09d5101b7b",
+          "name": "⚽ Pisa vs Napoli | 17:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-bb09d5101b7b.webp?v=1778999685",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-bb09d5101b7b",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-bb09d5101b7b",
+                  "name": "Pisa vs Napoli",
+                  "streams": [
+                    {
+                      "id": "kaytee-bb09d5101b7b",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
           "id": "kaytee-d0e19d03e6ea",
           "name": "⚽ Diego Dedura-Palomero vs Frances Tiafoe | 18:30",
           "type": "single",
@@ -441,7 +441,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-d0e19d03e6ea.webp?v=1778998515",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-d0e19d03e6ea.webp?v=1778999687",
             "width": 1600,
             "height": 1200
           },
@@ -483,7 +483,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-c3b6101ae611.webp?v=1778998514",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-c3b6101ae611.webp?v=1778999687",
             "width": 1600,
             "height": 1200
           },
@@ -525,7 +525,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-7be84586a8ee.webp?v=1778998515",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-7be84586a8ee.webp?v=1778999688",
             "width": 1600,
             "height": 1200
           },
@@ -567,7 +567,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-d563e8644a5f.webp?v=1778998516",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-d563e8644a5f.webp?v=1778999689",
             "width": 1600,
             "height": 1200
           },
