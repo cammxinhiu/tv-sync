@@ -24,120 +24,6 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "kaytee-53bb0d1a2fca",
-          "name": "⚽ Jakub Mensik vs Jan-Lennard Struff | 23:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-53bb0d1a2fca.webp?v=1779128062",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-53bb0d1a2fca",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-53bb0d1a2fca",
-                  "name": "Jakub Mensik vs Jan-Lennard Struff",
-                  "streams": [
-                    {
-                      "id": "kaytee-53bb0d1a2fca",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-fe4167f5dc",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfvz3gr4nhct1gwzdrcbqgrhdqmm3q3suocbige5nh3mrc71s4amacp1gh.100ycdn.com/yvm80526.edgemaxcdn.org/live/hqtv_blv_phantu/playlist.m3u8?wsSession=9f200e9fee5887df427c77bb-177912805347289&wsIPSercert=fc4acc60e94b8aeff93609b084b272d2&wsBindIP=2&wsserid=1168239097219265334"
-                        },
-                        {
-                          "id": "lnk-3697549960",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://yvm80526.edgemaxcdn.org/live/hqtv_blv_phantu/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "kaytee-8c81b441d699",
-          "name": "⚽ Raul Brancaccio vs Stan Wawrinka | 23:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-8c81b441d699.webp?v=1779128063",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-8c81b441d699",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-8c81b441d699",
-                  "name": "Raul Brancaccio vs Stan Wawrinka",
-                  "streams": [
-                    {
-                      "id": "kaytee-8c81b441d699",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-793457802f",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8"
-                        },
-                        {
-                          "id": "lnk-10deb9e81e",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://tfvz3gr4nhct1gwzdrcbqgrhdqmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=9f200e9fee5887df427c77bb-177912805358471&wsIPSercert=fc4acc60e94b8aeff93609b084b272d2&wsBindIP=2&wsserid=1168239097219265334"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "kaytee-07c635a29a0c",
           "name": "⚽ Leganes vs Huesca | 01:30",
           "type": "single",
@@ -147,16 +33,16 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-07c635a29a0c.webp?v=1779128064",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-07c635a29a0c.webp?v=1779129260",
             "width": 1600,
             "height": 1200
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -173,18 +59,18 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-004ad619d4",
+                          "id": "lnk-1ab293169a",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfvz3gr4nhct1gwzdrcbqgrhdqmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanbap/playlist.m3u8?wsSession=e2d8e9c0eb62566497dce046-177912805358527&wsIPSercert=fc4acc60e94b8aeff93609b084b272d2&wsBindIP=2&wsserid=1168239097222411122"
+                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanbap/playlist.m3u8"
                         },
                         {
-                          "id": "lnk-1ab293169a",
+                          "id": "lnk-ba979ecf42",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanbap/playlist.m3u8"
+                          "url": "https://tfvz3gr4nhct1gwzdepjqgr5u1mmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanbap/playlist.m3u8?wsSession=d55828481e68275435a67591-177912925310163&wsIPSercert=fc4acc60e94b8aeff93609b084b272d2&wsBindIP=2&wsserid=1168271909252445665"
                         }
                       ]
                     }
@@ -204,7 +90,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-a7a5b5ff7d29.webp?v=1779128064",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-a7a5b5ff7d29.webp?v=1779129260",
             "width": 1600,
             "height": 1200
           },
@@ -246,7 +132,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-973accfa89f9.webp?v=1779128065",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-973accfa89f9.webp?v=1779129261",
             "width": 1600,
             "height": 1200
           },
@@ -288,7 +174,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-e772d4d06d15.webp?v=1779128066",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-e772d4d06d15.webp?v=1779129262",
             "width": 1600,
             "height": 1200
           },
@@ -330,7 +216,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-eb132275b3cd.webp?v=1779128067",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-eb132275b3cd.webp?v=1779129263",
             "width": 1600,
             "height": 1200
           },
