@@ -33,7 +33,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-e625a86bdd9f.webp?v=1779274486",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-e625a86bdd9f.webp?v=1779276273",
             "width": 1600,
             "height": 1200
           },
@@ -59,18 +59,18 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-3697549960",
+                          "id": "lnk-a5966b8b9f",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://yvm80526.edgemaxcdn.org/live/hqtv_blv_phantu/playlist.m3u8"
+                          "url": "https://tfw13gr4nhct1gwzdrcbqgrhdqmm3q3suocbige5nh3mrc71s4amacp1gh.100ycdn.com/yvm80526.edgemaxcdn.org/live/hqtv_blv_phantu/playlist.m3u8?wsSession=8ec2a074f5e81bdc89241b67-177927625204924&wsIPSercert=bae22ffb850f28b7b980a38d46369cd9&wsBindIP=2&wsserid=1168239097228702694"
                         },
                         {
-                          "id": "lnk-6895b111f9",
+                          "id": "lnk-3697549960",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
-                          "url": "https://tfw13gr3dgmtugrzdgpbqgrhdomm3q3suocbige5nh3mrc71s4amacp1gh.100ycdn.com/yvm80526.edgemaxcdn.org/live/hqtv_blv_phantu/playlist.m3u8?wsSession=4cdcbb75549f7ebb5fe875ef-177927446722643&wsIPSercert=bae22ffb850f28b7b980a38d46369cd9&wsBindIP=2&wsserid=1168239032780249394"
+                          "url": "https://yvm80526.edgemaxcdn.org/live/hqtv_blv_phantu/playlist.m3u8"
                         }
                       ]
                     }
@@ -90,16 +90,16 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-a5ef8b5f8a0e.webp?v=1779274486",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-a5ef8b5f8a0e.webp?v=1779276274",
             "width": 1600,
             "height": 1200
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -116,18 +116,18 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-ddc68ca1e1",
+                          "id": "lnk-21b1651418",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfw13gr4nhct1gwzdrcbqgrhdqmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=9f200e9fee5887df427c77bb-177927446723022&wsIPSercert=fc4acc60e94b8aeff93609b084b272d2&wsBindIP=2&wsserid=1168239097219265334"
+                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8"
                         },
                         {
-                          "id": "lnk-21b1651418",
+                          "id": "lnk-904254d6e4",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8"
+                          "url": "https://tfw13gr4nhct1gwzdrcbqgrhdqmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=9f200e9fee5887df427c77bb-177927625208446&wsIPSercert=fc4acc60e94b8aeff93609b084b272d2&wsBindIP=2&wsserid=1168239097219265334"
                         }
                       ]
                     }
@@ -147,7 +147,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-7be8967dd931.webp?v=1779274487",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-7be8967dd931.webp?v=1779276275",
             "width": 1600,
             "height": 1200
           },
@@ -171,7 +171,22 @@
                     {
                       "id": "kaytee-7be8967dd931",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-1ab293169a",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanbap/playlist.m3u8"
+                        },
+                        {
+                          "id": "lnk-672fe55fb4",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://tfw13gr4nhct1gwzdrcbqgrhdqmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanbap/playlist.m3u8?wsSession=e2d8e9c0eb62566497dce046-177927625413962&wsIPSercert=fc4acc60e94b8aeff93609b084b272d2&wsBindIP=2&wsserid=1168239097222411122"
+                        }
+                      ]
                     }
                   ]
                 }
@@ -189,7 +204,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-11803b60e1b3.webp?v=1779274488",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-11803b60e1b3.webp?v=1779276276",
             "width": 1600,
             "height": 1200
           },
@@ -213,49 +228,22 @@
                     {
                       "id": "kaytee-11803b60e1b3",
                       "name": "F",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "kaytee-eac4bae95c35",
-          "name": "⚽ Koki WATANABE vs Christo POPOV | 19:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-eac4bae95c35.webp?v=1779274489",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "⏳ Chưa live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#d54f1a"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-eac4bae95c35",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-eac4bae95c35",
-                  "name": "Koki WATANABE vs Christo POPOV",
-                  "streams": [
-                    {
-                      "id": "kaytee-eac4bae95c35",
-                      "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-fbdd2a5258",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phando/playlist.m3u8"
+                        },
+                        {
+                          "id": "lnk-76963c8823",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://tfw13gr4nhct1gwzdrcbqgrhdqmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phando/playlist.m3u8?wsSession=d84597a87d248b6d5e1fe3d5-177927625597418&wsIPSercert=fc4acc60e94b8aeff93609b084b272d2&wsBindIP=2&wsserid=1168239097231848478"
+                        }
+                      ]
                     }
                   ]
                 }
@@ -273,7 +261,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-24e27b3b2d77.webp?v=1779274493",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-24e27b3b2d77.webp?v=1779276277",
             "width": 1600,
             "height": 1200
           },
@@ -306,8 +294,8 @@
           ]
         },
         {
-          "id": "kaytee-3a370ca687a0",
-          "name": "⚽ Alejandro Davidovich Fokina vs Alex de Minaur | 20:00",
+          "id": "kaytee-eac4bae95c35",
+          "name": "⚽ Koki WATANABE vs Christo POPOV | 19:00",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -315,7 +303,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-3a370ca687a0.webp?v=1779274490",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-eac4bae95c35.webp?v=1779276280",
             "width": 1600,
             "height": 1200
           },
@@ -329,15 +317,15 @@
           ],
           "sources": [
             {
-              "id": "kaytee-3a370ca687a0",
+              "id": "kaytee-eac4bae95c35",
               "name": "Hội Quán",
               "contents": [
                 {
-                  "id": "kaytee-3a370ca687a0",
-                  "name": "Alejandro Davidovich Fokina vs Alex de Minaur",
+                  "id": "kaytee-eac4bae95c35",
+                  "name": "Koki WATANABE vs Christo POPOV",
                   "streams": [
                     {
-                      "id": "kaytee-3a370ca687a0",
+                      "id": "kaytee-eac4bae95c35",
                       "name": "F",
                       "stream_links": []
                     }
@@ -357,7 +345,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-ea046f058948.webp?v=1779274493",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-ea046f058948.webp?v=1779276278",
             "width": 1600,
             "height": 1200
           },
@@ -390,8 +378,8 @@
           ]
         },
         {
-          "id": "kaytee-c62f3b9da358",
-          "name": "⚽ Stan Wawrinka vs Alex Michelsen | 23:00",
+          "id": "kaytee-3a370ca687a0",
+          "name": "⚽ Alejandro Davidovich Fokina vs Alex de Minaur | 20:00",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -399,7 +387,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-c62f3b9da358.webp?v=1779274491",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-3a370ca687a0.webp?v=1779276282",
             "width": 1600,
             "height": 1200
           },
@@ -413,15 +401,15 @@
           ],
           "sources": [
             {
-              "id": "kaytee-c62f3b9da358",
+              "id": "kaytee-3a370ca687a0",
               "name": "Hội Quán",
               "contents": [
                 {
-                  "id": "kaytee-c62f3b9da358",
-                  "name": "Stan Wawrinka vs Alex Michelsen",
+                  "id": "kaytee-3a370ca687a0",
+                  "name": "Alejandro Davidovich Fokina vs Alex de Minaur",
                   "streams": [
                     {
-                      "id": "kaytee-c62f3b9da358",
+                      "id": "kaytee-3a370ca687a0",
                       "name": "F",
                       "stream_links": []
                     }
@@ -441,7 +429,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-fe6597769e8a.webp?v=1779274494",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-fe6597769e8a.webp?v=1779276279",
             "width": 1600,
             "height": 1200
           },
@@ -483,7 +471,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-4ba60f73cf53.webp?v=1779274495",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-4ba60f73cf53.webp?v=1779276279",
             "width": 1600,
             "height": 1200
           },
@@ -516,6 +504,48 @@
           ]
         },
         {
+          "id": "kaytee-c62f3b9da358",
+          "name": "⚽ Stan Wawrinka vs Alex Michelsen | 23:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-c62f3b9da358.webp?v=1779276283",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-c62f3b9da358",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-c62f3b9da358",
+                  "name": "Stan Wawrinka vs Alex Michelsen",
+                  "streams": [
+                    {
+                      "id": "kaytee-c62f3b9da358",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
           "id": "kaytee-82101e4ea503",
           "name": "⚽ Edas Butvilas vs Alexander Bublik | 01:00",
           "type": "single",
@@ -525,7 +555,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-82101e4ea503.webp?v=1779274492",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-82101e4ea503.webp?v=1779276284",
             "width": 1600,
             "height": 1200
           },
@@ -567,7 +597,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-b2d24f95f485.webp?v=1779274496",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-b2d24f95f485.webp?v=1779276281",
             "width": 1600,
             "height": 1200
           },
