@@ -1,8 +1,12 @@
 name: Sync JSON
+
 on:
+  schedule:
+    - cron: '*/10 * * * *'
+  workflow_dispatch:
   repository_dispatch:
-    types: [trigger-sync]   # Đây là "mật khẩu" để nhận lệnh từ cron-job
-  workflow_dispatch:        # Giữ lại nút chạy bằng tay để sếp test
+    types: [trigger-sync]
+
 jobs:
   sync:
     runs-on: ubuntu-latest
@@ -15,12 +19,14 @@ jobs:
           python-version: '3.11'
       - name: Install dependencies
         run: pip install requests
-      - name: Run sync script
+      - name: Sync Hội Quán
         run: python sync.py
+      - name: Convert M3U sang JSON
+        run: python convert_m3u.py
       - name: Push changes
         run: |
           git config user.name "github-actions"
           git config user.email "actions@github.com"
-          git add hoiquan.json
-          git diff --staged --quiet || git commit -m "sync"
+          git add hoiquan.json multisource.json
+          git diff --staged --quiet || git commit -m "sync: $(date -u '+%Y-%m-%d %H:%M')"
           git push
