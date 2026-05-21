@@ -24,63 +24,6 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "kaytee-b0d1dc151a66",
-          "name": "⚽ Arthur Rinderknech vs Alexander Bublik | 00:30",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-b0d1dc151a66.webp?v=1779393270",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "⏳ Chưa live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#d54f1a"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-b0d1dc151a66",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-b0d1dc151a66",
-                  "name": "Arthur Rinderknech vs Alexander Bublik",
-                  "streams": [
-                    {
-                      "id": "kaytee-b0d1dc151a66",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-cade8d3f02",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfw23gr4nhct1gwzdepjqgr5u1mmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phantu/playlist.m3u8?wsSession=5b783a478b37be93476be6a5-177939325259652&wsIPSercert=fc4acc60e94b8aeff93609b084b272d2&wsBindIP=2&wsserid=1168271909128713172"
-                        },
-                        {
-                          "id": "lnk-76e239540a",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phantu/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "kaytee-4d165381c354",
           "name": "⚽ Al-Nassr vs Damac | 01:00",
           "type": "single",
@@ -90,7 +33,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-4d165381c354.webp?v=1779393271",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-4d165381c354.webp?v=1779393883",
             "width": 1600,
             "height": 1200
           },
@@ -123,82 +66,25 @@
                           "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8"
                         },
                         {
-                          "id": "lnk-d51262791c",
+                          "id": "lnk-383db847b7",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
-                          "url": "https://tfw23gr4nhct1gwzdepjqgr5u1mmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=5b783a478b37be93476be6a5-177939325264059&wsIPSercert=fc4acc60e94b8aeff93609b084b272d2&wsBindIP=2&wsserid=1168271909128713172"
+                          "url": "https://tfw23gr4nhct1gwzdepjqgr5u1mmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=5b783a478b37be93476be6a5-177939386795201&wsIPSercert=fc4acc60e94b8aeff93609b084b272d2&wsBindIP=2&wsserid=1168271909128713172"
                         },
                         {
-                          "id": "lnk-c057a6c8ab",
+                          "id": "lnk-37dff84ff6",
                           "name": "Link 3",
                           "type": "hls",
                           "default": false,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8"
+                          "url": "https://tfw23gr4nhct1gwzdepjqgr5u1mmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=5b783a478b37be93476be6a5-177939386795276&wsIPSercert=fc4acc60e94b8aeff93609b084b272d2&wsBindIP=2&wsserid=1168271909128713172"
                         },
                         {
-                          "id": "lnk-3df6dc4afb",
+                          "id": "lnk-c057a6c8ab",
                           "name": "Link 4",
                           "type": "hls",
                           "default": false,
-                          "url": "https://tfw23gr4nhct1gwzdepjqgr5u1mmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=5b783a478b37be93476be6a5-177939325523560&wsIPSercert=fc4acc60e94b8aeff93609b084b272d2&wsBindIP=2&wsserid=1168271909128713172"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "kaytee-c7ac6d1e09ad",
-          "name": "⚽ Al-Fayha vs Al-Hilal Saudi FC | 01:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-c7ac6d1e09ad.webp?v=1779393272",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-c7ac6d1e09ad",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-c7ac6d1e09ad",
-                  "name": "Al-Fayha vs Al-Hilal Saudi FC",
-                  "streams": [
-                    {
-                      "id": "kaytee-c7ac6d1e09ad",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1ab293169a",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanbap/playlist.m3u8"
-                        },
-                        {
-                          "id": "lnk-ada42d2f29",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://tfw23gr4nhct1gwzdepjqgr5u1mmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanbap/playlist.m3u8?wsSession=d55828481e68275435a67591-177939325777075&wsIPSercert=fc4acc60e94b8aeff93609b084b272d2&wsBindIP=2&wsserid=1168271909252445665"
+                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8"
                         }
                       ]
                     }
@@ -218,7 +104,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-9d7383d392e3.webp?v=1779393276",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-9d7383d392e3.webp?v=1779393884",
             "width": 1600,
             "height": 1200
           },
@@ -260,7 +146,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-69f67b15f801.webp?v=1779393272",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-69f67b15f801.webp?v=1779393885",
             "width": 1600,
             "height": 1200
           },
@@ -302,7 +188,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-2c5732b736b9.webp?v=1779393273",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-2c5732b736b9.webp?v=1779393886",
             "width": 1600,
             "height": 1200
           },
@@ -344,7 +230,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-d094f568f5ac.webp?v=1779393274",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-d094f568f5ac.webp?v=1779393887",
             "width": 1600,
             "height": 1200
           },
@@ -386,7 +272,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-01ae17d983ec.webp?v=1779393275",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-01ae17d983ec.webp?v=1779393888",
             "width": 1600,
             "height": 1200
           },
@@ -428,7 +314,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-82c5f10041a7.webp?v=1779393275",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-82c5f10041a7.webp?v=1779393889",
             "width": 1600,
             "height": 1200
           },
@@ -461,6 +347,48 @@
           ]
         },
         {
+          "id": "kaytee-3cb843acb0bb",
+          "name": "⚽ Arema FC vs PSIM Yogyakarta | 15:30",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-3cb843acb0bb.webp?v=1779393886",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-3cb843acb0bb",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-3cb843acb0bb",
+                  "name": "Arema FC vs PSIM Yogyakarta",
+                  "streams": [
+                    {
+                      "id": "kaytee-3cb843acb0bb",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
           "id": "kaytee-7be8967dd931",
           "name": "⚽ Beijing vs Shanghai | 18:35",
           "type": "single",
@@ -470,7 +398,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-7be8967dd931.webp?v=1779393277",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-7be8967dd931.webp?v=1779393890",
             "width": 1600,
             "height": 1200
           },
@@ -512,7 +440,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-4b66ac50039c.webp?v=1779393278",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-4b66ac50039c.webp?v=1779393890",
             "width": 1600,
             "height": 1200
           },
@@ -554,7 +482,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-49f426f3a655.webp?v=1779393279",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-49f426f3a655.webp?v=1779393891",
             "width": 1600,
             "height": 1200
           },
