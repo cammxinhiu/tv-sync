@@ -24,63 +24,6 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "kaytee-96f6cfa8b5dc",
-          "name": "⚽ Torino vs Juventus | 01:45",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-96f6cfa8b5dc.webp?v=1779657267",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "⏳ Chưa live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#d54f1a"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-96f6cfa8b5dc",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-96f6cfa8b5dc",
-                  "name": "Torino vs Juventus",
-                  "streams": [
-                    {
-                      "id": "kaytee-96f6cfa8b5dc",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-bed6681f1c",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanchuot/playlist.m3u8"
-                        },
-                        {
-                          "id": "lnk-83e556ad5d",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://tfw53gr4nhct1gwzdepjqgrhuqmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanchuot/playlist.m3u8?wsSession=4740d930c735b1c6fbf5660b-177965725482724&wsIPSercert=bae22ffb850f28b7b980a38d46369cd9&wsBindIP=2&wsserid=1168271556800904919"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "kaytee-f7ea44359798",
           "name": "⚽ Inter Miami vs Philadelphia Union | 06:00",
           "type": "single",
@@ -90,7 +33,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-f7ea44359798.webp?v=1779657267",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-f7ea44359798.webp?v=1779658463",
             "width": 1600,
             "height": 1200
           },
@@ -132,7 +75,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-0ee96ee8139e.webp?v=1779657268",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-0ee96ee8139e.webp?v=1779658464",
             "width": 1600,
             "height": 1200
           },
@@ -174,7 +117,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-7c5c87eeb419.webp?v=1779657269",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-7c5c87eeb419.webp?v=1779658465",
             "width": 1600,
             "height": 1200
           },
@@ -216,7 +159,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-98d8cf72d763.webp?v=1779657270",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-98d8cf72d763.webp?v=1779658466",
             "width": 1600,
             "height": 1200
           },
@@ -258,7 +201,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-af869a448a23.webp?v=1779657270",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-af869a448a23.webp?v=1779658467",
             "width": 1600,
             "height": 1200
           },
@@ -300,7 +243,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-184c956e0a38.webp?v=1779657271",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-184c956e0a38.webp?v=1779658467",
             "width": 1600,
             "height": 1200
           },
@@ -342,7 +285,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-39e845223af5.webp?v=1779657272",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-39e845223af5.webp?v=1779658468",
             "width": 1600,
             "height": 1200
           },
@@ -384,7 +327,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-82aafe02d304.webp?v=1779657273",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-82aafe02d304.webp?v=1779658469",
             "width": 1600,
             "height": 1200
           },
@@ -426,7 +369,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-392f339c19e1.webp?v=1779657273",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-392f339c19e1.webp?v=1779658470",
             "width": 1600,
             "height": 1200
           },
