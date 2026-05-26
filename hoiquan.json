@@ -24,8 +24,8 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "kaytee-ef16ce87f55b",
-          "name": "⚽ Aryna Sabalenka vs Jessica Bouzas Maneiro | 17:00",
+          "id": "kaytee-d5a9ed40a1c6",
+          "name": "⚽ Dương Quốc Hoàng vs Mohammed Baabad | 18:00",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -33,7 +33,121 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-ef16ce87f55b.webp?v=1779787481",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-d5a9ed40a1c6.webp?v=1779799483",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-d5a9ed40a1c6",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-d5a9ed40a1c6",
+                  "name": "Dương Quốc Hoàng vs Mohammed Baabad",
+                  "streams": [
+                    {
+                      "id": "kaytee-d5a9ed40a1c6",
+                      "name": "F",
+                      "stream_links": [
+                        {
+                          "id": "lnk-2af2f7b4fe",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8"
+                        },
+                        {
+                          "id": "lnk-fe14b18e41",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://tfw73gr4nhct1gwzdepjqgr5u1mmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=d55828481e68275435a67591-177979947015875&wsIPSercert=bae22ffb850f28b7b980a38d46369cd9&wsBindIP=2&wsserid=1168271909252445665"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-45c497cff221",
+          "name": "⚽ Italy U17 vs France U17 | 18:30",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-45c497cff221.webp?v=1779799485",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-45c497cff221",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-45c497cff221",
+                  "name": "Italy U17 vs France U17",
+                  "streams": [
+                    {
+                      "id": "kaytee-45c497cff221",
+                      "name": "F",
+                      "stream_links": [
+                        {
+                          "id": "lnk-bafcb0a68f",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfw73gr4nhct1gwzdepjqgrhuqmmwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=6c40e28595ebc367043b5e98-177979947016168&wsIPSercert=fc4acc60e94b8aeff93609b084b272d2&wsBindIP=2&wsserid=1168276518868027036"
+                        },
+                        {
+                          "id": "lnk-5cc8eb5745",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-535c02bb0ff8",
+          "name": "⚽ Morocco vs Burundi | 20:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-535c02bb0ff8.webp?v=1779799494",
             "width": 1600,
             "height": 1200
           },
@@ -47,15 +161,15 @@
           ],
           "sources": [
             {
-              "id": "kaytee-ef16ce87f55b",
+              "id": "kaytee-535c02bb0ff8",
               "name": "Hội Quán",
               "contents": [
                 {
-                  "id": "kaytee-ef16ce87f55b",
-                  "name": "Aryna Sabalenka vs Jessica Bouzas Maneiro",
+                  "id": "kaytee-535c02bb0ff8",
+                  "name": "Morocco vs Burundi",
                   "streams": [
                     {
-                      "id": "kaytee-ef16ce87f55b",
+                      "id": "kaytee-535c02bb0ff8",
                       "name": "F",
                       "stream_links": []
                     }
@@ -66,8 +180,8 @@
           ]
         },
         {
-          "id": "kaytee-13ad76b1c85f",
-          "name": "⚽ Tay cơ 1 vs Tay cơ 2 | 18:00",
+          "id": "kaytee-542040df3ede",
+          "name": "⚽ Astana II vs Khan Tengri | 21:00",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -75,7 +189,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-13ad76b1c85f.webp?v=1779787482",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-542040df3ede.webp?v=1779799494",
             "width": 1600,
             "height": 1200
           },
@@ -89,57 +203,15 @@
           ],
           "sources": [
             {
-              "id": "kaytee-13ad76b1c85f",
+              "id": "kaytee-542040df3ede",
               "name": "Hội Quán",
               "contents": [
                 {
-                  "id": "kaytee-13ad76b1c85f",
-                  "name": "Tay cơ 1 vs Tay cơ 2",
+                  "id": "kaytee-542040df3ede",
+                  "name": "Astana II vs Khan Tengri",
                   "streams": [
                     {
-                      "id": "kaytee-13ad76b1c85f",
-                      "name": "F",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "kaytee-2f137f2c9f2e",
-          "name": "⚽ Coco Gauff vs Taylor Townsend | 21:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-2f137f2c9f2e.webp?v=1779787483",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "⏳ Chưa live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#d54f1a"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-2f137f2c9f2e",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-2f137f2c9f2e",
-                  "name": "Coco Gauff vs Taylor Townsend",
-                  "streams": [
-                    {
-                      "id": "kaytee-2f137f2c9f2e",
+                      "id": "kaytee-542040df3ede",
                       "name": "F",
                       "stream_links": []
                     }
@@ -159,7 +231,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-0853b2905fa2.webp?v=1779787484",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-0853b2905fa2.webp?v=1779799497",
             "width": 1600,
             "height": 1200
           },
@@ -192,6 +264,48 @@
           ]
         },
         {
+          "id": "kaytee-2f137f2c9f2e",
+          "name": "⚽ Coco Gauff vs Taylor Townsend | 21:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-2f137f2c9f2e.webp?v=1779799498",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-2f137f2c9f2e",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-2f137f2c9f2e",
+                  "name": "Coco Gauff vs Taylor Townsend",
+                  "streams": [
+                    {
+                      "id": "kaytee-2f137f2c9f2e",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
           "id": "kaytee-f3f91512459a",
           "name": "⚽ Alashkert vs Shirak | 22:00",
           "type": "single",
@@ -201,7 +315,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-f3f91512459a.webp?v=1779787485",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-f3f91512459a.webp?v=1779799495",
             "width": 1600,
             "height": 1200
           },
@@ -234,8 +348,8 @@
           ]
         },
         {
-          "id": "kaytee-78cce01aa7d3",
-          "name": "⚽ Santos vs Deportivo Cuenca | 07:30",
+          "id": "kaytee-24581c822afd",
+          "name": "⚽ Montenegro U17 vs Denmark U17 | 23:00",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -243,7 +357,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-78cce01aa7d3.webp?v=1779787485",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-24581c822afd.webp?v=1779799496",
             "width": 1600,
             "height": 1200
           },
@@ -257,15 +371,57 @@
           ],
           "sources": [
             {
-              "id": "kaytee-78cce01aa7d3",
+              "id": "kaytee-24581c822afd",
               "name": "Hội Quán",
               "contents": [
                 {
-                  "id": "kaytee-78cce01aa7d3",
-                  "name": "Santos vs Deportivo Cuenca",
+                  "id": "kaytee-24581c822afd",
+                  "name": "Montenegro U17 vs Denmark U17",
                   "streams": [
                     {
-                      "id": "kaytee-78cce01aa7d3",
+                      "id": "kaytee-24581c822afd",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-f4a8417bbd46",
+          "name": "⚽ Jannik Sinner vs Daniil Medvedev | 01:30",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-f4a8417bbd46.webp?v=1779799499",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-f4a8417bbd46",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-f4a8417bbd46",
+                  "name": "Jannik Sinner vs Daniil Medvedev",
+                  "streams": [
+                    {
+                      "id": "kaytee-f4a8417bbd46",
                       "name": "F",
                       "stream_links": []
                     }
@@ -285,7 +441,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-3010732418c4.webp?v=1779787486",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-3010732418c4.webp?v=1779799497",
             "width": 1600,
             "height": 1200
           },
