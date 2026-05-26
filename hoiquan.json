@@ -24,63 +24,6 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "kaytee-8915f0f23606",
-          "name": "⚽ Nigeria vs Zimbabwe | 01:30",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-8915f0f23606.webp?v=1779819269",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "⏳ Chưa live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#d54f1a"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-8915f0f23606",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-8915f0f23606",
-                  "name": "Nigeria vs Zimbabwe",
-                  "streams": [
-                    {
-                      "id": "kaytee-8915f0f23606",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-53f7d8fa9b",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfw73gr4nhct1gwzdepjqgrhuqmmwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taokinhte/playlist.m3u8?wsSession=a37b6c768bebae49ab0722e0-177981925496959&wsIPSercert=fc4acc60e94b8aeff93609b084b272d2&wsBindIP=2&wsserid=1168271907035344675"
-                        },
-                        {
-                          "id": "lnk-4b952a898a",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taokinhte/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "kaytee-e61cc577d13b",
           "name": "⚽ SpVgg Greuther Fürth vs Rot-Weiß Essen | 01:30",
           "type": "single",
@@ -90,7 +33,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-e61cc577d13b.webp?v=1779819269",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-e61cc577d13b.webp?v=1779819887",
             "width": 1600,
             "height": 1200
           },
@@ -116,18 +59,75 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-ac3abd3b2a",
+                          "id": "lnk-46c364a540",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taomeo/playlist.m3u8"
+                          "url": "https://tfw73gr4nhct1gwzdepjqgrhuqmmwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taomeo/playlist.m3u8?wsSession=d231aea2f8fdac625b6c5849-177981987200111&wsIPSercert=fc4acc60e94b8aeff93609b084b272d2&wsBindIP=2&wsserid=1168271556921580693"
                         },
                         {
-                          "id": "lnk-4df1902fa0",
+                          "id": "lnk-ac3abd3b2a",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
-                          "url": "https://tfw73gr4nhct1gwzdepjqgrhuqmmwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taomeo/playlist.m3u8?wsSession=d231aea2f8fdac625b6c5849-177981925496759&wsIPSercert=fc4acc60e94b8aeff93609b084b272d2&wsBindIP=2&wsserid=1168271556921580693"
+                          "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taomeo/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-8915f0f23606",
+          "name": "⚽ Nigeria vs Zimbabwe | 01:30",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-8915f0f23606.webp?v=1779819889",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-8915f0f23606",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-8915f0f23606",
+                  "name": "Nigeria vs Zimbabwe",
+                  "streams": [
+                    {
+                      "id": "kaytee-8915f0f23606",
+                      "name": "F",
+                      "stream_links": [
+                        {
+                          "id": "lnk-4b952a898a",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taokinhte/playlist.m3u8"
+                        },
+                        {
+                          "id": "lnk-f814a2e3ae",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://tfw73gr4nhct1gwzdepjqgrhuqmmwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taokinhte/playlist.m3u8?wsSession=a37b6c768bebae49ab0722e0-177981987404370&wsIPSercert=fc4acc60e94b8aeff93609b084b272d2&wsBindIP=2&wsserid=1168271907035344675"
                         }
                       ]
                     }
@@ -147,7 +147,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-f4a8417bbd46.webp?v=1779819272",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-f4a8417bbd46.webp?v=1779819892",
             "width": 1600,
             "height": 1200
           },
@@ -173,18 +173,18 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-5e15778ae7",
+                          "id": "lnk-76e239540a",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfw73gr4nhct1gwzdepjqgrhuqmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phantu/playlist.m3u8?wsSession=a90993957a99dff7e0537646-177981926110575&wsIPSercert=bae22ffb850f28b7b980a38d46369cd9&wsBindIP=2&wsserid=1168276443747689227"
+                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phantu/playlist.m3u8"
                         },
                         {
-                          "id": "lnk-76e239540a",
+                          "id": "lnk-26b9d0823f",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phantu/playlist.m3u8"
+                          "url": "https://tfw73gr4nhct1gwzdepjqgrhuqmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phantu/playlist.m3u8?wsSession=a90993957a99dff7e0537646-177981987937432&wsIPSercert=bae22ffb850f28b7b980a38d46369cd9&wsBindIP=2&wsserid=1168276443747689227"
                         }
                       ]
                     }
@@ -204,7 +204,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-0fd94cb23692.webp?v=1779819270",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-0fd94cb23692.webp?v=1779819888",
             "width": 1600,
             "height": 1200
           },
@@ -228,7 +228,22 @@
                     {
                       "id": "kaytee-0fd94cb23692",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-5cc8eb5745",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8"
+                        },
+                        {
+                          "id": "lnk-00fd27bdc7",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://tfw73gr4nhct1gwzdepjqgrhuqmmwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=a37b6c768bebae49ab0722e0-177981987200397&wsIPSercert=fc4acc60e94b8aeff93609b084b272d2&wsBindIP=2&wsserid=1168271907035344675"
+                        }
+                      ]
                     }
                   ]
                 }
@@ -246,7 +261,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-78cce01aa7d3.webp?v=1779819271",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-78cce01aa7d3.webp?v=1779819890",
             "width": 1600,
             "height": 1200
           },
@@ -288,7 +303,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-3010732418c4.webp?v=1779819276",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-3010732418c4.webp?v=1779819897",
             "width": 1600,
             "height": 1200
           },
@@ -330,7 +345,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-63fc88392366.webp?v=1779819276",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-63fc88392366.webp?v=1779819896",
             "width": 1600,
             "height": 1200
           },
@@ -372,7 +387,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-0401956d2bb6.webp?v=1779819272",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-0401956d2bb6.webp?v=1779819891",
             "width": 1600,
             "height": 1200
           },
@@ -414,7 +429,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-0e056dc1ed62.webp?v=1779819273",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-0e056dc1ed62.webp?v=1779819893",
             "width": 1600,
             "height": 1200
           },
@@ -456,7 +471,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-830cb9f15d85.webp?v=1779819274",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-830cb9f15d85.webp?v=1779819893",
             "width": 1600,
             "height": 1200
           },
@@ -498,7 +513,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-01ecf4ff5508.webp?v=1779819275",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-01ecf4ff5508.webp?v=1779819895",
             "width": 1600,
             "height": 1200
           },
