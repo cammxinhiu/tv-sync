@@ -33,7 +33,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-35dd97f77b20.webp?v=1779908066",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-35dd97f77b20.webp?v=1779908689",
             "width": 1600,
             "height": 1200
           },
@@ -59,17 +59,10 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-ceedb73e3b",
+                          "id": "lnk-ece8f6d991",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfw83gr3dgmtugrzdgpbqgrhdommwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=b678eb801441d8359d3a8f66-177990805683430&wsIPSercert=fc4acc60e94b8aeff93609b084b272d2&wsBindIP=2&wsserid=1168239032787589538"
-                        },
-                        {
-                          "id": "lnk-ece8f6d991",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
                           "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8"
                         }
                       ]
@@ -90,7 +83,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-bb9f47adcd19.webp?v=1779908068",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-bb9f47adcd19.webp?v=1779908692",
             "width": 1600,
             "height": 1200
           },
@@ -116,11 +109,11 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-00ffebeeb6",
+                          "id": "lnk-cac1a980c0",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfw83gr4nhct1gwzdrcbqgrhdqmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phantu/playlist.m3u8?wsSession=b2827b4401476821baaab8dc-177990806386808&wsIPSercert=bae22ffb850f28b7b980a38d46369cd9&wsBindIP=2&wsserid=1168239097219265334"
+                          "url": "https://tfw83gr4nhct1gwzdrcbqgrhdqmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phantu/playlist.m3u8?wsSession=b2827b4401476821baaab8dc-177990867831966&wsIPSercert=bae22ffb850f28b7b980a38d46369cd9&wsBindIP=2&wsserid=1168239097219265334"
                         },
                         {
                           "id": "lnk-76e239540a",
@@ -147,16 +140,16 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-1cf68881bee0.webp?v=1779908065",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-1cf68881bee0.webp?v=1779908680",
             "width": 1600,
             "height": 1200
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -173,18 +166,18 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-01c0d52286",
+                          "id": "lnk-ac3abd3b2a",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfw83gr3dgmtugrzdgpbqgrhdommwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taomeo/playlist.m3u8?wsSession=5457780000a026e39a8b7ead-177990805450260&wsIPSercert=fc4acc60e94b8aeff93609b084b272d2&wsBindIP=2&wsserid=1168239032773957826"
+                          "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taomeo/playlist.m3u8"
                         },
                         {
-                          "id": "lnk-ac3abd3b2a",
+                          "id": "lnk-4f0af900be",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
-                          "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taomeo/playlist.m3u8"
+                          "url": "https://tfw83gr4nhct1gwzdrcbqgrhdqmmwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taomeo/playlist.m3u8?wsSession=acaac13f1c08899778ef1ff9-177990866956419&wsIPSercert=bae22ffb850f28b7b980a38d46369cd9&wsBindIP=2&wsserid=1168239097228702694"
                         },
                         {
                           "id": "lnk-5cc8eb5745",
@@ -194,11 +187,11 @@
                           "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8"
                         },
                         {
-                          "id": "lnk-2e0e6c9631",
+                          "id": "lnk-b31704ed4d",
                           "name": "Link 4",
                           "type": "hls",
                           "default": false,
-                          "url": "https://tfw83gr3dgmtugrzdgpbqgrhdommwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=475a233a1f259eb4ebf38dc5-177990805450667&wsIPSercert=fc4acc60e94b8aeff93609b084b272d2&wsBindIP=2&wsserid=1168239032784443754"
+                          "url": "https://tfw83gr4nhct1gwzdrcbqgrhdqmmwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=6db6e331fd65277240526a3c-177990866956718&wsIPSercert=bae22ffb850f28b7b980a38d46369cd9&wsBindIP=2&wsserid=1168239097225556910"
                         }
                       ]
                     }
@@ -218,7 +211,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-aee74805a73f.webp?v=1779908067",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-aee74805a73f.webp?v=1779908690",
             "width": 1600,
             "height": 1200
           },
@@ -260,7 +253,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-e967b2cbed44.webp?v=1779908068",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-e967b2cbed44.webp?v=1779908691",
             "width": 1600,
             "height": 1200
           },
