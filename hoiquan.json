@@ -24,105 +24,6 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "kaytee-aee74805a73f",
-          "name": "⚽ Fluminense vs Deportivo La Guaira | 07:30",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-aee74805a73f.webp?v=1779935077",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-aee74805a73f",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-aee74805a73f",
-                  "name": "Fluminense vs Deportivo La Guaira",
-                  "streams": [
-                    {
-                      "id": "kaytee-aee74805a73f",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-53226f123d",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfw93gr3dgmtugrzdgpbqgrhdommwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=4c1ee0d1c2a0459e8828e048-177993506908053&wsIPSercert=bae22ffb850f28b7b980a38d46369cd9&wsBindIP=2&wsserid=1168239032780249394"
-                        },
-                        {
-                          "id": "lnk-ece8f6d991",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "kaytee-e967b2cbed44",
-          "name": "⚽ River Plate vs Blooming | 07:30",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-e967b2cbed44.webp?v=1779935086",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-e967b2cbed44",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-e967b2cbed44",
-                  "name": "River Plate vs Blooming",
-                  "streams": [
-                    {
-                      "id": "kaytee-e967b2cbed44",
-                      "name": "F",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "kaytee-d45c81a8e8da",
           "name": "⚽ Okzhetpes vs Aktobe | 17:00",
           "type": "single",
@@ -132,7 +33,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-d45c81a8e8da.webp?v=1779935087",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-d45c81a8e8da.webp?v=1779936265",
             "width": 1600,
             "height": 1200
           },
@@ -174,7 +75,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-6bd88e173d0b.webp?v=1779935087",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-6bd88e173d0b.webp?v=1779936265",
             "width": 1600,
             "height": 1200
           },
@@ -216,7 +117,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-e3e697c59e6c.webp?v=1779935088",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-e3e697c59e6c.webp?v=1779936266",
             "width": 1600,
             "height": 1200
           },
@@ -239,6 +140,90 @@
                   "streams": [
                     {
                       "id": "kaytee-e3e697c59e6c",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-79aac629377e",
+          "name": "⚽ Ordabasy vs Kairat Almaty | 22:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-79aac629377e.webp?v=1779936267",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-79aac629377e",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-79aac629377e",
+                  "name": "Ordabasy vs Kairat Almaty",
+                  "streams": [
+                    {
+                      "id": "kaytee-79aac629377e",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-93c2e698f809",
+          "name": "⚽ Estonia U17 vs Croatia U17 | 23:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-93c2e698f809.webp?v=1779936267",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-93c2e698f809",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-93c2e698f809",
+                  "name": "Estonia U17 vs Croatia U17",
+                  "streams": [
+                    {
+                      "id": "kaytee-93c2e698f809",
                       "name": "F",
                       "stream_links": []
                     }
