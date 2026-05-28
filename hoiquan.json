@@ -24,48 +24,6 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "kaytee-6bd88e173d0b",
-          "name": "⚽ Belgium U17 vs Spain U17 | 18:30",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-6bd88e173d0b.webp?v=1779974676",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-6bd88e173d0b",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-6bd88e173d0b",
-                  "name": "Belgium U17 vs Spain U17",
-                  "streams": [
-                    {
-                      "id": "kaytee-6bd88e173d0b",
-                      "name": "F",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "kaytee-e3e697c59e6c",
           "name": "⚽ Petrojet vs El Gouna FC | 21:00",
           "type": "single",
@@ -75,7 +33,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-e3e697c59e6c.webp?v=1779974677",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-e3e697c59e6c.webp?v=1779975272",
             "width": 1600,
             "height": 1200
           },
@@ -99,7 +57,22 @@
                     {
                       "id": "kaytee-e3e697c59e6c",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-13c659f0f3",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfw93gr4nhct1gwzdepjqgr5u1mmwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=43c54a31bdafab5fcccf4a3e-177997526165217&wsIPSercert=fc4acc60e94b8aeff93609b084b272d2&wsBindIP=2&wsserid=1168271909250348456"
+                        },
+                        {
+                          "id": "lnk-5cc8eb5745",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
@@ -117,7 +90,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-1d9a6a7f8abb.webp?v=1779974680",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-1d9a6a7f8abb.webp?v=1779975276",
             "width": 1600,
             "height": 1200
           },
@@ -159,7 +132,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-a41ea21ffd8a.webp?v=1779974681",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-a41ea21ffd8a.webp?v=1779975276",
             "width": 1600,
             "height": 1200
           },
@@ -201,7 +174,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-93c2e698f809.webp?v=1779974677",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-93c2e698f809.webp?v=1779975272",
             "width": 1600,
             "height": 1200
           },
@@ -243,7 +216,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-8cc08d7a3542.webp?v=1779974678",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-8cc08d7a3542.webp?v=1779975273",
             "width": 1600,
             "height": 1200
           },
@@ -285,7 +258,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-adf7fa41f469.webp?v=1779974679",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-adf7fa41f469.webp?v=1779975274",
             "width": 1600,
             "height": 1200
           },
@@ -308,6 +281,48 @@
                   "streams": [
                     {
                       "id": "kaytee-adf7fa41f469",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-23c2a2ac286c",
+          "name": "⚽ Boca Juniors vs U. Catolica | 07:30",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-23c2a2ac286c.webp?v=1779975275",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-23c2a2ac286c",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-23c2a2ac286c",
+                  "name": "Boca Juniors vs U. Catolica",
+                  "streams": [
+                    {
+                      "id": "kaytee-23c2a2ac286c",
                       "name": "F",
                       "stream_links": []
                     }
