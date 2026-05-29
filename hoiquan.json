@@ -24,120 +24,6 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "kaytee-ea7ecff9edc0",
-          "name": "⚽ Andorra vs Iraq | 23:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-ea7ecff9edc0.webp?v=1780076677",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-ea7ecff9edc0",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-ea7ecff9edc0",
-                  "name": "Andorra vs Iraq",
-                  "streams": [
-                    {
-                      "id": "kaytee-ea7ecff9edc0",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-5cc8eb5745",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8"
-                        },
-                        {
-                          "id": "lnk-6660e3632c",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://tfwa3gr3dgmtugrzdgpbqgrhdommwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=475a233a1f259eb4ebf38dc5-178007665576817&wsIPSercert=fc4acc60e94b8aeff93609b084b272d2&wsBindIP=2&wsserid=1168239032784443754"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "kaytee-2ce86ef7378d",
-          "name": "⚽ South Africa vs Nicaragua | 23:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-2ce86ef7378d.webp?v=1780076677",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-2ce86ef7378d",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-2ce86ef7378d",
-                  "name": "South Africa vs Nicaragua",
-                  "streams": [
-                    {
-                      "id": "kaytee-2ce86ef7378d",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-4b952a898a",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taokinhte/playlist.m3u8"
-                        },
-                        {
-                          "id": "lnk-e0d418339e",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://tfwa3gr3dgmtugrzdgpbqgrhdommwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taokinhte/playlist.m3u8?wsSession=b678eb801441d8359d3a8f66-178007665576725&wsIPSercert=fc4acc60e94b8aeff93609b084b272d2&wsBindIP=2&wsserid=1168239032787589538"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "kaytee-ee9464af304c",
           "name": "⚽ Jayson Shaw vs Dương Quốc Hoàng | 00:00",
           "type": "single",
@@ -147,7 +33,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-ee9464af304c.webp?v=1780076676",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-ee9464af304c.webp?v=1780078474",
             "width": 1600,
             "height": 1200
           },
@@ -173,11 +59,11 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-aa3d372757",
+                          "id": "lnk-d07ecbe671",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwa3gr3dgmtugrzdgpbqgrhdommeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=f9f898b069a340cef8e6c5cc-178007665572705&wsIPSercert=bae22ffb850f28b7b980a38d46369cd9&wsBindIP=2&wsserid=1168239032757180434"
+                          "url": "https://tfwa3gr4nhct1gwzdrcbqgrhdqmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=acaac13f1c08899778ef1ff9-178007845584414&wsIPSercert=bae22ffb850f28b7b980a38d46369cd9&wsBindIP=2&wsserid=1168239097228702694"
                         },
                         {
                           "id": "lnk-c057a6c8ab",
@@ -204,7 +90,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-5c62d2e147d5.webp?v=1780076678",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-5c62d2e147d5.webp?v=1780078475",
             "width": 1600,
             "height": 1200
           },
@@ -237,11 +123,11 @@
                           "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8"
                         },
                         {
-                          "id": "lnk-aea28ece24",
+                          "id": "lnk-f0e85908be",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
-                          "url": "https://tfwa3gr3dgmtugrzdgpbqgrhdommwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=b678eb801441d8359d3a8f66-178007665990162&wsIPSercert=fc4acc60e94b8aeff93609b084b272d2&wsBindIP=2&wsserid=1168239032787589538"
+                          "url": "https://tfwa3gr3dgmtugrzdgpbqgrhdommwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=4c1ee0d1c2a0459e8828e048-178007845583414&wsIPSercert=fc4acc60e94b8aeff93609b084b272d2&wsBindIP=2&wsserid=1168239032780249394"
                         }
                       ]
                     }
@@ -261,7 +147,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-19a0dec2213f.webp?v=1780076680",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-19a0dec2213f.webp?v=1780078479",
             "width": 1600,
             "height": 1200
           },
@@ -285,7 +171,22 @@
                     {
                       "id": "kaytee-19a0dec2213f",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-7a7c08f26b",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfwa3gr4nhct1gwzdrcbqgrhdqmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phantu/playlist.m3u8?wsSession=b2827b4401476821baaab8dc-178007846736633&wsIPSercert=bae22ffb850f28b7b980a38d46369cd9&wsBindIP=2&wsserid=1168239097219265334"
+                        },
+                        {
+                          "id": "lnk-76e239540a",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phantu/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
@@ -303,7 +204,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-0ada0c727221.webp?v=1780076679",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-0ada0c727221.webp?v=1780078476",
             "width": 1600,
             "height": 1200
           },
@@ -327,7 +228,22 @@
                     {
                       "id": "kaytee-0ada0c727221",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-4b952a898a",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taokinhte/playlist.m3u8"
+                        },
+                        {
+                          "id": "lnk-bd6f77bd97",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://tfwa3gr3dgmtugrzdgpbqgrhdommwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taokinhte/playlist.m3u8?wsSession=b678eb801441d8359d3a8f66-178007845583573&wsIPSercert=fc4acc60e94b8aeff93609b084b272d2&wsBindIP=2&wsserid=1168239032787589538"
+                        }
+                      ]
                     }
                   ]
                 }
@@ -345,7 +261,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-6c67620c8714.webp?v=1780076680",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-6c67620c8714.webp?v=1780078476",
             "width": 1600,
             "height": 1200
           },
@@ -387,7 +303,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-2bcfb7fd39bc.webp?v=1780076682",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-2bcfb7fd39bc.webp?v=1780078480",
             "width": 1600,
             "height": 1200
           },
@@ -420,6 +336,90 @@
           ]
         },
         {
+          "id": "kaytee-157fe126ba11",
+          "name": "⚽ Albirex Niigata vs Kagoshima United | 12:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-157fe126ba11.webp?v=1780078477",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-157fe126ba11",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-157fe126ba11",
+                  "name": "Albirex Niigata vs Kagoshima United",
+                  "streams": [
+                    {
+                      "id": "kaytee-157fe126ba11",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-8bb2835ea234",
+          "name": "⚽ Kochi United vs Renofa Yamaguchi | 12:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-8bb2835ea234.webp?v=1780078478",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-8bb2835ea234",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-8bb2835ea234",
+                  "name": "Kochi United vs Renofa Yamaguchi",
+                  "streams": [
+                    {
+                      "id": "kaytee-8bb2835ea234",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
           "id": "kaytee-e1701ea0fc48",
           "name": "⚽ Tay Vợt Số 1 vs Tay Vợt Số 2 | 15:10",
           "type": "single",
@@ -429,7 +429,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-e1701ea0fc48.webp?v=1780076683",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-e1701ea0fc48.webp?v=1780078481",
             "width": 1600,
             "height": 1200
           },
@@ -471,7 +471,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-8a32f807320d.webp?v=1780076681",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-8a32f807320d.webp?v=1780078480",
             "width": 1600,
             "height": 1200
           },
@@ -513,7 +513,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-51900f136b3e.webp?v=1780076683",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-51900f136b3e.webp?v=1780078482",
             "width": 1600,
             "height": 1200
           },
