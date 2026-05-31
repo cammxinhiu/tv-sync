@@ -24,8 +24,8 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "kaytee-52fd59bb0f09",
-          "name": "⚽ Hội Quán TV | 12:00",
+          "id": "kaytee-b2eb6ae5efa6",
+          "name": "⚽ Blaublitz Akita vs Consadole Sapporo | 12:00",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -33,7 +33,64 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-52fd59bb0f09.webp?v=1780203289",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-b2eb6ae5efa6.webp?v=1780203879",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-b2eb6ae5efa6",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-b2eb6ae5efa6",
+                  "name": "Blaublitz Akita vs Consadole Sapporo",
+                  "streams": [
+                    {
+                      "id": "kaytee-b2eb6ae5efa6",
+                      "name": "F",
+                      "stream_links": [
+                        {
+                          "id": "lnk-9b9affcdd9",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfwc3gr4nhct1gwzdepjqgrhuqmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=d7d06d36013c1e43426d9700-178020385597423&wsIPSercert=fc4acc60e94b8aeff93609b084b272d2&wsBindIP=2&wsserid=1168271556798807710"
+                        },
+                        {
+                          "id": "lnk-2af2f7b4fe",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-d1a3a84c667f",
+          "name": "⚽ Tay Vợt Số 1 vs Tay Vợt Số 2 | 13:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-d1a3a84c667f.webp?v=1780203880",
             "width": 1600,
             "height": 1200
           },
@@ -47,15 +104,57 @@
           ],
           "sources": [
             {
-              "id": "kaytee-52fd59bb0f09",
+              "id": "kaytee-d1a3a84c667f",
               "name": "Hội Quán",
               "contents": [
                 {
-                  "id": "kaytee-52fd59bb0f09",
-                  "name": "Hội Quán TV",
+                  "id": "kaytee-d1a3a84c667f",
+                  "name": "Tay Vợt Số 1 vs Tay Vợt Số 2",
                   "streams": [
                     {
-                      "id": "kaytee-52fd59bb0f09",
+                      "id": "kaytee-d1a3a84c667f",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-c29dfb6eb50c",
+          "name": "⚽ Jeonnam Dragons vs Seoul E-Land FC | 14:30",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-c29dfb6eb50c.webp?v=1780203881",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-c29dfb6eb50c",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-c29dfb6eb50c",
+                  "name": "Jeonnam Dragons vs Seoul E-Land FC",
+                  "streams": [
+                    {
+                      "id": "kaytee-c29dfb6eb50c",
                       "name": "F",
                       "stream_links": []
                     }
@@ -75,7 +174,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-d6bf0b4f86f3.webp?v=1780203290",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-d6bf0b4f86f3.webp?v=1780203882",
             "width": 1600,
             "height": 1200
           },
@@ -117,7 +216,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-94cb8dc990c6.webp?v=1780203291",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-94cb8dc990c6.webp?v=1780203882",
             "width": 1600,
             "height": 1200
           },
@@ -159,7 +258,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-9a7ed55845be.webp?v=1780203291",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-9a7ed55845be.webp?v=1780203883",
             "width": 1600,
             "height": 1200
           },
@@ -201,7 +300,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-d5fd022a0773.webp?v=1780203292",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-d5fd022a0773.webp?v=1780203884",
             "width": 1600,
             "height": 1200
           },
@@ -243,7 +342,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-124197cc47b0.webp?v=1780203293",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-124197cc47b0.webp?v=1780203884",
             "width": 1600,
             "height": 1200
           },
@@ -285,7 +384,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-f6e6b2f75078.webp?v=1780203294",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-f6e6b2f75078.webp?v=1780203885",
             "width": 1600,
             "height": 1200
           },
@@ -327,7 +426,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-0c794b4102f8.webp?v=1780203294",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-0c794b4102f8.webp?v=1780203886",
             "width": 1600,
             "height": 1200
           },
@@ -369,7 +468,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-75e7caec2ff0.webp?v=1780203295",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-75e7caec2ff0.webp?v=1780203887",
             "width": 1600,
             "height": 1200
           },
