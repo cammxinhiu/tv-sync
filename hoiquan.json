@@ -24,134 +24,6 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "kaytee-cc2fc9b8dfc9",
-          "name": "⚽ Rafael Jodar vs Alexandet Zverev | 19:30",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-cc2fc9b8dfc9.webp?v=1780411504",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-cc2fc9b8dfc9",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-cc2fc9b8dfc9",
-                  "name": "Rafael Jodar vs Alexandet Zverev",
-                  "streams": [
-                    {
-                      "id": "kaytee-cc2fc9b8dfc9",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-76e239540a",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phantu/playlist.m3u8"
-                        },
-                        {
-                          "id": "lnk-c53bfb95d0",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://tfwe3gr3dgmtugrzdgpbqgrhdommeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phantu/playlist.m3u8?wsSession=f9f898b069a340cef8e6c5cc-178041147232737&wsIPSercert=bae22ffb850f28b7b980a38d46369cd9&wsBindIP=2&wsserid=1168239032757180434"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "kaytee-ab969f5d01b6",
-          "name": "⚽ Malaysia U19 vs Singapore U19 | 20:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-ab969f5d01b6.webp?v=1780411505",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-ab969f5d01b6",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-ab969f5d01b6",
-                  "name": "Malaysia U19 vs Singapore U19",
-                  "streams": [
-                    {
-                      "id": "kaytee-ab969f5d01b6",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-f705642d33",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfwe3gr3dgmtugrzdgpbqgrhdommwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taokinhte/playlist.m3u8?wsSession=b678eb801441d8359d3a8f66-178041147275911&wsIPSercert=fc4acc60e94b8aeff93609b084b272d2&wsBindIP=2&wsserid=1168239032787589538"
-                        },
-                        {
-                          "id": "lnk-4b952a898a",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taokinhte/playlist.m3u8"
-                        },
-                        {
-                          "id": "lnk-c057a6c8ab",
-                          "name": "Link 3",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8"
-                        },
-                        {
-                          "id": "lnk-dde896e152",
-                          "name": "Link 4",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://tfwe3gr3dgmtugrzdgpbqgrhdommeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=b678eb801441d8359d3a8f66-178041147232688&wsIPSercert=bae22ffb850f28b7b980a38d46369cd9&wsBindIP=2&wsserid=1168239032787589538"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "kaytee-759b1a51d3fa",
           "name": "⚽ Al Kahrabaa vs Al-Karma | 22:00",
           "type": "single",
@@ -161,16 +33,16 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-759b1a51d3fa.webp?v=1780411506",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-759b1a51d3fa.webp?v=1780412678",
             "width": 1600,
             "height": 1200
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -187,18 +59,18 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-b2d6e0a4f2",
+                          "id": "lnk-ece8f6d991",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwe3gr3dgmtugrzdgpbqgrhdommwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=4c1ee0d1c2a0459e8828e048-178041147889929&wsIPSercert=fc4acc60e94b8aeff93609b084b272d2&wsBindIP=2&wsserid=1168239032780249394"
+                          "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8"
                         },
                         {
-                          "id": "lnk-ece8f6d991",
+                          "id": "lnk-796b734ac5",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
-                          "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8"
+                          "url": "https://tfwe3gr3dgmtugrzdgpbqgrhdommwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=f9f898b069a340cef8e6c5cc-178041265750367&wsIPSercert=bae22ffb850f28b7b980a38d46369cd9&wsBindIP=2&wsserid=1168239032757180434"
                         }
                       ]
                     }
@@ -218,7 +90,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-0e29f1d95302.webp?v=1780411507",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-0e29f1d95302.webp?v=1780412679",
             "width": 1600,
             "height": 1200
           },
@@ -251,6 +123,90 @@
           ]
         },
         {
+          "id": "kaytee-4842b7460c42",
+          "name": "⚽ Georgia vs Romania | 00:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-4842b7460c42.webp?v=1780412680",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-4842b7460c42",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-4842b7460c42",
+                  "name": "Georgia vs Romania",
+                  "streams": [
+                    {
+                      "id": "kaytee-4842b7460c42",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-b636e0ab6d31",
+          "name": "⚽ Morocco vs Madagascar | 00:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-b636e0ab6d31.webp?v=1780412680",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-b636e0ab6d31",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-b636e0ab6d31",
+                  "name": "Morocco vs Madagascar",
+                  "streams": [
+                    {
+                      "id": "kaytee-b636e0ab6d31",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
           "id": "kaytee-23a0aad4f8b9",
           "name": "⚽ Joao Fonseca vs Jakub Mensik | 01:30",
           "type": "single",
@@ -260,7 +216,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-23a0aad4f8b9.webp?v=1780411508",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-23a0aad4f8b9.webp?v=1780412681",
             "width": 1600,
             "height": 1200
           },
@@ -302,7 +258,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-b59e5a9e471f.webp?v=1780411511",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-b59e5a9e471f.webp?v=1780412685",
             "width": 1600,
             "height": 1200
           },
@@ -344,7 +300,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-5cf53986be5c.webp?v=1780411512",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-5cf53986be5c.webp?v=1780412685",
             "width": 1600,
             "height": 1200
           },
@@ -386,7 +342,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-286765692bd5.webp?v=1780411513",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-286765692bd5.webp?v=1780412686",
             "width": 1600,
             "height": 1200
           },
@@ -428,7 +384,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-fc1f1d789ef3.webp?v=1780411508",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-fc1f1d789ef3.webp?v=1780412682",
             "width": 1600,
             "height": 1200
           },
@@ -470,7 +426,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-544425e0fa4c.webp?v=1780411509",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-544425e0fa4c.webp?v=1780412683",
             "width": 1600,
             "height": 1200
           },
@@ -512,7 +468,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-ebd3c81f0d51.webp?v=1780411510",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-ebd3c81f0d51.webp?v=1780412684",
             "width": 1600,
             "height": 1200
           },
@@ -554,7 +510,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-20e279871266.webp?v=1780411510",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-20e279871266.webp?v=1780412683",
             "width": 1600,
             "height": 1200
           },
