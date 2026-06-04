@@ -24,77 +24,6 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "kaytee-9954205121bf",
-          "name": "⚽ Spain vs Iraq | 02:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-9954205121bf.webp?v=1780605883",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-9954205121bf",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-9954205121bf",
-                  "name": "Spain vs Iraq",
-                  "streams": [
-                    {
-                      "id": "kaytee-9954205121bf",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-4b952a898a",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taokinhte/playlist.m3u8"
-                        },
-                        {
-                          "id": "lnk-181dd04922",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://tfwg3gr4nhct1gwzdrcbqgrhdqmmwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taokinhte/playlist.m3u8?wsSession=acaac13f1c08899778ef1ff9-178060585629494&wsIPSercert=bae22ffb850f28b7b980a38d46369cd9&wsBindIP=2&wsserid=1168239097228702694"
-                        },
-                        {
-                          "id": "lnk-5cc8eb5745",
-                          "name": "Link 3",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8"
-                        },
-                        {
-                          "id": "lnk-e914520405",
-                          "name": "Link 4",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://tfwg3gr4nhct1gwzdrcbqgrhdqmmwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=acaac13f1c08899778ef1ff9-178060585629486&wsIPSercert=bae22ffb850f28b7b980a38d46369cd9&wsBindIP=2&wsserid=1168239097228702694"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "kaytee-2c8e42404fa9",
           "name": "⚽ France vs Ivory Coast | 02:10",
           "type": "single",
@@ -104,7 +33,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-2c8e42404fa9.webp?v=1780605884",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-2c8e42404fa9.webp?v=1780608286",
             "width": 1600,
             "height": 1200
           },
@@ -128,36 +57,7 @@
                     {
                       "id": "kaytee-2c8e42404fa9",
                       "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-f6c2d33386",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfwg3gr4nhct1gwzdepjqgrhuqmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=8d09530ad7e54a32339881bb-178060585654502&wsIPSercert=bae22ffb850f28b7b980a38d46369cd9&wsBindIP=2&wsserid=1168271556800904919"
-                        },
-                        {
-                          "id": "lnk-9a54232d81",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8"
-                        },
-                        {
-                          "id": "lnk-4ad4133d23",
-                          "name": "Link 3",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://tfwg3gr4nhct1gwzdepjqgrhuqmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=8d09530ad7e54a32339881bb-178060586369324&wsIPSercert=bae22ffb850f28b7b980a38d46369cd9&wsBindIP=2&wsserid=1168271556800904919"
-                        },
-                        {
-                          "id": "lnk-21b1651418",
-                          "name": "Link 4",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8"
-                        }
-                      ]
+                      "stream_links": []
                     }
                   ]
                 }
@@ -175,7 +75,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-5d226f20cdc1.webp?v=1780605884",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-5d226f20cdc1.webp?v=1780608287",
             "width": 1600,
             "height": 1200
           },
@@ -217,7 +117,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-4e6756331ea2.webp?v=1780605885",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-4e6756331ea2.webp?v=1780608288",
             "width": 1600,
             "height": 1200
           },
@@ -259,7 +159,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-e380941e22a2.webp?v=1780605886",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-e380941e22a2.webp?v=1780608289",
             "width": 1600,
             "height": 1200
           },
@@ -292,6 +192,48 @@
           ]
         },
         {
+          "id": "kaytee-6024beba4c74",
+          "name": "⚽ Mexico vs Serbia | 09:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-6024beba4c74.webp?v=1780608290",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-6024beba4c74",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-6024beba4c74",
+                  "name": "Mexico vs Serbia",
+                  "streams": [
+                    {
+                      "id": "kaytee-6024beba4c74",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
           "id": "kaytee-d094f568f5ac",
           "name": "⚽ Tay Vợt Số 1 vs Tay Vợt Số 2 | 09:00",
           "type": "single",
@@ -301,7 +243,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-d094f568f5ac.webp?v=1780605887",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-d094f568f5ac.webp?v=1780608291",
             "width": 1600,
             "height": 1200
           },
@@ -343,7 +285,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-8defdb0b80a7.webp?v=1780605888",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-8defdb0b80a7.webp?v=1780608292",
             "width": 1600,
             "height": 1200
           },
@@ -376,6 +318,48 @@
           ]
         },
         {
+          "id": "kaytee-78be97ac9f7a",
+          "name": "⚽ Brunei U19 vs Malaysia U19 | 16:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-78be97ac9f7a.webp?v=1780608290",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-78be97ac9f7a",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-78be97ac9f7a",
+                  "name": "Brunei U19 vs Malaysia U19",
+                  "streams": [
+                    {
+                      "id": "kaytee-78be97ac9f7a",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
           "id": "kaytee-3e9f11e34acb",
           "name": "⚽ Tay Vợt Số 1 vs Tay Vợt Số 2 | 16:00",
           "type": "single",
@@ -385,7 +369,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-3e9f11e34acb.webp?v=1780605889",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-3e9f11e34acb.webp?v=1780608292",
             "width": 1600,
             "height": 1200
           },
@@ -427,7 +411,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-0663e4c5d3a9.webp?v=1780605889",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-0663e4c5d3a9.webp?v=1780608293",
             "width": 1600,
             "height": 1200
           },
@@ -469,7 +453,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-b47ff71e4111.webp?v=1780605890",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-b47ff71e4111.webp?v=1780608294",
             "width": 1600,
             "height": 1200
           },
