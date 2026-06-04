@@ -24,8 +24,8 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "kaytee-e15f578005d4",
-          "name": "⚽ Tay Vợt Số 1 vs Tay Vợt Số 2 | 17:30",
+          "id": "kaytee-83bd2b2ebed2",
+          "name": "⚽ SHI Yu Qi vs Yushi TANAKA | 17:30",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -33,7 +33,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-e15f578005d4.webp?v=1780572879",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-83bd2b2ebed2.webp?v=1780573480",
             "width": 1600,
             "height": 1200
           },
@@ -47,30 +47,30 @@
           ],
           "sources": [
             {
-              "id": "kaytee-e15f578005d4",
+              "id": "kaytee-83bd2b2ebed2",
               "name": "Hội Quán",
               "contents": [
                 {
-                  "id": "kaytee-e15f578005d4",
-                  "name": "Tay Vợt Số 1 vs Tay Vợt Số 2",
+                  "id": "kaytee-83bd2b2ebed2",
+                  "name": "SHI Yu Qi vs Yushi TANAKA",
                   "streams": [
                     {
-                      "id": "kaytee-e15f578005d4",
+                      "id": "kaytee-83bd2b2ebed2",
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-158b3d37dd",
+                          "id": "lnk-bed6681f1c",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwg3gr4nhct1gwzdepjqgrhuqmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanchuot/playlist.m3u8?wsSession=72d7705bc320fff3bd90ad95-178057285664037&wsIPSercert=fc4acc60e94b8aeff93609b084b272d2&wsBindIP=2&wsserid=1168276518868027036"
+                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanchuot/playlist.m3u8"
                         },
                         {
-                          "id": "lnk-bed6681f1c",
+                          "id": "lnk-04af2d7889",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanchuot/playlist.m3u8"
+                          "url": "https://tfwg3gr4nhct1gwzdrpbofa3dqmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanchuot/playlist.m3u8?wsSession=8af6f900f1ed15d73c80f0a6-178057345724189&wsIPSercert=bae22ffb850f28b7b980a38d46369cd9&wsBindIP=2&wsserid=1168272005882670270"
                         }
                       ]
                     }
@@ -90,7 +90,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-72cb8a02a3e4.webp?v=1780572880",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-72cb8a02a3e4.webp?v=1780573482",
             "width": 1600,
             "height": 1200
           },
@@ -116,62 +116,20 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-0c3fed7a67",
+                          "id": "lnk-4b952a898a",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwg3gr4nhct1gwzdrcbqgrhdqmmwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taokinhte/playlist.m3u8?wsSession=acaac13f1c08899778ef1ff9-178057285657409&wsIPSercert=bae22ffb850f28b7b980a38d46369cd9&wsBindIP=2&wsserid=1168239097228702694"
+                          "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taokinhte/playlist.m3u8"
                         },
                         {
-                          "id": "lnk-4b952a898a",
+                          "id": "lnk-1271132a75",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
-                          "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taokinhte/playlist.m3u8"
+                          "url": "https://tfwg3gr4nhct1gwzdrcbqgrhdqmmwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taokinhte/playlist.m3u8?wsSession=acaac13f1c08899778ef1ff9-178057345723099&wsIPSercert=bae22ffb850f28b7b980a38d46369cd9&wsBindIP=2&wsserid=1168239097228702694"
                         }
                       ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "kaytee-30bc9afc0209",
-          "name": "⚽ Belgium U17 vs France U17 | 18:30",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-30bc9afc0209.webp?v=1780572889",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-30bc9afc0209",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-30bc9afc0209",
-                  "name": "Belgium U17 vs France U17",
-                  "streams": [
-                    {
-                      "id": "kaytee-30bc9afc0209",
-                      "name": "F",
-                      "stream_links": []
                     }
                   ]
                 }
@@ -189,7 +147,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-d3dc366fcdf1.webp?v=1780572890",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-d3dc366fcdf1.webp?v=1780573483",
             "width": 1600,
             "height": 1200
           },
@@ -213,7 +171,22 @@
                     {
                       "id": "kaytee-d3dc366fcdf1",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-9a54232d81",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8"
+                        },
+                        {
+                          "id": "lnk-3b54bdb512",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://tfwg3gr4nhct1gwzdrpbofa3dqmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=b626872672a6b7a84c76dc4f-178057345724455&wsIPSercert=bae22ffb850f28b7b980a38d46369cd9&wsBindIP=2&wsserid=1168271917933288969"
+                        }
+                      ]
                     }
                   ]
                 }
@@ -231,7 +204,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-8746fd85863f.webp?v=1780572893",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-8746fd85863f.webp?v=1780573484",
             "width": 1600,
             "height": 1200
           },
@@ -273,7 +246,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-4ae1251b3fee.webp?v=1780572911",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-4ae1251b3fee.webp?v=1780573498",
             "width": 1600,
             "height": 1200
           },
@@ -315,7 +288,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-3d60ca1ff9c6.webp?v=1780572912",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-3d60ca1ff9c6.webp?v=1780573498",
             "width": 1600,
             "height": 1200
           },
@@ -357,7 +330,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-badff51c722e.webp?v=1780572894",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-badff51c722e.webp?v=1780573485",
             "width": 1600,
             "height": 1200
           },
@@ -390,8 +363,8 @@
           ]
         },
         {
-          "id": "kaytee-bb8547aadacd",
-          "name": "⚽ Burundi vs Equatorial Guinea | 23:00",
+          "id": "kaytee-ad670e1de923",
+          "name": "⚽ Lebanon vs Yemen | 23:00",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -399,7 +372,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-bb8547aadacd.webp?v=1780572894",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-ad670e1de923.webp?v=1780573486",
             "width": 1600,
             "height": 1200
           },
@@ -413,15 +386,57 @@
           ],
           "sources": [
             {
-              "id": "kaytee-bb8547aadacd",
+              "id": "kaytee-ad670e1de923",
               "name": "Hội Quán",
               "contents": [
                 {
-                  "id": "kaytee-bb8547aadacd",
-                  "name": "Burundi vs Equatorial Guinea",
+                  "id": "kaytee-ad670e1de923",
+                  "name": "Lebanon vs Yemen",
                   "streams": [
                     {
-                      "id": "kaytee-bb8547aadacd",
+                      "id": "kaytee-ad670e1de923",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-cf2d7e7f523c",
+          "name": "⚽ Sweden vs Greece | 00:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-cf2d7e7f523c.webp?v=1780573487",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-cf2d7e7f523c",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-cf2d7e7f523c",
+                  "name": "Sweden vs Greece",
+                  "streams": [
+                    {
+                      "id": "kaytee-cf2d7e7f523c",
                       "name": "F",
                       "stream_links": []
                     }
@@ -441,7 +456,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-253d5e9ef502.webp?v=1780572900",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-253d5e9ef502.webp?v=1780573488",
             "width": 1600,
             "height": 1200
           },
@@ -483,7 +498,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-5d226f20cdc1.webp?v=1780573493",
             "width": 1600,
             "height": 1200
           },
