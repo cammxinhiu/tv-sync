@@ -24,120 +24,6 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "kaytee-891bc608dd6e",
-          "name": "⚽ Angola vs Mauritania | 02:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-891bc608dd6e.webp?v=1780692879",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-891bc608dd6e",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-891bc608dd6e",
-                  "name": "Angola vs Mauritania",
-                  "streams": [
-                    {
-                      "id": "kaytee-891bc608dd6e",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-5c6321725b",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfwh3gr3dgmtugrzdgpbqgrhdommeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=3e684bc99c1adfeddf5a5a13-178069285531443&wsIPSercert=bae22ffb850f28b7b980a38d46369cd9&wsBindIP=2&wsserid=1168239032764520582"
-                        },
-                        {
-                          "id": "lnk-9a54232d81",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "kaytee-11884fcea3ed",
-          "name": "⚽ Cộng Hòa Dominicana vs Bulgaria | 02:30",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-11884fcea3ed.webp?v=1780692882",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-11884fcea3ed",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-11884fcea3ed",
-                  "name": "Cộng Hòa Dominicana vs Bulgaria",
-                  "streams": [
-                    {
-                      "id": "kaytee-11884fcea3ed",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-bed6681f1c",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanchuot/playlist.m3u8"
-                        },
-                        {
-                          "id": "lnk-d785732bc1",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://tfwh3gr3dgmtugrzdgpbqgrhdommeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanchuot/playlist.m3u8?wsSession=f9f898b069a340cef8e6c5cc-178069286450294&wsIPSercert=bae22ffb850f28b7b980a38d46369cd9&wsBindIP=2&wsserid=1168239032757180434"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "kaytee-57fef2998fcc",
           "name": "⚽ Ukraina vs Nhật Bản | 03:30",
           "type": "single",
@@ -147,7 +33,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-57fef2998fcc.webp?v=1780692878",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-57fef2998fcc.webp?v=1780693490",
             "width": 1600,
             "height": 1200
           },
@@ -180,55 +66,13 @@
                           "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanhai/playlist.m3u8"
                         },
                         {
-                          "id": "lnk-e0ad75bdce",
+                          "id": "lnk-79e8c1d603",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
-                          "url": "https://tfwh3gr3dgmtugrzdgpbqgrhdommeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanhai/playlist.m3u8?wsSession=b678eb801441d8359d3a8f66-178069285531747&wsIPSercert=bae22ffb850f28b7b980a38d46369cd9&wsBindIP=2&wsserid=1168239032787589538"
+                          "url": "https://tfwh3gr4nhct1gwzdrcbqgrhdqmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanhai/playlist.m3u8?wsSession=acaac13f1c08899778ef1ff9-178069347000911&wsIPSercert=bae22ffb850f28b7b980a38d46369cd9&wsBindIP=2&wsserid=1168239097228702694"
                         }
                       ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "kaytee-ccce13b1520a",
-          "name": "⚽ Puerto Rico vs Saudi Arabia | 06:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-ccce13b1520a.webp?v=1780692879",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "⏳ Chưa live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#d54f1a"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-ccce13b1520a",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-ccce13b1520a",
-                  "name": "Puerto Rico vs Saudi Arabia",
-                  "streams": [
-                    {
-                      "id": "kaytee-ccce13b1520a",
-                      "name": "F",
-                      "stream_links": []
                     }
                   ]
                 }
@@ -246,7 +90,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-c6eddc371277.webp?v=1780692882",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-c6eddc371277.webp?v=1780693491",
             "width": 1600,
             "height": 1200
           },
@@ -279,6 +123,48 @@
           ]
         },
         {
+          "id": "kaytee-ccce13b1520a",
+          "name": "⚽ Puerto Rico vs Saudi Arabia | 06:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-ccce13b1520a.webp?v=1780693495",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-ccce13b1520a",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-ccce13b1520a",
+                  "name": "Puerto Rico vs Saudi Arabia",
+                  "streams": [
+                    {
+                      "id": "kaytee-ccce13b1520a",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
           "id": "kaytee-1fac4d9feb68",
           "name": "⚽ Canada vs Rep. Of Ireland | 06:30",
           "type": "single",
@@ -288,7 +174,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-1fac4d9feb68.webp?v=1780692880",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-1fac4d9feb68.webp?v=1780693496",
             "width": 1600,
             "height": 1200
           },
@@ -330,7 +216,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-5747a9f78b7c.webp?v=1780692884",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-5747a9f78b7c.webp?v=1780693493",
             "width": 1600,
             "height": 1200
           },
@@ -372,7 +258,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-07b88330bba2.webp?v=1780692889",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-07b88330bba2.webp?v=1780693503",
             "width": 1600,
             "height": 1200
           },
@@ -414,7 +300,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-81eb3ccc2b7c.webp?v=1780692884",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-81eb3ccc2b7c.webp?v=1780693493",
             "width": 1600,
             "height": 1200
           },
@@ -456,7 +342,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-5900aae3904f.webp?v=1780692881",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-5900aae3904f.webp?v=1780693496",
             "width": 1600,
             "height": 1200
           },
@@ -498,7 +384,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-1e3dd35e90ab.webp?v=1780692881",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-1e3dd35e90ab.webp?v=1780693497",
             "width": 1600,
             "height": 1200
           },
@@ -540,7 +426,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-a24335c2af4a.webp?v=1780692887",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-a24335c2af4a.webp?v=1780693500",
             "width": 1600,
             "height": 1200
           },
@@ -573,6 +459,48 @@
           ]
         },
         {
+          "id": "kaytee-0efaafded794",
+          "name": "⚽ Iran vs Indonesia | 14:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-0efaafded794.webp?v=1780693494",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-0efaafded794",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-0efaafded794",
+                  "name": "Iran vs Indonesia",
+                  "streams": [
+                    {
+                      "id": "kaytee-0efaafded794",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
           "id": "kaytee-ef539cbd7c71",
           "name": "⚽ Tay Vợt Số 1 vs Tay Vợt Số 2 | 14:30",
           "type": "single",
@@ -582,7 +510,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-ef539cbd7c71.webp?v=1780692887",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-ef539cbd7c71.webp?v=1780693501",
             "width": 1600,
             "height": 1200
           },
@@ -624,7 +552,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-b2e55ce27dec.webp?v=1780692885",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-b2e55ce27dec.webp?v=1780693498",
             "width": 1600,
             "height": 1200
           },
@@ -666,7 +594,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-fb16437a37f9.webp?v=1780692886",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-fb16437a37f9.webp?v=1780693499",
             "width": 1600,
             "height": 1200
           },
@@ -708,7 +636,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-3e9f11e34acb.webp?v=1780692888",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-3e9f11e34acb.webp?v=1780693501",
             "width": 1600,
             "height": 1200
           },
@@ -741,6 +669,48 @@
           ]
         },
         {
+          "id": "kaytee-db42b53ba68c",
+          "name": "⚽ Vanuatu vs Fiji | 17:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-db42b53ba68c.webp?v=1780693498",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-db42b53ba68c",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-db42b53ba68c",
+                  "name": "Vanuatu vs Fiji",
+                  "streams": [
+                    {
+                      "id": "kaytee-db42b53ba68c",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
           "id": "kaytee-bab51ee72030",
           "name": "⚽ Tay Vợt Số 1 vs Tay Vợt Số 2 | 18:30",
           "type": "single",
@@ -750,7 +720,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-bab51ee72030.webp?v=1780692889",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-bab51ee72030.webp?v=1780693502",
             "width": 1600,
             "height": 1200
           },
@@ -792,7 +762,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-73a6e5198b05.webp?v=1780692890",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-73a6e5198b05.webp?v=1780693503",
             "width": 1600,
             "height": 1200
           },
