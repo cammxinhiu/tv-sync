@@ -24,63 +24,6 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "kaytee-b2e694eabc4b",
-          "name": "⚽ Portugal U19 vs Greece U19 | 22:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-b2e694eabc4b.webp?v=1780764278",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-b2e694eabc4b",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-b2e694eabc4b",
-                  "name": "Portugal U19 vs Greece U19",
-                  "streams": [
-                    {
-                      "id": "kaytee-b2e694eabc4b",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-9a54232d81",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8"
-                        },
-                        {
-                          "id": "lnk-03cf04ec12",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://tfwi3gr4nhct1gwzdrcttfa5ugmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=0b8ef89fbb96613f69fc339c-178076425895686&wsIPSercert=bae22ffb850f28b7b980a38d46369cd9&wsBindIP=2&wsserid=1168241629725262039"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "kaytee-a8a9f5f04558",
           "name": "⚽ IEM Cologne Major 2026 vs IEM Cologne Major 2026 | 22:30",
           "type": "single",
@@ -90,7 +33,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-a8a9f5f04558.webp?v=1780764279",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-a8a9f5f04558.webp?v=1780765488",
             "width": 1600,
             "height": 1200
           },
@@ -116,11 +59,11 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-f5edd1ec68",
+                          "id": "lnk-b3ebb4a6dd",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwi3gr4nhct1gwzdrcttfa5ugmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanphep/playlist.m3u8?wsSession=e19806f0520f795048f2f44a-178076425895795&wsIPSercert=bae22ffb850f28b7b980a38d46369cd9&wsBindIP=2&wsserid=1168239733233295007"
+                          "url": "https://tfwi3gr4nhct1gwzdrcttfa5unmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanphep/playlist.m3u8?wsSession=fcf1d3180b6c9d5e74948e4a-178076546626223&wsIPSercert=fc4acc60e94b8aeff93609b084b272d2&wsBindIP=2&wsserid=1168239733243780912"
                         },
                         {
                           "id": "lnk-a0e5ccc56b",
@@ -138,48 +81,6 @@
           ]
         },
         {
-          "id": "kaytee-f1bb1329014e",
-          "name": "⚽ Romania vs Wales | 00:45",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-f1bb1329014e.webp?v=1780764280",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "⏳ Chưa live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#d54f1a"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-f1bb1329014e",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-f1bb1329014e",
-                  "name": "Romania vs Wales",
-                  "streams": [
-                    {
-                      "id": "kaytee-f1bb1329014e",
-                      "name": "F",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "kaytee-f90aef9de664",
           "name": "⚽ Portugal vs Chile | 00:45",
           "type": "single",
@@ -189,7 +90,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-f90aef9de664.webp?v=1780764280",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-f90aef9de664.webp?v=1780765487",
             "width": 1600,
             "height": 1200
           },
@@ -222,8 +123,8 @@
           ]
         },
         {
-          "id": "kaytee-90cbc610d66a",
-          "name": "⚽ Italy vs Thổ Nhĩ Kỳ | 01:30",
+          "id": "kaytee-f1bb1329014e",
+          "name": "⚽ Romania vs Wales | 00:45",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -231,7 +132,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-90cbc610d66a.webp?v=1780764281",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-f1bb1329014e.webp?v=1780765490",
             "width": 1600,
             "height": 1200
           },
@@ -245,15 +146,15 @@
           ],
           "sources": [
             {
-              "id": "kaytee-90cbc610d66a",
+              "id": "kaytee-f1bb1329014e",
               "name": "Hội Quán",
               "contents": [
                 {
-                  "id": "kaytee-90cbc610d66a",
-                  "name": "Italy vs Thổ Nhĩ Kỳ",
+                  "id": "kaytee-f1bb1329014e",
+                  "name": "Romania vs Wales",
                   "streams": [
                     {
-                      "id": "kaytee-90cbc610d66a",
+                      "id": "kaytee-f1bb1329014e",
                       "name": "F",
                       "stream_links": []
                     }
@@ -273,7 +174,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-417674ec3e52.webp?v=1780764282",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-417674ec3e52.webp?v=1780765491",
             "width": 1600,
             "height": 1200
           },
@@ -306,6 +207,48 @@
           ]
         },
         {
+          "id": "kaytee-90cbc610d66a",
+          "name": "⚽ Italy vs Thổ Nhĩ Kỳ | 01:30",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-90cbc610d66a.webp?v=1780765493",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-90cbc610d66a",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-90cbc610d66a",
+                  "name": "Italy vs Thổ Nhĩ Kỳ",
+                  "streams": [
+                    {
+                      "id": "kaytee-90cbc610d66a",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
           "id": "kaytee-bf9fc21002d5",
           "name": "⚽ Australia vs Switzerland | 02:00",
           "type": "single",
@@ -315,7 +258,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-bf9fc21002d5.webp?v=1780764283",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-bf9fc21002d5.webp?v=1780765491",
             "width": 1600,
             "height": 1200
           },
@@ -348,6 +291,48 @@
           ]
         },
         {
+          "id": "kaytee-384c2bb78c42",
+          "name": "⚽ England vs New Zealand | 03:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-384c2bb78c42.webp?v=1780765492",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-384c2bb78c42",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-384c2bb78c42",
+                  "name": "England vs New Zealand",
+                  "streams": [
+                    {
+                      "id": "kaytee-384c2bb78c42",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
           "id": "kaytee-d9ab9bb2328c",
           "name": "⚽ Canada vs Pháp | 03:30",
           "type": "single",
@@ -357,7 +342,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-d9ab9bb2328c.webp?v=1780764285",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-d9ab9bb2328c.webp?v=1780765493",
             "width": 1600,
             "height": 1200
           },
@@ -399,7 +384,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-c3bf245580ff.webp?v=1780764285",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-c3bf245580ff.webp?v=1780765494",
             "width": 1600,
             "height": 1200
           },
@@ -441,7 +426,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-ca31d5121cf5.webp?v=1780764286",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-ca31d5121cf5.webp?v=1780765495",
             "width": 1600,
             "height": 1200
           },
@@ -483,7 +468,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-af7f54bcc00c.webp?v=1780764287",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-af7f54bcc00c.webp?v=1780765495",
             "width": 1600,
             "height": 1200
           },
@@ -525,7 +510,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-efedcb9ee47c.webp?v=1780764283",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-efedcb9ee47c.webp?v=1780765488",
             "width": 1600,
             "height": 1200
           },
@@ -567,7 +552,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-6b50718fbf15.webp?v=1780764284",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-6b50718fbf15.webp?v=1780765489",
             "width": 1600,
             "height": 1200
           },
@@ -609,7 +594,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-2e37d334e083.webp?v=1780764287",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-2e37d334e083.webp?v=1780765496",
             "width": 1600,
             "height": 1200
           },
