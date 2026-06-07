@@ -24,48 +24,6 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "kaytee-1dc94cdefa71",
-          "name": "⚽ Oita Trinita vs Montedio Yamagata | 14:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-1dc94cdefa71.webp?v=1780813488",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "⏳ Chưa live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#d54f1a"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-1dc94cdefa71",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-1dc94cdefa71",
-                  "name": "Oita Trinita vs Montedio Yamagata",
-                  "streams": [
-                    {
-                      "id": "kaytee-1dc94cdefa71",
-                      "name": "F",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "kaytee-af7f54bcc00c",
           "name": "⚽ Đài Loan vs Hàn Quốc | 14:00",
           "type": "single",
@@ -75,7 +33,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-af7f54bcc00c.webp?v=1780813492",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-af7f54bcc00c.webp?v=1780814098",
             "width": 1600,
             "height": 1200
           },
@@ -108,6 +66,48 @@
           ]
         },
         {
+          "id": "kaytee-1dc94cdefa71",
+          "name": "⚽ Oita Trinita vs Montedio Yamagata | 14:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-1dc94cdefa71.webp?v=1780814099",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-1dc94cdefa71",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-1dc94cdefa71",
+                  "name": "Oita Trinita vs Montedio Yamagata",
+                  "streams": [
+                    {
+                      "id": "kaytee-1dc94cdefa71",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
           "id": "kaytee-5f021a18b184",
           "name": "⚽ Bỉ vs Serbia | 14:00",
           "type": "single",
@@ -117,7 +117,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-5f021a18b184.webp?v=1780813493",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-5f021a18b184.webp?v=1780814102",
             "width": 1600,
             "height": 1200
           },
@@ -159,7 +159,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-efedcb9ee47c.webp?v=1780813495",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-efedcb9ee47c.webp?v=1780814105",
             "width": 1600,
             "height": 1200
           },
@@ -201,7 +201,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-6b50718fbf15.webp?v=1780813496",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-6b50718fbf15.webp?v=1780814105",
             "width": 1600,
             "height": 1200
           },
@@ -243,7 +243,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-d4827456901c.webp?v=1780813489",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-d4827456901c.webp?v=1780814099",
             "width": 1600,
             "height": 1200
           },
@@ -285,7 +285,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-648c618d01ab.webp?v=1780813490",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-648c618d01ab.webp?v=1780814100",
             "width": 1600,
             "height": 1200
           },
@@ -327,7 +327,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-c5297d1fd7b8.webp?v=1780813490",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-c5297d1fd7b8.webp?v=1780814101",
             "width": 1600,
             "height": 1200
           },
@@ -369,7 +369,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-e514f5f9c2e5.webp?v=1780813491",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-e514f5f9c2e5.webp?v=1780814101",
             "width": 1600,
             "height": 1200
           },
@@ -411,7 +411,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-de5695431d5a.webp?v=1780813493",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-de5695431d5a.webp?v=1780814103",
             "width": 1600,
             "height": 1200
           },
@@ -453,7 +453,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-6eb54bed3228.webp?v=1780813494",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-6eb54bed3228.webp?v=1780814103",
             "width": 1600,
             "height": 1200
           },
@@ -495,7 +495,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-2e37d334e083.webp?v=1780813497",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-2e37d334e083.webp?v=1780814106",
             "width": 1600,
             "height": 1200
           },
@@ -537,7 +537,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-bbe268578160.webp?v=1780813495",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-bbe268578160.webp?v=1780814104",
             "width": 1600,
             "height": 1200
           },
