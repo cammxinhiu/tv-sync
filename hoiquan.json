@@ -24,105 +24,6 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "kaytee-5bf2e0b1640a",
-          "name": "⚽ Tokushima Vortis vs Iwaki | 11:05",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-5bf2e0b1640a.webp?v=1780811675",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-5bf2e0b1640a",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-5bf2e0b1640a",
-                  "name": "Tokushima Vortis vs Iwaki",
-                  "streams": [
-                    {
-                      "id": "kaytee-5bf2e0b1640a",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-2af2f7b4fe",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8"
-                        },
-                        {
-                          "id": "lnk-e6c2da7f68",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://tfwj3gr4nhct1gwzdrcbqgrhdqmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=a625846fa29b42fdac81f894-178081165677128&wsIPSercert=fc4acc60e94b8aeff93609b084b272d2&wsBindIP=2&wsserid=1168239097241285722"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "kaytee-af7f54bcc00c",
-          "name": "⚽ Đài Loan vs Hàn Quốc | 14:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-af7f54bcc00c.webp?v=1780811676",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "⏳ Chưa live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#d54f1a"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-af7f54bcc00c",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-af7f54bcc00c",
-                  "name": "Đài Loan vs Hàn Quốc",
-                  "streams": [
-                    {
-                      "id": "kaytee-af7f54bcc00c",
-                      "name": "F",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "kaytee-1dc94cdefa71",
           "name": "⚽ Oita Trinita vs Montedio Yamagata | 14:00",
           "type": "single",
@@ -132,7 +33,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-1dc94cdefa71.webp?v=1780811677",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-1dc94cdefa71.webp?v=1780812293",
             "width": 1600,
             "height": 1200
           },
@@ -165,6 +66,48 @@
           ]
         },
         {
+          "id": "kaytee-af7f54bcc00c",
+          "name": "⚽ Đài Loan vs Hàn Quốc | 14:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-af7f54bcc00c.webp?v=1780812296",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-af7f54bcc00c",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-af7f54bcc00c",
+                  "name": "Đài Loan vs Hàn Quốc",
+                  "streams": [
+                    {
+                      "id": "kaytee-af7f54bcc00c",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
           "id": "kaytee-5f021a18b184",
           "name": "⚽ Bỉ vs Serbia | 14:00",
           "type": "single",
@@ -174,7 +117,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-5f021a18b184.webp?v=1780811677",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-5f021a18b184.webp?v=1780812297",
             "width": 1600,
             "height": 1200
           },
@@ -216,7 +159,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-efedcb9ee47c.webp?v=1780811678",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-efedcb9ee47c.webp?v=1780812299",
             "width": 1600,
             "height": 1200
           },
@@ -258,7 +201,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-6b50718fbf15.webp?v=1780811683",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-6b50718fbf15.webp?v=1780812300",
             "width": 1600,
             "height": 1200
           },
@@ -300,7 +243,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-d4827456901c.webp?v=1780811679",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-d4827456901c.webp?v=1780812294",
             "width": 1600,
             "height": 1200
           },
@@ -342,7 +285,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-648c618d01ab.webp?v=1780811680",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-648c618d01ab.webp?v=1780812294",
             "width": 1600,
             "height": 1200
           },
@@ -384,7 +327,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-c5297d1fd7b8.webp?v=1780811680",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-c5297d1fd7b8.webp?v=1780812295",
             "width": 1600,
             "height": 1200
           },
@@ -417,6 +360,48 @@
           ]
         },
         {
+          "id": "kaytee-e514f5f9c2e5",
+          "name": "⚽ Phu Dong vs Hồng Lĩnh Hà Tĩnh | 18:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-e514f5f9c2e5.webp?v=1780812295",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-e514f5f9c2e5",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-e514f5f9c2e5",
+                  "name": "Phu Dong vs Hồng Lĩnh Hà Tĩnh",
+                  "streams": [
+                    {
+                      "id": "kaytee-e514f5f9c2e5",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
           "id": "kaytee-de5695431d5a",
           "name": "⚽ Trung Quốc vs Ba Lan | 18:00",
           "type": "single",
@@ -426,7 +411,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-de5695431d5a.webp?v=1780811681",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-de5695431d5a.webp?v=1780812298",
             "width": 1600,
             "height": 1200
           },
@@ -468,7 +453,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-6eb54bed3228.webp?v=1780811682",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-6eb54bed3228.webp?v=1780812298",
             "width": 1600,
             "height": 1200
           },
@@ -510,7 +495,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-2e37d334e083.webp?v=1780811684",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-2e37d334e083.webp?v=1780812301",
             "width": 1600,
             "height": 1200
           },
@@ -552,7 +537,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-bbe268578160.webp?v=1780811682",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-bbe268578160.webp?v=1780812299",
             "width": 1600,
             "height": 1200
           },
