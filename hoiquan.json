@@ -24,8 +24,8 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "kaytee-24d9abf912d3",
-          "name": "⚽ Shakhter Soligorsk vs Slonim | 21:00",
+          "id": "kaytee-d8339e0f0880",
+          "name": "⚽ IEM Cologne Major 2026 vs IEM Cologne Major 2026 | 19:30",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -33,44 +33,101 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-24d9abf912d3.webp?v=1780847693",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-d8339e0f0880.webp?v=1780848883",
             "width": 1600,
             "height": 1200
           },
           "labels": [
             {
-              "text": "● Live",
+              "text": "⏳ Chưa live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#ff0000"
+              "text_color": "#d54f1a"
             }
           ],
           "sources": [
             {
-              "id": "kaytee-24d9abf912d3",
+              "id": "kaytee-d8339e0f0880",
               "name": "Hội Quán",
               "contents": [
                 {
-                  "id": "kaytee-24d9abf912d3",
-                  "name": "Shakhter Soligorsk vs Slonim",
+                  "id": "kaytee-d8339e0f0880",
+                  "name": "IEM Cologne Major 2026 vs IEM Cologne Major 2026",
                   "streams": [
                     {
-                      "id": "kaytee-24d9abf912d3",
+                      "id": "kaytee-d8339e0f0880",
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-88f71d27dc",
+                          "id": "lnk-65c1df7fba",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwj3gr4nhct1gwzdepjqgr5uommeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=19a66aab2ea0401a6a698e6e-178084767487749&wsIPSercert=bae22ffb850f28b7b980a38d46369cd9&wsBindIP=2&wsserid=1168272001106446097"
+                          "url": "https://tfwj3gr4nhct1gwzdepjqgr3ucmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanphep/playlist.m3u8?wsSession=bebe849404d767281e6a00ea-178084885882283&wsIPSercert=bae22ffb850f28b7b980a38d46369cd9&wsBindIP=2&wsserid=1168271908996591613"
                         },
                         {
-                          "id": "lnk-c057a6c8ab",
+                          "id": "lnk-a0e5ccc56b",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8"
+                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanphep/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-2e37d334e083",
+          "name": "⚽ Alexandet Zverev vs Flavio Coboli | 20:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-2e37d334e083.webp?v=1780848883",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-2e37d334e083",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-2e37d334e083",
+                  "name": "Alexandet Zverev vs Flavio Coboli",
+                  "streams": [
+                    {
+                      "id": "kaytee-2e37d334e083",
+                      "name": "F",
+                      "stream_links": [
+                        {
+                          "id": "lnk-9da0a05cfa",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfwj3gr4nhct1gwzdepjqgr3ucmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanchuot/playlist.m3u8?wsSession=04827bd3a257652299d2466f-178084885827915&wsIPSercert=bae22ffb850f28b7b980a38d46369cd9&wsBindIP=2&wsserid=1168271909118227241"
+                        },
+                        {
+                          "id": "lnk-bed6681f1c",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanchuot/playlist.m3u8"
                         }
                       ]
                     }
@@ -90,7 +147,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-28ffef88a97a.webp?v=1780847694",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-28ffef88a97a.webp?v=1780848884",
             "width": 1600,
             "height": 1200
           },
@@ -123,11 +180,11 @@
                           "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8"
                         },
                         {
-                          "id": "lnk-27fee80fd6",
+                          "id": "lnk-7ed5a70992",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
-                          "url": "https://tfwj3gr4nhct1gwzdepjqgr5uommeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=bb64e30607e737c1b1159617-178084767487838&wsIPSercert=bae22ffb850f28b7b980a38d46369cd9&wsBindIP=2&wsserid=1168271909007077544"
+                          "url": "https://tfwj3gr4nhct1gwzdepjqgr3ucmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=04827bd3a257652299d2466f-178084886075484&wsIPSercert=bae22ffb850f28b7b980a38d46369cd9&wsBindIP=2&wsserid=1168271909118227241"
                         }
                       ]
                     }
@@ -147,7 +204,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-2ab45d7ec572.webp?v=1780847695",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-2ab45d7ec572.webp?v=1780848885",
             "width": 1600,
             "height": 1200
           },
@@ -173,11 +230,11 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-49fac2048d",
+                          "id": "lnk-368a19feee",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwj3gr4nhct1gwzdepjqgr5uommeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=19a66aab2ea0401a6a698e6e-178084767557495&wsIPSercert=bae22ffb850f28b7b980a38d46369cd9&wsBindIP=2&wsserid=1168272001106446097"
+                          "url": "https://tfwj3gr4nhct1gwzdepjqgr3ucmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=04827bd3a257652299d2466f-178084886825754&wsIPSercert=bae22ffb850f28b7b980a38d46369cd9&wsBindIP=2&wsserid=1168271909118227241"
                         },
                         {
                           "id": "lnk-c057a6c8ab",
@@ -204,7 +261,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-34de11ac3a4e.webp?v=1780847696",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-34de11ac3a4e.webp?v=1780848886",
             "width": 1600,
             "height": 1200
           },
@@ -246,7 +303,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-8f9d69585630.webp?v=1780847698",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-8f9d69585630.webp?v=1780848888",
             "width": 1600,
             "height": 1200
           },
@@ -288,7 +345,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-095002a0bab4.webp?v=1780847696",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-095002a0bab4.webp?v=1780848886",
             "width": 1600,
             "height": 1200
           },
@@ -330,7 +387,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-96be59ea37df.webp?v=1780847700",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-96be59ea37df.webp?v=1780848890",
             "width": 1600,
             "height": 1200
           },
@@ -372,7 +429,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-8d4aca8e3a9e.webp?v=1780847697",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-8d4aca8e3a9e.webp?v=1780848887",
             "width": 1600,
             "height": 1200
           },
@@ -405,6 +462,48 @@
           ]
         },
         {
+          "id": "kaytee-eaca035ce8a8",
+          "name": "⚽ Morocco vs Norway | 02:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-eaca035ce8a8.webp?v=1780848888",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-eaca035ce8a8",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-eaca035ce8a8",
+                  "name": "Morocco vs Norway",
+                  "streams": [
+                    {
+                      "id": "kaytee-eaca035ce8a8",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
           "id": "kaytee-5317cd6bf0f1",
           "name": "⚽ Bulgaria vs Thổ Nhĩ Kỳ | 04:00",
           "type": "single",
@@ -414,7 +513,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-5317cd6bf0f1.webp?v=1780847701",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-5317cd6bf0f1.webp?v=1780848890",
             "width": 1600,
             "height": 1200
           },
@@ -456,7 +555,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-5fa0b6eb7e04.webp?v=1780847701",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-5fa0b6eb7e04.webp?v=1780848891",
             "width": 1600,
             "height": 1200
           },
@@ -498,7 +597,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-df7d1f100d6d.webp?v=1780847702",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-df7d1f100d6d.webp?v=1780848892",
             "width": 1600,
             "height": 1200
           },
@@ -540,7 +639,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-63557067d2a1.webp?v=1780847703",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-63557067d2a1.webp?v=1780848892",
             "width": 1600,
             "height": 1200
           },
