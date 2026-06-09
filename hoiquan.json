@@ -24,48 +24,6 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "kaytee-6c866661af42",
-          "name": "⚽ Hội Quán TV | 03:30",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-6c866661af42.webp?v=1780992918",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "⏳ Chưa live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#d54f1a"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-6c866661af42",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-6c866661af42",
-                  "name": "Hội Quán TV",
-                  "streams": [
-                    {
-                      "id": "kaytee-6c866661af42",
-                      "name": "F",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "kaytee-f42f2092ee51",
           "name": "⚽ Philippin vs Hàn Quốc | 14:00",
           "type": "single",
@@ -75,7 +33,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-f42f2092ee51.webp?v=1780992911",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-f42f2092ee51.webp?v=1780993492",
             "width": 1600,
             "height": 1200
           },
@@ -101,11 +59,11 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-e2ef16a44a",
+                          "id": "lnk-a030c2d54e",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwl3gr4nhct1gwzdepjqgrhuqmmwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taokinhte/playlist.m3u8?wsSession=dd4bb502e89ec83c9bff36ac-178099286512237&wsIPSercert=fc4acc60e94b8aeff93609b084b272d2&wsBindIP=2&wsserid=1168276518868027036"
+                          "url": "https://tfwl3gr4nhct1gwzdrc3afa4dqmmwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taokinhte/playlist.m3u8?wsSession=8921da0a5c1d44cfcae7609e-178099347032447&wsIPSercert=bae22ffb850f28b7b980a38d46369cd9&wsBindIP=2&wsserid=1172608807871975309"
                         },
                         {
                           "id": "lnk-4b952a898a",
@@ -123,48 +81,6 @@
           ]
         },
         {
-          "id": "kaytee-2384f333d808",
-          "name": "⚽ Hội Quán TV | 14:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-2384f333d808.webp?v=1780992918",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-2384f333d808",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-2384f333d808",
-                  "name": "Hội Quán TV",
-                  "streams": [
-                    {
-                      "id": "kaytee-2384f333d808",
-                      "name": "F",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "kaytee-82c5f10041a7",
           "name": "⚽ Tay Vợt Số 1 vs Tay Vợt Số 2 | 15:00",
           "type": "single",
@@ -174,7 +90,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-82c5f10041a7.webp?v=1780992914",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-82c5f10041a7.webp?v=1780993493",
             "width": 1600,
             "height": 1200
           },
@@ -207,11 +123,11 @@
                           "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8"
                         },
                         {
-                          "id": "lnk-b0c7a64302",
+                          "id": "lnk-f86e6b8306",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
-                          "url": "https://tfwl3gr4nhct1gwzdepjqgrhuqmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=2ea24eeaab6b90524c5bac93-178099286554919&wsIPSercert=bae22ffb850f28b7b980a38d46369cd9&wsBindIP=2&wsserid=1168271556800904919"
+                          "url": "https://tfwl3gr4nhct1gwzdepjqgrhuqmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=2ea24eeaab6b90524c5bac93-178099347024746&wsIPSercert=bae22ffb850f28b7b980a38d46369cd9&wsBindIP=2&wsserid=1168271556800904919"
                         }
                       ]
                     }
@@ -231,7 +147,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-7e52300e6c2d.webp?v=1780992915",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-7e52300e6c2d.webp?v=1780993494",
             "width": 1600,
             "height": 1200
           },
@@ -273,7 +189,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-fed040d70c29.webp?v=1780992916",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-fed040d70c29.webp?v=1780993494",
             "width": 1600,
             "height": 1200
           },
@@ -315,7 +231,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-6ed7d01eddf9.webp?v=1780992917",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-6ed7d01eddf9.webp?v=1780993495",
             "width": 1600,
             "height": 1200
           },
@@ -357,7 +273,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-a06d2f6e90f0.webp?v=1780992920",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-a06d2f6e90f0.webp?v=1780993501",
             "width": 1600,
             "height": 1200
           },
@@ -399,7 +315,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-f98747333e25.webp?v=1780992921",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-f98747333e25.webp?v=1780993502",
             "width": 1600,
             "height": 1200
           },
@@ -432,6 +348,132 @@
           ]
         },
         {
+          "id": "kaytee-0d37e2355ce2",
+          "name": "⚽ China vs Thailand | 18:35",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-0d37e2355ce2.webp?v=1780993497",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-0d37e2355ce2",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-0d37e2355ce2",
+                  "name": "China vs Thailand",
+                  "streams": [
+                    {
+                      "id": "kaytee-0d37e2355ce2",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-2dcfd863e940",
+          "name": "⚽ Angola vs Central African Republic | 19:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-2dcfd863e940.webp?v=1780993498",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-2dcfd863e940",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-2dcfd863e940",
+                  "name": "Angola vs Central African Republic",
+                  "streams": [
+                    {
+                      "id": "kaytee-2dcfd863e940",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-dbaa84fd813c",
+          "name": "⚽ Botswana vs Niger | 19:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-dbaa84fd813c.webp?v=1780993499",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-dbaa84fd813c",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-dbaa84fd813c",
+                  "name": "Botswana vs Niger",
+                  "streams": [
+                    {
+                      "id": "kaytee-dbaa84fd813c",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
           "id": "kaytee-17cadf0892b0",
           "name": "⚽ Togo vs Benin | 19:00",
           "type": "single",
@@ -441,7 +483,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-17cadf0892b0.webp?v=1780992919",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-17cadf0892b0.webp?v=1780993499",
             "width": 1600,
             "height": 1200
           },
@@ -483,7 +525,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-155fa47df4b5.webp?v=1780992922",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-155fa47df4b5.webp?v=1780993503",
             "width": 1600,
             "height": 1200
           },
@@ -525,7 +567,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-5968a286a2de.webp?v=1780992917",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-5968a286a2de.webp?v=1780993496",
             "width": 1600,
             "height": 1200
           },
@@ -567,7 +609,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-2c440f97ad9c.webp?v=1780992923",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-2c440f97ad9c.webp?v=1780993503",
             "width": 1600,
             "height": 1200
           },
@@ -590,6 +632,90 @@
                   "streams": [
                     {
                       "id": "kaytee-2c440f97ad9c",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-42b1cb7bce93",
+          "name": "⚽ Cuba vs Ba Lan | 12:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-42b1cb7bce93.webp?v=1780993496",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-42b1cb7bce93",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-42b1cb7bce93",
+                  "name": "Cuba vs Ba Lan",
+                  "streams": [
+                    {
+                      "id": "kaytee-42b1cb7bce93",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-15adc3ae82ed",
+          "name": "⚽ Trung Quốc vs Slovenia | 15:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-15adc3ae82ed.webp?v=1780993497",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-15adc3ae82ed",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-15adc3ae82ed",
+                  "name": "Trung Quốc vs Slovenia",
+                  "streams": [
+                    {
+                      "id": "kaytee-15adc3ae82ed",
                       "name": "F",
                       "stream_links": []
                     }
