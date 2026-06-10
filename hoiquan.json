@@ -24,6 +24,63 @@
       "enable_detail": false,
       "channels": [
         {
+          "id": "kaytee-516547f9d1b2",
+          "name": "⚽ Jan-Lennard Struff vs Alexander Bublik | 17:30",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-516547f9d1b2.webp?v=1781093700",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-516547f9d1b2",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-516547f9d1b2",
+                  "name": "Jan-Lennard Struff vs Alexander Bublik",
+                  "streams": [
+                    {
+                      "id": "kaytee-516547f9d1b2",
+                      "name": "F",
+                      "stream_links": [
+                        {
+                          "id": "lnk-76e239540a",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phantu/playlist.m3u8"
+                        },
+                        {
+                          "id": "lnk-2f3b6923eb",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://tfwm3gr4nhct1gwzdrcbqgrhdqmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phantu/playlist.m3u8?wsSession=ee1ebc7ca2eb16c49145384f-178109367832167&wsIPSercert=bae22ffb850f28b7b980a38d46369cd9&wsBindIP=2&wsserid=1168239097219265334"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
           "id": "kaytee-f9b808df800f",
           "name": "⚽ Jan-Lennard Struff vs Alexander Bublik | 18:00",
           "type": "single",
@@ -33,7 +90,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-f9b808df800f.webp?v=1781093089",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-f9b808df800f.webp?v=1781093701",
             "width": 1600,
             "height": 1200
           },
@@ -59,18 +116,18 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-34fb931f8c",
+                          "id": "lnk-76e239540a",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwm3gr3dgmtugrzdgpbqgrhdommeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phantu/playlist.m3u8?wsSession=c50d510e5c2770b5f7074422-178109307220371&wsIPSercert=bae22ffb850f28b7b980a38d46369cd9&wsBindIP=2&wsserid=1168239032780249394"
+                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phantu/playlist.m3u8"
                         },
                         {
-                          "id": "lnk-76e239540a",
+                          "id": "lnk-fa40ea7178",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phantu/playlist.m3u8"
+                          "url": "https://tfwm3gr4nhct1gwzdrcbqgrhdqmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phantu/playlist.m3u8?wsSession=ee1ebc7ca2eb16c49145384f-178109367870162&wsIPSercert=bae22ffb850f28b7b980a38d46369cd9&wsBindIP=2&wsserid=1168239097219265334"
                         }
                       ]
                     }
@@ -90,7 +147,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-f1740e767ab8.webp?v=1781093086",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-f1740e767ab8.webp?v=1781093684",
             "width": 1600,
             "height": 1200
           },
@@ -116,62 +173,20 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-7c3a1b399e",
+                          "id": "lnk-69715d740c",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanbong/playlist.m3u8"
+                          "url": "https://tfwm3gr4nhct1gwzdrcbqgrhdqmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanbong/playlist.m3u8?wsSession=e29dd5cec0156eb8fe973324-178109366527073&wsIPSercert=bae22ffb850f28b7b980a38d46369cd9&wsBindIP=2&wsserid=1168239097228702694"
                         },
                         {
-                          "id": "lnk-f0cb2baa08",
+                          "id": "lnk-7c3a1b399e",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
-                          "url": "https://tfwm3gr3dgmtugrzdgpbqgrhdommeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanbong/playlist.m3u8?wsSession=c50d510e5c2770b5f7074422-178109306368907&wsIPSercert=bae22ffb850f28b7b980a38d46369cd9&wsBindIP=2&wsserid=1168239032780249394"
+                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanbong/playlist.m3u8"
                         }
                       ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "kaytee-c8a2da153abb",
-          "name": "⚽ Hội Quán TV | 19:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-c8a2da153abb.webp?v=1781093088",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-c8a2da153abb",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-c8a2da153abb",
-                  "name": "Hội Quán TV",
-                  "streams": [
-                    {
-                      "id": "kaytee-c8a2da153abb",
-                      "name": "F",
-                      "stream_links": []
                     }
                   ]
                 }
@@ -189,7 +204,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-78b6b492bb71.webp?v=1781093092",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-78b6b492bb71.webp?v=1781093693",
             "width": 1600,
             "height": 1200
           },
@@ -231,7 +246,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-697914db1cba.webp?v=1781093093",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-697914db1cba.webp?v=1781093694",
             "width": 1600,
             "height": 1200
           },
@@ -273,7 +288,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-5a708f901740.webp?v=1781093090",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-5a708f901740.webp?v=1781093702",
             "width": 1600,
             "height": 1200
           },
@@ -315,7 +330,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-5ddc6ed6235d.webp?v=1781093093",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-5ddc6ed6235d.webp?v=1781093694",
             "width": 1600,
             "height": 1200
           },
@@ -357,7 +372,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-69d1b316ce61.webp?v=1781093087",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-69d1b316ce61.webp?v=1781093697",
             "width": 1600,
             "height": 1200
           },
@@ -390,48 +405,6 @@
           ]
         },
         {
-          "id": "kaytee-112050b2d319",
-          "name": "⚽ Bỉ vs Bulgaria | 23:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-112050b2d319.webp?v=1781093088",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "⏳ Chưa live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#d54f1a"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-112050b2d319",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-112050b2d319",
-                  "name": "Bỉ vs Bulgaria",
-                  "streams": [
-                    {
-                      "id": "kaytee-112050b2d319",
-                      "name": "F",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "kaytee-47d21f3d791f",
           "name": "⚽ Pakistan vs Afghanistan | 23:00",
           "type": "single",
@@ -441,7 +414,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-47d21f3d791f.webp?v=1781093094",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-47d21f3d791f.webp?v=1781093695",
             "width": 1600,
             "height": 1200
           },
@@ -483,7 +456,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-f755f9f54149.webp?v=1781093095",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-f755f9f54149.webp?v=1781093696",
             "width": 1600,
             "height": 1200
           },
@@ -516,6 +489,48 @@
           ]
         },
         {
+          "id": "kaytee-112050b2d319",
+          "name": "⚽ Bỉ vs Bulgaria | 23:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-112050b2d319.webp?v=1781093698",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-112050b2d319",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-112050b2d319",
+                  "name": "Bỉ vs Bulgaria",
+                  "streams": [
+                    {
+                      "id": "kaytee-112050b2d319",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
           "id": "kaytee-ae854969013e",
           "name": "⚽ Marie Bouzková vs Donna Vekić | 23:30",
           "type": "single",
@@ -525,7 +540,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-ae854969013e.webp?v=1781093091",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-ae854969013e.webp?v=1781093702",
             "width": 1600,
             "height": 1200
           },
@@ -558,6 +573,90 @@
           ]
         },
         {
+          "id": "kaytee-74301cb536ea",
+          "name": "⚽ Serbia vs Argentina | 02:30",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-74301cb536ea.webp?v=1781093699",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-74301cb536ea",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-74301cb536ea",
+                  "name": "Serbia vs Argentina",
+                  "streams": [
+                    {
+                      "id": "kaytee-74301cb536ea",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-fdaa7d152ada",
+          "name": "⚽ Pháp vs Italy | 03:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-fdaa7d152ada.webp?v=1781093699",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-fdaa7d152ada",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-fdaa7d152ada",
+                  "name": "Pháp vs Italy",
+                  "streams": [
+                    {
+                      "id": "kaytee-fdaa7d152ada",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
           "id": "kaytee-07b88330bba2",
           "name": "⚽ San Antonio Spurs vs New York Knicks | 07:30",
           "type": "single",
@@ -567,7 +666,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-07b88330bba2.webp?v=1781093096",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-07b88330bba2.webp?v=1781093703",
             "width": 1600,
             "height": 1200
           },
