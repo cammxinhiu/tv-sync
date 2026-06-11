@@ -24,120 +24,6 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "kaytee-193f01508a23",
-          "name": "⚽ Nam Dinh vs Ho Chi Minh | 18:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-193f01508a23.webp?v=1781182485",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-193f01508a23",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-193f01508a23",
-                  "name": "Nam Dinh vs Ho Chi Minh",
-                  "streams": [
-                    {
-                      "id": "kaytee-193f01508a23",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-c057a6c8ab",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8"
-                        },
-                        {
-                          "id": "lnk-353279522b",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://tfwn3gr4nhct1gwzdrcbqgrhdqmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=ee1ebc7ca2eb16c49145384f-178118245711750&wsIPSercert=fc4acc60e94b8aeff93609b084b272d2&wsBindIP=2&wsserid=1168239097219265334"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "kaytee-6a9d97b63a1b",
-          "name": "⚽ Ninh Bình vs Viettel | 18:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-6a9d97b63a1b.webp?v=1781182485",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-6a9d97b63a1b",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-6a9d97b63a1b",
-                  "name": "Ninh Bình vs Viettel",
-                  "streams": [
-                    {
-                      "id": "kaytee-6a9d97b63a1b",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-c8df12160b",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfwn3gr4nhct1gwzdrcbqgrhdqmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=ee1ebc7ca2eb16c49145384f-178118246224896&wsIPSercert=fc4acc60e94b8aeff93609b084b272d2&wsBindIP=2&wsserid=1168239097219265334"
-                        },
-                        {
-                          "id": "lnk-9a54232d81",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "kaytee-81b60fb7cd91",
           "name": "⚽ Slovenia vs Ba Lan | 19:00",
           "type": "single",
@@ -147,7 +33,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-81b60fb7cd91.webp?v=1781182483",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-81b60fb7cd91.webp?v=1781183075",
             "width": 1600,
             "height": 1200
           },
@@ -173,18 +59,18 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-ece8f6d991",
+                          "id": "lnk-551602d691",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8"
+                          "url": "https://tfwn3gr3dgmtugrzdgpbqgrhdommwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=6931d1040439771ff9a052ea-178118305712156&wsIPSercert=391428d68be8b6abd215f1de83175184&wsBindIP=2&wsserid=1168239032787589538"
                         },
                         {
-                          "id": "lnk-1300b2d6e0",
+                          "id": "lnk-ece8f6d991",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
-                          "url": "https://tfwn3gr3dgmtugrzdgpbqgrhdommwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=6931d1040439771ff9a052ea-178118245691795&wsIPSercert=fc4acc60e94b8aeff93609b084b272d2&wsBindIP=2&wsserid=1168239032787589538"
+                          "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8"
                         }
                       ]
                     }
@@ -204,16 +90,16 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-eead85e38006.webp?v=1781182488",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-eead85e38006.webp?v=1781183080",
             "width": 1600,
             "height": 1200
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -230,11 +116,11 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-30d4545f1b",
+                          "id": "lnk-6672fb0c99",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwn3gr4nhct1gwzdrcbqgrhdqmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=ee1ebc7ca2eb16c49145384f-178118246771667&wsIPSercert=fc4acc60e94b8aeff93609b084b272d2&wsBindIP=2&wsserid=1168239097219265334"
+                          "url": "https://tfwn3gr4nhct1gwzdrcbqgrhdqmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=ee1ebc7ca2eb16c49145384f-178118306515699&wsIPSercert=fc4acc60e94b8aeff93609b084b272d2&wsBindIP=2&wsserid=1168239097219265334"
                         },
                         {
                           "id": "lnk-793457802f",
@@ -261,7 +147,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-8799f9ed694b.webp?v=1781182484",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-8799f9ed694b.webp?v=1781183076",
             "width": 1600,
             "height": 1200
           },
@@ -287,18 +173,18 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-93aa7a3ea9",
+                          "id": "lnk-5cc8eb5745",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwn3gr3dgmtugrzdgpbqgrhdommwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=735d331de663f99715b9baa1-178118245691798&wsIPSercert=fc4acc60e94b8aeff93609b084b272d2&wsBindIP=2&wsserid=1168239032784443754"
+                          "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8"
                         },
                         {
-                          "id": "lnk-5cc8eb5745",
+                          "id": "lnk-1e6b4dd1d1",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
-                          "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8"
+                          "url": "https://tfwn3gr3dgmtugrzdgpbqgrhdommwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=6931d1040439771ff9a052ea-178118305712178&wsIPSercert=391428d68be8b6abd215f1de83175184&wsBindIP=2&wsserid=1168239032787589538"
                         }
                       ]
                     }
@@ -318,7 +204,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-b37f2bc1dd15.webp?v=1781182491",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-b37f2bc1dd15.webp?v=1781183083",
             "width": 1600,
             "height": 1200
           },
@@ -360,7 +246,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-3a7f05a0136b.webp?v=1781182491",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-3a7f05a0136b.webp?v=1781183084",
             "width": 1600,
             "height": 1200
           },
@@ -402,7 +288,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-e8fac1bd26b4.webp?v=1781182486",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-e8fac1bd26b4.webp?v=1781183077",
             "width": 1600,
             "height": 1200
           },
@@ -444,7 +330,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-df9e99fe8424.webp?v=1781182487",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-df9e99fe8424.webp?v=1781183077",
             "width": 1600,
             "height": 1200
           },
@@ -477,6 +363,90 @@
           ]
         },
         {
+          "id": "kaytee-43a85667df65",
+          "name": "⚽ Västra Frölunda vs Onsala | 00:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-43a85667df65.webp?v=1781183078",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-43a85667df65",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-43a85667df65",
+                  "name": "Västra Frölunda vs Onsala",
+                  "streams": [
+                    {
+                      "id": "kaytee-43a85667df65",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-ccd23fded63e",
+          "name": "⚽ Khai Mạc WC vs Khai Mạc WC | 00:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-ccd23fded63e.webp?v=1781183079",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-ccd23fded63e",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-ccd23fded63e",
+                  "name": "Khai Mạc WC vs Khai Mạc WC",
+                  "streams": [
+                    {
+                      "id": "kaytee-ccd23fded63e",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
           "id": "kaytee-b4a723c69d73",
           "name": "⚽ Bulgaria vs Iran | 02:30",
           "type": "single",
@@ -486,7 +456,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-b4a723c69d73.webp?v=1781182488",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-b4a723c69d73.webp?v=1781183081",
             "width": 1600,
             "height": 1200
           },
@@ -528,7 +498,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-d9842d301526.webp?v=1781182489",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-d9842d301526.webp?v=1781183081",
             "width": 1600,
             "height": 1200
           },
@@ -570,7 +540,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-aad258e5008c.webp?v=1781182490",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-aad258e5008c.webp?v=1781183082",
             "width": 1600,
             "height": 1200
           },
