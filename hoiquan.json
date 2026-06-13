@@ -24,48 +24,6 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "kaytee-221f5ac17955",
-          "name": "⚽ USA vs Paraguay | 08:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-221f5ac17955.webp?v=1781319907",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-221f5ac17955",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-221f5ac17955",
-                  "name": "USA vs Paraguay",
-                  "streams": [
-                    {
-                      "id": "kaytee-221f5ac17955",
-                      "name": "F",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "kaytee-d094f568f5ac",
           "name": "⚽ Tay Vợt Số 1 vs Tay Vợt Số 2 | 09:00",
           "type": "single",
@@ -75,7 +33,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-d094f568f5ac.webp?v=1781319910",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-d094f568f5ac.webp?v=1781320494",
             "width": 1600,
             "height": 1200
           },
@@ -101,62 +59,20 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-4b424fe8ad",
+                          "id": "lnk-bed6681f1c",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwp3gr3dgmtugrzdgpbqgrhd1mmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanchuot/playlist.m3u8?wsSession=6d9e52c0274ae10651cf1dac-178131987721710&wsIPSercert=fc4acc60e94b8aeff93609b084b272d2&wsBindIP=2&wsserid=1168239032793881128"
+                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanchuot/playlist.m3u8"
                         },
                         {
-                          "id": "lnk-bed6681f1c",
+                          "id": "lnk-f51d30edcb",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanchuot/playlist.m3u8"
+                          "url": "https://tfwp3gr4nhct1gwzdrcbqgr5dommeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanchuot/playlist.m3u8?wsSession=66c49bdb0d8bc3cd2091cfe0-178132045464971&wsIPSercert=fc4acc60e94b8aeff93609b084b272d2&wsBindIP=2&wsserid=1168239097263306224"
                         }
                       ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "kaytee-ef451b3f2020",
-          "name": "⚽ Hội Quán TV | 10:04",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-ef451b3f2020.webp?v=1781319908",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-ef451b3f2020",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-ef451b3f2020",
-                  "name": "Hội Quán TV",
-                  "streams": [
-                    {
-                      "id": "kaytee-ef451b3f2020",
-                      "name": "F",
-                      "stream_links": []
                     }
                   ]
                 }
@@ -174,7 +90,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-ebe725927c4d.webp?v=1781319913",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-ebe725927c4d.webp?v=1781320495",
             "width": 1600,
             "height": 1200
           },
@@ -207,6 +123,48 @@
           ]
         },
         {
+          "id": "kaytee-e00d9ed18cf1",
+          "name": "⚽ Changchun Yatai vs Dalian Huayi | 14:30",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-e00d9ed18cf1.webp?v=1781320496",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-e00d9ed18cf1",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-e00d9ed18cf1",
+                  "name": "Changchun Yatai vs Dalian Huayi",
+                  "streams": [
+                    {
+                      "id": "kaytee-e00d9ed18cf1",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
           "id": "kaytee-53170c86ffd2",
           "name": "⚽ Trung Quốc vs Nhật Bản | 15:30",
           "type": "single",
@@ -216,7 +174,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-53170c86ffd2.webp?v=1781319911",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-53170c86ffd2.webp?v=1781320497",
             "width": 1600,
             "height": 1200
           },
@@ -249,48 +207,6 @@
           ]
         },
         {
-          "id": "kaytee-22c2c3500bdc",
-          "name": "⚽ Cambodia U19 vs Indonesia U19 | 16:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-22c2c3500bdc.webp?v=1781319908",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "⏳ Chưa live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#d54f1a"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-22c2c3500bdc",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-22c2c3500bdc",
-                  "name": "Cambodia U19 vs Indonesia U19",
-                  "streams": [
-                    {
-                      "id": "kaytee-22c2c3500bdc",
-                      "name": "F",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "kaytee-e1a7185c9559",
           "name": "⚽ WE vs BIG | 16:00",
           "type": "single",
@@ -300,7 +216,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-e1a7185c9559.webp?v=1781319914",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-e1a7185c9559.webp?v=1781320498",
             "width": 1600,
             "height": 1200
           },
@@ -333,6 +249,48 @@
           ]
         },
         {
+          "id": "kaytee-22c2c3500bdc",
+          "name": "⚽ Cambodia U19 vs Indonesia U19 | 16:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-22c2c3500bdc.webp?v=1781320498",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-22c2c3500bdc",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-22c2c3500bdc",
+                  "name": "Cambodia U19 vs Indonesia U19",
+                  "streams": [
+                    {
+                      "id": "kaytee-22c2c3500bdc",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
           "id": "kaytee-481ee9cd83d1",
           "name": "⚽ Tay Vợt 1 vs Tay Vợt 2 | 16:00",
           "type": "single",
@@ -342,7 +300,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-481ee9cd83d1.webp?v=1781319917",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-481ee9cd83d1.webp?v=1781320506",
             "width": 1600,
             "height": 1200
           },
@@ -384,7 +342,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-67486ff69264.webp?v=1781319909",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-67486ff69264.webp?v=1781320499",
             "width": 1600,
             "height": 1200
           },
@@ -426,7 +384,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-0f944741249e.webp?v=1781319915",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-0f944741249e.webp?v=1781320503",
             "width": 1600,
             "height": 1200
           },
@@ -468,7 +426,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-3c27cf6a7706.webp?v=1781319915",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-3c27cf6a7706.webp?v=1781320504",
             "width": 1600,
             "height": 1200
           },
@@ -501,6 +459,90 @@
           ]
         },
         {
+          "id": "kaytee-ab2f414ff4d3",
+          "name": "⚽ Nanjing City vs Ningbo Professional | 18:30",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-ab2f414ff4d3.webp?v=1781320500",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-ab2f414ff4d3",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-ab2f414ff4d3",
+                  "name": "Nanjing City vs Ningbo Professional",
+                  "streams": [
+                    {
+                      "id": "kaytee-ab2f414ff4d3",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-87fb69787944",
+          "name": "⚽ Hebei Kungfu vs Suzhou Dongwu | 18:30",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-87fb69787944.webp?v=1781320501",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-87fb69787944",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-87fb69787944",
+                  "name": "Hebei Kungfu vs Suzhou Dongwu",
+                  "streams": [
+                    {
+                      "id": "kaytee-87fb69787944",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
           "id": "kaytee-a50d440b4b2b",
           "name": "⚽ Cuba vs Slovenia | 19:00",
           "type": "single",
@@ -510,7 +552,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-a50d440b4b2b.webp?v=1781319912",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-a50d440b4b2b.webp?v=1781320502",
             "width": 1600,
             "height": 1200
           },
@@ -552,7 +594,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-99225529e5fd.webp?v=1781319916",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-99225529e5fd.webp?v=1781320505",
             "width": 1600,
             "height": 1200
           },
@@ -594,7 +636,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-1d416c2d82ac.webp?v=1781319912",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-1d416c2d82ac.webp?v=1781320502",
             "width": 1600,
             "height": 1200
           },
