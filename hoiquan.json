@@ -24,63 +24,6 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "kaytee-0a50e5b9d8e7",
-          "name": "⚽ Hàn Quốc vs Đài Loan | 18:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-0a50e5b9d8e7.webp?v=1781440478",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-0a50e5b9d8e7",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-0a50e5b9d8e7",
-                  "name": "Hàn Quốc vs Đài Loan",
-                  "streams": [
-                    {
-                      "id": "kaytee-0a50e5b9d8e7",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-97b0341201",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfwq3gr4nhct1gwzdepjqgr5u1mmwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=3b4748cbdc5bb6fe6c427cc4-178144045811488&wsIPSercert=fc4acc60e94b8aeff93609b084b272d2&wsBindIP=2&wsserid=1168271909128713172"
-                        },
-                        {
-                          "id": "lnk-ece8f6d991",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "kaytee-97d6b34ac4f3",
           "name": "⚽ Ninh Bình vs Ho Chi Minh | 18:00",
           "type": "single",
@@ -90,7 +33,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-97d6b34ac4f3.webp?v=1781440478",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-97d6b34ac4f3.webp?v=1781441076",
             "width": 1600,
             "height": 1200
           },
@@ -123,11 +66,11 @@
                           "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8"
                         },
                         {
-                          "id": "lnk-8a84efda09",
+                          "id": "lnk-23232a3005",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
-                          "url": "https://tfwq3gr4nhct1gwzdrcbqgr5dommeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=bb6ce163600ee613e6092327-178144045813871&wsIPSercert=fc4acc60e94b8aeff93609b084b272d2&wsBindIP=2&wsserid=1168239097252820256"
+                          "url": "https://tfwq3gr4nhct1gwzdepjqgr5u1mmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=05e6cc396e1328cc58b4e228-178144105732818&wsIPSercert=391428d68be8b6abd215f1de83175184&wsBindIP=2&wsserid=1168271909252445665"
                         }
                       ]
                     }
@@ -147,7 +90,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-663025d81c53.webp?v=1781440480",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-663025d81c53.webp?v=1781441078",
             "width": 1600,
             "height": 1200
           },
@@ -173,11 +116,11 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-e9f60feb17",
+                          "id": "lnk-339ca0175a",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwq3gr4nhct1gwzdrcbqgr5dommeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=bb6ce163600ee613e6092327-178144046322225&wsIPSercert=fc4acc60e94b8aeff93609b084b272d2&wsBindIP=2&wsserid=1168239097252820256"
+                          "url": "https://tfwq3gr4nhct1gwzdepjqgr5u1mmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=2e43619de47635a76c7caf13-178144105733236&wsIPSercert=391428d68be8b6abd215f1de83175184&wsBindIP=2&wsserid=1168271909244056829"
                         },
                         {
                           "id": "lnk-2af2f7b4fe",
@@ -204,7 +147,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-9bdad5085f71.webp?v=1781440479",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-9bdad5085f71.webp?v=1781441076",
             "width": 1600,
             "height": 1200
           },
@@ -230,18 +173,18 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-4b91d9ba08",
+                          "id": "lnk-b159434135",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwq3gr4nhct1gwzdrcbqgr5dommeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanchop/playlist.m3u8?wsSession=24d0bcfecf387584fb7d9e30-178144045812813&wsIPSercert=fc4acc60e94b8aeff93609b084b272d2&wsBindIP=2&wsserid=1168239097255966052"
+                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanchop/playlist.m3u8"
                         },
                         {
-                          "id": "lnk-b159434135",
+                          "id": "lnk-e6352a372a",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanchop/playlist.m3u8"
+                          "url": "https://tfwq3gr4nhct1gwzdepjqgr5u1mmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanchop/playlist.m3u8?wsSession=05e6cc396e1328cc58b4e228-178144105732808&wsIPSercert=391428d68be8b6abd215f1de83175184&wsBindIP=2&wsserid=1168271909252445665"
                         }
                       ]
                     }
@@ -261,7 +204,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-c2f4f9221d00.webp?v=1781440481",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-c2f4f9221d00.webp?v=1781441079",
             "width": 1600,
             "height": 1200
           },
@@ -287,11 +230,11 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-34c7ecf78b",
+                          "id": "lnk-b317bd13d0",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwq3gr4nhct1gwzdrcbqgr5dommeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanphep/playlist.m3u8?wsSession=90a738bfccb8555e359feb9a-178144046313064&wsIPSercert=fc4acc60e94b8aeff93609b084b272d2&wsBindIP=2&wsserid=1168239097246528664"
+                          "url": "https://tfwq3gr4nhct1gwzdepjqgr5u1mmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanphep/playlist.m3u8?wsSession=3b4748cbdc5bb6fe6c427cc4-178144106369666&wsIPSercert=391428d68be8b6abd215f1de83175184&wsBindIP=2&wsserid=1168271909128713172"
                         },
                         {
                           "id": "lnk-a0e5ccc56b",
@@ -318,7 +261,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-85aa5bb6377e.webp?v=1781440485",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-85aa5bb6377e.webp?v=1781441084",
             "width": 1600,
             "height": 1200
           },
@@ -344,18 +287,18 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-7c3a1b399e",
+                          "id": "lnk-2639ee4661",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanbong/playlist.m3u8"
+                          "url": "https://tfwq3gr4nhct1gwzdepjqgr5u1mmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanbong/playlist.m3u8?wsSession=05e6cc396e1328cc58b4e228-178144107283809&wsIPSercert=391428d68be8b6abd215f1de83175184&wsBindIP=2&wsserid=1168271909252445665"
                         },
                         {
-                          "id": "lnk-1541440456",
+                          "id": "lnk-7c3a1b399e",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
-                          "url": "https://tfwq3gr4nhct1gwzdrcbqgr5dommeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanbong/playlist.m3u8?wsSession=90a738bfccb8555e359feb9a-178144047397818&wsIPSercert=fc4acc60e94b8aeff93609b084b272d2&wsBindIP=2&wsserid=1168239097246528664"
+                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanbong/playlist.m3u8"
                         }
                       ]
                     }
@@ -375,7 +318,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-01aa047f32d2.webp?v=1781440486",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-01aa047f32d2.webp?v=1781441085",
             "width": 1600,
             "height": 1200
           },
@@ -401,18 +344,18 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-750400efa8",
+                          "id": "lnk-793457802f",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwq3gr4nhct1gwzdrcbqgr5dommeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=3020f7d319c7a5b35580f921-178144047532404&wsIPSercert=fc4acc60e94b8aeff93609b084b272d2&wsBindIP=2&wsserid=1168239097249674460"
+                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8"
                         },
                         {
-                          "id": "lnk-793457802f",
+                          "id": "lnk-60f2ee7b48",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8"
+                          "url": "https://tfwq3gr4nhct1gwzdepjqgr5u1mmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=3b4748cbdc5bb6fe6c427cc4-178144107477661&wsIPSercert=391428d68be8b6abd215f1de83175184&wsBindIP=2&wsserid=1168271909128713172"
                         }
                       ]
                     }
@@ -432,7 +375,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-55f56b92f5a2.webp?v=1781440481",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-55f56b92f5a2.webp?v=1781441080",
             "width": 1600,
             "height": 1200
           },
@@ -458,18 +401,18 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-33a78aea13",
+                          "id": "lnk-5cc8eb5745",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwq3gr4nhct1gwzdepjqgr5u1mmwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=b619bea668504ad7c4fc7309-178144046389732&wsIPSercert=fc4acc60e94b8aeff93609b084b272d2&wsBindIP=2&wsserid=1168271909250348456"
+                          "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8"
                         },
                         {
-                          "id": "lnk-5cc8eb5745",
+                          "id": "lnk-d7cd7a9a01",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
-                          "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8"
+                          "url": "https://tfwq3gr4nhct1gwzdrcbqgr5dommwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=dfa9696f3465b55874739a28-178144106424522&wsIPSercert=fc4acc60e94b8aeff93609b084b272d2&wsBindIP=2&wsserid=1168239097260160428"
                         }
                       ]
                     }
@@ -489,7 +432,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-f4396ae94640.webp?v=1781440482",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-f4396ae94640.webp?v=1781441081",
             "width": 1600,
             "height": 1200
           },
@@ -531,7 +474,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-2980be692e21.webp?v=1781440483",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-2980be692e21.webp?v=1781441081",
             "width": 1600,
             "height": 1200
           },
@@ -573,7 +516,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-863d4c8ba036.webp?v=1781440487",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-863d4c8ba036.webp?v=1781441086",
             "width": 1600,
             "height": 1200
           },
@@ -615,7 +558,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-803dc1a26d2b.webp?v=1781440484",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-803dc1a26d2b.webp?v=1781441082",
             "width": 1600,
             "height": 1200
           },
@@ -657,7 +600,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-07778293acef.webp?v=1781440484",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-07778293acef.webp?v=1781441082",
             "width": 1600,
             "height": 1200
           },
@@ -680,6 +623,48 @@
                   "streams": [
                     {
                       "id": "kaytee-07778293acef",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-70147cc77076",
+          "name": "⚽ Canada vs Thổ Nhĩ Kỳ | 01:30",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-70147cc77076.webp?v=1781441083",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-70147cc77076",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-70147cc77076",
+                  "name": "Canada vs Thổ Nhĩ Kỳ",
+                  "streams": [
+                    {
+                      "id": "kaytee-70147cc77076",
                       "name": "F",
                       "stream_links": []
                     }
