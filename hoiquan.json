@@ -24,6 +24,63 @@
       "enable_detail": false,
       "channels": [
         {
+          "id": "kaytee-5e6b2253cf39",
+          "name": "⚽ BFC Daugavpils vs Super Nova | 22:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-5e6b2253cf39.webp?v=1781624078",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-5e6b2253cf39",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-5e6b2253cf39",
+                  "name": "BFC Daugavpils vs Super Nova",
+                  "streams": [
+                    {
+                      "id": "kaytee-5e6b2253cf39",
+                      "name": "F",
+                      "stream_links": [
+                        {
+                          "id": "lnk-7040c50628",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfws3gr4nhct1gwzdrcbqgr5ucmmwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=9da0ecc96b372ba9816c33fd-178162406381660&wsIPSercert=fc4acc60e94b8aeff93609b084b272d2&wsBindIP=2&wsserid=1172648037364824205"
+                        },
+                        {
+                          "id": "lnk-5cc8eb5745",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
           "id": "kaytee-0174ccce73a0",
           "name": "⚽ Tomas Martin Etcheverry vs Daniil Medvedev | 22:00",
           "type": "single",
@@ -33,7 +90,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-0174ccce73a0.webp?v=1781623479",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-0174ccce73a0.webp?v=1781624080",
             "width": 1600,
             "height": 1200
           },
@@ -66,68 +123,11 @@
                           "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanchuot/playlist.m3u8"
                         },
                         {
-                          "id": "lnk-a755f7fcf4",
+                          "id": "lnk-a9cf8f1911",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
-                          "url": "https://tfws3gr4nhct1gwzdrcbqgr5ucmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanchuot/playlist.m3u8?wsSession=3798b207bbd78aea83e864d4-178162345793357&wsIPSercert=391428d68be8b6abd215f1de83175184&wsBindIP=2&wsserid=1172648037401524517"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "kaytee-5e6b2253cf39",
-          "name": "⚽ BFC Daugavpils vs Super Nova | 22:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-5e6b2253cf39.webp?v=1781623481",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-5e6b2253cf39",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-5e6b2253cf39",
-                  "name": "BFC Daugavpils vs Super Nova",
-                  "streams": [
-                    {
-                      "id": "kaytee-5e6b2253cf39",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-5cc8eb5745",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8"
-                        },
-                        {
-                          "id": "lnk-8cf2bb507f",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://tfws3gr4nhct1gwzdrcbqgr5ucmmwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=9da0ecc96b372ba9816c33fd-178162345900758&wsIPSercert=391428d68be8b6abd215f1de83175184&wsBindIP=2&wsserid=1172648037364824205"
+                          "url": "https://tfws3gr4nhct1gwzdrcbqgr5ucmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanchuot/playlist.m3u8?wsSession=9da0ecc96b372ba9816c33fd-178162406600555&wsIPSercert=fc4acc60e94b8aeff93609b084b272d2&wsBindIP=2&wsserid=1172648037364824205"
                         }
                       ]
                     }
@@ -147,7 +147,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-47346e6a02e8.webp?v=1781623481",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-47346e6a02e8.webp?v=1781624079",
             "width": 1600,
             "height": 1200
           },
@@ -171,7 +171,22 @@
                     {
                       "id": "kaytee-47346e6a02e8",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-d61739eb7d",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfws3gr4nhct1gwzdrcbqgr5ucmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8?wsSession=7628c1fa07fd7b95cad29dd5-178162406310232&wsIPSercert=fc4acc60e94b8aeff93609b084b272d2&wsBindIP=2&wsserid=1172648037400475881"
+                        },
+                        {
+                          "id": "lnk-793457802f",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8"
+                        }
+                      ]
                     }
                   ]
                 }
@@ -189,7 +204,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-24c5d3c9a5ae.webp?v=1781623482",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-24c5d3c9a5ae.webp?v=1781624080",
             "width": 1600,
             "height": 1200
           },
@@ -231,7 +246,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-f93fd1725b6c.webp?v=1781623484",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-f93fd1725b6c.webp?v=1781624081",
             "width": 1600,
             "height": 1200
           },
@@ -264,48 +279,6 @@
           ]
         },
         {
-          "id": "kaytee-beee85c689d3",
-          "name": "⚽ IFK Varnamo vs Helsingborg | 00:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-beee85c689d3.webp?v=1781623483",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "⏳ Chưa live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#d54f1a"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-beee85c689d3",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-beee85c689d3",
-                  "name": "IFK Varnamo vs Helsingborg",
-                  "streams": [
-                    {
-                      "id": "kaytee-beee85c689d3",
-                      "name": "F",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "kaytee-f48583290246",
           "name": "⚽ Kamil Majchrzak vs Jiri Lehecka | 01:30",
           "type": "single",
@@ -315,7 +288,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-f48583290246.webp?v=1781623485",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-f48583290246.webp?v=1781624082",
             "width": 1600,
             "height": 1200
           },
@@ -357,7 +330,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-5289ae240d6c.webp?v=1781623483",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-5289ae240d6c.webp?v=1781624077",
             "width": 1600,
             "height": 1200
           },
@@ -399,7 +372,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-65ce707a1190.webp?v=1781623487",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-65ce707a1190.webp?v=1781624083",
             "width": 1600,
             "height": 1200
           },
@@ -441,7 +414,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-8a72743f2735.webp?v=1781623487",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-8a72743f2735.webp?v=1781624084",
             "width": 1600,
             "height": 1200
           },
@@ -483,7 +456,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-c07c15c5c678.webp?v=1781623488",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-c07c15c5c678.webp?v=1781624085",
             "width": 1600,
             "height": 1200
           },
@@ -525,7 +498,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-cae44172fd1b.webp?v=1781623489",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-cae44172fd1b.webp?v=1781624086",
             "width": 1600,
             "height": 1200
           },
@@ -567,7 +540,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-5b6ba2d15562.webp?v=1781623490",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-5b6ba2d15562.webp?v=1781624086",
             "width": 1600,
             "height": 1200
           },
