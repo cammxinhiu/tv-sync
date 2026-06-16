@@ -24,91 +24,6 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "kaytee-5289ae240d6c",
-          "name": "⚽ France vs Senegal | 02:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-5289ae240d6c.webp?v=1781643290",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-5289ae240d6c",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-5289ae240d6c",
-                  "name": "France vs Senegal",
-                  "streams": [
-                    {
-                      "id": "kaytee-5289ae240d6c",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-d3ad20e480",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfws1gr5domt1gc41hctogezd1cjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=cadbb8958d249e6373c97d5d-178164327111166&wsIPSercert=391428d68be8b6abd215f1de83175184&wsBindIP=2&wsserid=1168273351498260392"
-                        },
-                        {
-                          "id": "lnk-21b1651418",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8"
-                        },
-                        {
-                          "id": "lnk-b5684a46e1",
-                          "name": "Link 3",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://tfws1gr5domt1gc41hctogezd1cjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=05f5c9601e0830124057d75a-178164327111010&wsIPSercert=391428d68be8b6abd215f1de83175184&wsBindIP=2&wsserid=1168273349992270251"
-                        },
-                        {
-                          "id": "lnk-9a54232d81",
-                          "name": "Link 4",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8"
-                        },
-                        {
-                          "id": "lnk-b159434135",
-                          "name": "Link 5",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanchop/playlist.m3u8"
-                        },
-                        {
-                          "id": "lnk-2ae0930a4d",
-                          "name": "Link 6",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://tfws1gr5domt1gc41hctogezd1cjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanchop/playlist.m3u8?wsSession=cadbb8958d249e6373c97d5d-178164327111170&wsIPSercert=391428d68be8b6abd215f1de83175184&wsBindIP=2&wsserid=1168273351498260392"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "kaytee-4a19433e4bd2",
           "name": "⚽ Iraq vs Norway | 05:00",
           "type": "single",
@@ -118,7 +33,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-4a19433e4bd2.webp?v=1781643291",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-4a19433e4bd2.webp?v=1781643871",
             "width": 1600,
             "height": 1200
           },
@@ -151,6 +66,90 @@
           ]
         },
         {
+          "id": "kaytee-8e12ff983de3",
+          "name": "⚽ Fortaleza EC vs America Mineiro | 06:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-8e12ff983de3.webp?v=1781643872",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-8e12ff983de3",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-8e12ff983de3",
+                  "name": "Fortaleza EC vs America Mineiro",
+                  "streams": [
+                    {
+                      "id": "kaytee-8e12ff983de3",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-f7b1d72f0bc6",
+          "name": "⚽ Argentina vs Algeria | 08:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-f7b1d72f0bc6.webp?v=1781643873",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-f7b1d72f0bc6",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-f7b1d72f0bc6",
+                  "name": "Argentina vs Algeria",
+                  "streams": [
+                    {
+                      "id": "kaytee-f7b1d72f0bc6",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
           "id": "kaytee-65ce707a1190",
           "name": "⚽ Cộng Hòa Dominicana vs Mỹ | 11:00",
           "type": "single",
@@ -160,7 +159,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-65ce707a1190.webp?v=1781643293",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-65ce707a1190.webp?v=1781643874",
             "width": 1600,
             "height": 1200
           },
@@ -202,7 +201,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-8a72743f2735.webp?v=1781643293",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-8a72743f2735.webp?v=1781643875",
             "width": 1600,
             "height": 1200
           },
@@ -244,7 +243,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-c07c15c5c678.webp?v=1781643294",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-c07c15c5c678.webp?v=1781643876",
             "width": 1600,
             "height": 1200
           },
@@ -286,7 +285,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-cae44172fd1b.webp?v=1781643295",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-cae44172fd1b.webp?v=1781643876",
             "width": 1600,
             "height": 1200
           },
@@ -328,7 +327,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-192f92a7781a.webp?v=1781643296",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-192f92a7781a.webp?v=1781643878",
             "width": 1600,
             "height": 1200
           },
@@ -370,7 +369,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-5b6ba2d15562.webp?v=1781643295",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-5b6ba2d15562.webp?v=1781643877",
             "width": 1600,
             "height": 1200
           },
@@ -412,7 +411,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-e8af57995286.webp?v=1781643297",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-e8af57995286.webp?v=1781643878",
             "width": 1600,
             "height": 1200
           },
@@ -454,7 +453,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-5de899a83e9a.webp?v=1781643298",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-5de899a83e9a.webp?v=1781643879",
             "width": 1600,
             "height": 1200
           },
@@ -496,7 +495,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-40a891cdeaf9.webp?v=1781643299",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-40a891cdeaf9.webp?v=1781643880",
             "width": 1600,
             "height": 1200
           },
@@ -538,7 +537,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-36d3810e2346.webp?v=1781643299",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-36d3810e2346.webp?v=1781643881",
             "width": 1600,
             "height": 1200
           },
