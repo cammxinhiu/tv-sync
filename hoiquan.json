@@ -24,120 +24,6 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "kaytee-f93fd1725b6c",
-          "name": "⚽ Cameron Norrie vs Alejandro Davidovich Fokina | 23:30",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-f93fd1725b6c.webp?v=1781636081",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "⏳ Chưa live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#d54f1a"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-f93fd1725b6c",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-f93fd1725b6c",
-                  "name": "Cameron Norrie vs Alejandro Davidovich Fokina",
-                  "streams": [
-                    {
-                      "id": "kaytee-f93fd1725b6c",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-a0e5ccc56b",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanphep/playlist.m3u8"
-                        },
-                        {
-                          "id": "lnk-8d9198ee5c",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://tfws1gr3uomttgr31hctw8rzdnpjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanphep/playlist.m3u8?wsSession=fabbe13ee2b0808436ebd2eb-178163606308321&wsIPSercert=391428d68be8b6abd215f1de83175184&wsBindIP=2&wsserid=1168235407020855235"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "kaytee-f48583290246",
-          "name": "⚽ Kamil Majchrzak vs Jiri Lehecka | 01:30",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-f48583290246.webp?v=1781636081",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-f48583290246",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-f48583290246",
-                  "name": "Kamil Majchrzak vs Jiri Lehecka",
-                  "streams": [
-                    {
-                      "id": "kaytee-f48583290246",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-0ea6c5408b",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfws1gr3uomttgr31hctw8rzdnpjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanphep/playlist.m3u8?wsSession=fabbe13ee2b0808436ebd2eb-178163606407533&wsIPSercert=391428d68be8b6abd215f1de83175184&wsBindIP=2&wsserid=1168235407020855235"
-                        },
-                        {
-                          "id": "lnk-a0e5ccc56b",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanphep/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "kaytee-5289ae240d6c",
           "name": "⚽ France vs Senegal | 02:00",
           "type": "single",
@@ -147,16 +33,16 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-5289ae240d6c.webp?v=1781636079",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-5289ae240d6c.webp?v=1781637290",
             "width": 1600,
             "height": 1200
           },
           "labels": [
             {
-              "text": "⏳ Chưa live",
+              "text": "● Live",
               "position": "top-left",
               "color": "#00ffffff",
-              "text_color": "#d54f1a"
+              "text_color": "#ff0000"
             }
           ],
           "sources": [
@@ -173,39 +59,39 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-32544a022b",
+                          "id": "lnk-21b1651418",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfws1gr3uomttgr31hctw8rzdnpjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=241502f95a1aae4409ae5471-178163605615711&wsIPSercert=391428d68be8b6abd215f1de83175184&wsBindIP=2&wsserid=1168235407026098219"
-                        },
-                        {
-                          "id": "lnk-21b1651418",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
                           "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8"
                         },
                         {
-                          "id": "lnk-9a54232d81",
+                          "id": "lnk-201ade19b4",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://tfws3gr4nhct1gwzdepjqgr5u1mmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=6dc1df90fe3f5c052c840b8b-178163726887122&wsIPSercert=391428d68be8b6abd215f1de83175184&wsBindIP=2&wsserid=1168271909252445665"
+                        },
+                        {
+                          "id": "lnk-6d71dea651",
                           "name": "Link 3",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://tfws3gr4nhct1gwzdepjqgr5u1mmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=b18edee1956aed49e1383aaf-178163726887030&wsIPSercert=391428d68be8b6abd215f1de83175184&wsBindIP=2&wsserid=1168271909248251247"
+                        },
+                        {
+                          "id": "lnk-9a54232d81",
+                          "name": "Link 4",
                           "type": "hls",
                           "default": false,
                           "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8"
                         },
                         {
-                          "id": "lnk-406db4d33a",
-                          "name": "Link 4",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://tfws1gr3uomttgr31hctw8rzdnpjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=fabbe13ee2b0808436ebd2eb-178163605615720&wsIPSercert=391428d68be8b6abd215f1de83175184&wsBindIP=2&wsserid=1168235407020855235"
-                        },
-                        {
-                          "id": "lnk-4cfa253622",
+                          "id": "lnk-6ed32f8822",
                           "name": "Link 5",
                           "type": "hls",
                           "default": false,
-                          "url": "https://tfws1gr3uomttgr31hctw8rzdnpjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanchop/playlist.m3u8?wsSession=e86bde83d41b7a1021980d20-178163605615612&wsIPSercert=391428d68be8b6abd215f1de83175184&wsBindIP=2&wsserid=1168235407031341207"
+                          "url": "https://tfws3gr4nhct1gwzdepjqgr5u1mmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanchop/playlist.m3u8?wsSession=84a1d3cda85683c429a8b22a-178163726887088&wsIPSercert=391428d68be8b6abd215f1de83175184&wsBindIP=2&wsserid=1168271909128713172"
                         },
                         {
                           "id": "lnk-b159434135",
@@ -232,7 +118,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-4a19433e4bd2.webp?v=1781636080",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-4a19433e4bd2.webp?v=1781637291",
             "width": 1600,
             "height": 1200
           },
@@ -274,7 +160,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-65ce707a1190.webp?v=1781636085",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-65ce707a1190.webp?v=1781637292",
             "width": 1600,
             "height": 1200
           },
@@ -316,7 +202,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-8a72743f2735.webp?v=1781636086",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-8a72743f2735.webp?v=1781637293",
             "width": 1600,
             "height": 1200
           },
@@ -358,7 +244,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-c07c15c5c678.webp?v=1781636087",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-c07c15c5c678.webp?v=1781637294",
             "width": 1600,
             "height": 1200
           },
@@ -391,48 +277,6 @@
           ]
         },
         {
-          "id": "kaytee-192f92a7781a",
-          "name": "⚽ Zizou Bergs vs Taylor Fritz | 16:30",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-192f92a7781a.webp?v=1781636082",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "⏳ Chưa live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#d54f1a"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-192f92a7781a",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-192f92a7781a",
-                  "name": "Zizou Bergs vs Taylor Fritz",
-                  "streams": [
-                    {
-                      "id": "kaytee-192f92a7781a",
-                      "name": "F",
-                      "stream_links": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "kaytee-cae44172fd1b",
           "name": "⚽ Đức vs Trung Quốc | 16:30",
           "type": "single",
@@ -442,7 +286,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-cae44172fd1b.webp?v=1781636087",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-cae44172fd1b.webp?v=1781637294",
             "width": 1600,
             "height": 1200
           },
@@ -475,6 +319,48 @@
           ]
         },
         {
+          "id": "kaytee-192f92a7781a",
+          "name": "⚽ Zizou Bergs vs Taylor Fritz | 16:30",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-192f92a7781a.webp?v=1781637296",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-192f92a7781a",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-192f92a7781a",
+                  "name": "Zizou Bergs vs Taylor Fritz",
+                  "streams": [
+                    {
+                      "id": "kaytee-192f92a7781a",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
           "id": "kaytee-5b6ba2d15562",
           "name": "⚽ Bulgaria vs Ba Lan | 17:00",
           "type": "single",
@@ -484,7 +370,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-5b6ba2d15562.webp?v=1781636088",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-5b6ba2d15562.webp?v=1781637295",
             "width": 1600,
             "height": 1200
           },
@@ -526,7 +412,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-e8af57995286.webp?v=1781636083",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-e8af57995286.webp?v=1781637297",
             "width": 1600,
             "height": 1200
           },
@@ -568,7 +454,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-5de899a83e9a.webp?v=1781636084",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-5de899a83e9a.webp?v=1781637298",
             "width": 1600,
             "height": 1200
           },
@@ -591,6 +477,90 @@
                   "streams": [
                     {
                       "id": "kaytee-5de899a83e9a",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-40a891cdeaf9",
+          "name": "⚽ Alex de Minaur vs Denis Shapovalov | 19:30",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-40a891cdeaf9.webp?v=1781637299",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-40a891cdeaf9",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-40a891cdeaf9",
+                  "name": "Alex de Minaur vs Denis Shapovalov",
+                  "streams": [
+                    {
+                      "id": "kaytee-40a891cdeaf9",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-36d3810e2346",
+          "name": "⚽ Learner Tien vs Felix Auger-Aliassime | 20:30",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-36d3810e2346.webp?v=1781637299",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-36d3810e2346",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-36d3810e2346",
+                  "name": "Learner Tien vs Felix Auger-Aliassime",
+                  "streams": [
+                    {
+                      "id": "kaytee-36d3810e2346",
                       "name": "F",
                       "stream_links": []
                     }
