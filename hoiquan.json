@@ -24,177 +24,6 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "kaytee-c0c965ec651f",
-          "name": "⚽ Terence Atmane vs Daniil Medvedev | 22:30",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-c0c965ec651f.webp?v=1781718289",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-c0c965ec651f",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-c0c965ec651f",
-                  "name": "Terence Atmane vs Daniil Medvedev",
-                  "streams": [
-                    {
-                      "id": "kaytee-c0c965ec651f",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-bed6681f1c",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanchuot/playlist.m3u8"
-                        },
-                        {
-                          "id": "lnk-93fbf50f25",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://tfwt1gr3uomttgr31hcjtgozdocjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanchuot/playlist.m3u8?wsSession=ddac59501dcd865d257e7f33-178171827208343&wsIPSercert=391428d68be8b6abd215f1de83175184&wsBindIP=2&wsserid=1168118325407094734"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "kaytee-c421b8af8564",
-          "name": "⚽ Riga vs Rīgas FS | 23:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-c421b8af8564.webp?v=1781718283",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-c421b8af8564",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-c421b8af8564",
-                  "name": "Riga vs Rīgas FS",
-                  "streams": [
-                    {
-                      "id": "kaytee-c421b8af8564",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-ece8f6d991",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8"
-                        },
-                        {
-                          "id": "lnk-fa1eea99cb",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://tfwt1gr3uomttgr31hcjtgozdocjpqt1ga4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=cd29a4d000450da85ec2b879-178171826191622&wsIPSercert=fc4acc60e94b8aeff93609b084b272d2&wsBindIP=2&wsserid=1168118325406046128"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "kaytee-19ca674646a8",
-          "name": "⚽ Thổ Nhĩ Kỳ vs Bỉ | 23:30",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-19ca674646a8.webp?v=1781718285",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-19ca674646a8",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-19ca674646a8",
-                  "name": "Thổ Nhĩ Kỳ vs Bỉ",
-                  "streams": [
-                    {
-                      "id": "kaytee-19ca674646a8",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-e15555885e",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tfwt1gr3uomttgr31hcjtgozdocjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanbong/playlist.m3u8?wsSession=ddac59501dcd865d257e7f33-178171826269961&wsIPSercert=391428d68be8b6abd215f1de83175184&wsBindIP=2&wsserid=1168118325407094734"
-                        },
-                        {
-                          "id": "lnk-7c3a1b399e",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanbong/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "kaytee-ee02e1ade79c",
           "name": "⚽ Portugal vs Congo DR | 00:00",
           "type": "single",
@@ -204,7 +33,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-ee02e1ade79c.webp?v=1781718282",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-ee02e1ade79c.webp?v=1781720070",
             "width": 1600,
             "height": 1200
           },
@@ -230,11 +59,11 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-552a98cf9d",
+                          "id": "lnk-1f310d8e1f",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwt1gr3uomttgr31hcjtgozdocjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=4c70236e147d9c482f6b78ba-178171825706452&wsIPSercert=391428d68be8b6abd215f1de83175184&wsBindIP=2&wsserid=1168118348583030927"
+                          "url": "https://tfwt1gr3uomttgr31hcj38rzdgp3ppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=3a8d6dd92907195b1e36dd5c-178172005569528&wsIPSercert=391428d68be8b6abd215f1de83175184&wsBindIP=2&wsserid=1168235407056507957"
                         },
                         {
                           "id": "lnk-21b1651418",
@@ -244,11 +73,11 @@
                           "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8"
                         },
                         {
-                          "id": "lnk-8def664067",
+                          "id": "lnk-880edd62e0",
                           "name": "Link 3",
                           "type": "hls",
                           "default": false,
-                          "url": "https://tfwt1gr3uomttgr31hcjtgozdocjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanchop/playlist.m3u8?wsSession=4c70236e147d9c482f6b78ba-178171825706468&wsIPSercert=391428d68be8b6abd215f1de83175184&wsBindIP=2&wsserid=1168118348583030927"
+                          "url": "https://tfwt1gr3uomttgr31hcj38rzdgp3ppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanchop/playlist.m3u8?wsSession=3a8d6dd92907195b1e36dd5c-178172005569343&wsIPSercert=391428d68be8b6abd215f1de83175184&wsBindIP=2&wsserid=1168235407056507957"
                         },
                         {
                           "id": "lnk-b159434135",
@@ -258,18 +87,18 @@
                           "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanchop/playlist.m3u8"
                         },
                         {
-                          "id": "lnk-b3479dff34",
+                          "id": "lnk-9a54232d81",
                           "name": "Link 5",
                           "type": "hls",
                           "default": false,
-                          "url": "https://tfwt1gr3uomttgr31hcjtgozdocjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=4c70236e147d9c482f6b78ba-178171825706473&wsIPSercert=391428d68be8b6abd215f1de83175184&wsBindIP=2&wsserid=1168118348583030927"
+                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8"
                         },
                         {
-                          "id": "lnk-9a54232d81",
+                          "id": "lnk-052a422b7c",
                           "name": "Link 6",
                           "type": "hls",
                           "default": false,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8"
+                          "url": "https://tfwt1gr3uomttgr31hcj38rzdgp3ppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8?wsSession=3a8d6dd92907195b1e36dd5c-178172005569493&wsIPSercert=391428d68be8b6abd215f1de83175184&wsBindIP=2&wsserid=1168235407056507957"
                         }
                       ]
                     }
@@ -289,7 +118,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-6b2c540f859c.webp?v=1781718284",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-6b2c540f859c.webp?v=1781720070",
             "width": 1600,
             "height": 1200
           },
@@ -331,7 +160,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-1e7ba946363b.webp?v=1781718286",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-1e7ba946363b.webp?v=1781720073",
             "width": 1600,
             "height": 1200
           },
@@ -373,7 +202,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-248b60ade0ab.webp?v=1781718287",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-248b60ade0ab.webp?v=1781720074",
             "width": 1600,
             "height": 1200
           },
@@ -415,7 +244,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-09956b986b5e.webp?v=1781718288",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-09956b986b5e.webp?v=1781720074",
             "width": 1600,
             "height": 1200
           },
@@ -457,7 +286,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-06284e93c4b5.webp?v=1781718289",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-06284e93c4b5.webp?v=1781720075",
             "width": 1600,
             "height": 1200
           },
@@ -480,6 +309,48 @@
                   "streams": [
                     {
                       "id": "kaytee-06284e93c4b5",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-fc3cc93eed49",
+          "name": "⚽ Thái Lan vs Bulgaria | 20:30",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-fc3cc93eed49.webp?v=1781720076",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-fc3cc93eed49",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-fc3cc93eed49",
+                  "name": "Thái Lan vs Bulgaria",
+                  "streams": [
+                    {
+                      "id": "kaytee-fc3cc93eed49",
                       "name": "F",
                       "stream_links": []
                     }
