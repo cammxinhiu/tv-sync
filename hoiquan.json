@@ -24,63 +24,6 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "kaytee-f9d1ca389100",
-          "name": "⚽ Ghana vs Panama | 06:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-f9d1ca389100.webp?v=1781745322",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-f9d1ca389100",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-f9d1ca389100",
-                  "name": "Ghana vs Panama",
-                  "streams": [
-                    {
-                      "id": "kaytee-f9d1ca389100",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-c057a6c8ab",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8"
-                        },
-                        {
-                          "id": "lnk-6e651b387f",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://tfwu1gr3uomttgr31hctw8rzdnp3ppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=96ea42946ef97d3678ca6c88-178174526084338&wsIPSercert=391428d68be8b6abd215f1de83175184&wsBindIP=2&wsserid=1168235407072236905"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "kaytee-95115013ffa9",
           "name": "⚽ FC Tulsa vs Monterey Bay | 07:30",
           "type": "single",
@@ -90,7 +33,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-95115013ffa9.webp?v=1781745327",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-95115013ffa9.webp?v=1781745890",
             "width": 1600,
             "height": 1200
           },
@@ -116,18 +59,18 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-45b503b38a",
+                          "id": "lnk-2af2f7b4fe",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwu1gr3uomttgr31hctw8rzdnp3ppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=87683efb53b556f3c616ba18-178174526084424&wsIPSercert=391428d68be8b6abd215f1de83175184&wsBindIP=2&wsserid=1168235407070139703"
+                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8"
                         },
                         {
-                          "id": "lnk-2af2f7b4fe",
+                          "id": "lnk-5eec9ccb4a",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8"
+                          "url": "https://tfwu1gr3uomttgr31hcjtgozdocjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8?wsSession=180810dfad662175c66037e4-178174585920360&wsIPSercert=391428d68be8b6abd215f1de83175184&wsBindIP=2&wsserid=1168118345846784608"
                         }
                       ]
                     }
@@ -147,7 +90,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-63d95c882709.webp?v=1781745327",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-63d95c882709.webp?v=1781745899",
             "width": 1600,
             "height": 1200
           },
@@ -171,7 +114,22 @@
                     {
                       "id": "kaytee-63d95c882709",
                       "name": "F",
-                      "stream_links": []
+                      "stream_links": [
+                        {
+                          "id": "lnk-c057a6c8ab",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8"
+                        },
+                        {
+                          "id": "lnk-c103051dd6",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://tfwu1gr3uomttgr31hcjtgozdocjppbasa4mscwz81am1p3tse5tqptwzc3e.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=ddac59501dcd865d257e7f33-178174585920375&wsIPSercert=391428d68be8b6abd215f1de83175184&wsBindIP=2&wsserid=1168118325407094734"
+                        }
+                      ]
                     }
                   ]
                 }
@@ -189,7 +147,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-1e7ba946363b.webp?v=1781745329",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-1e7ba946363b.webp?v=1781745901",
             "width": 1600,
             "height": 1200
           },
@@ -231,7 +189,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-481ee9cd83d1.webp?v=1781745338",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-481ee9cd83d1.webp?v=1781745901",
             "width": 1600,
             "height": 1200
           },
@@ -273,7 +231,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-558a64305034.webp?v=1781745333",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-558a64305034.webp?v=1781745907",
             "width": 1600,
             "height": 1200
           },
@@ -306,6 +264,48 @@
           ]
         },
         {
+          "id": "kaytee-7efe330a411e",
+          "name": "⚽ AC Oulu vs Mariehamn | 16:59",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-7efe330a411e.webp?v=1781745902",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-7efe330a411e",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-7efe330a411e",
+                  "name": "AC Oulu vs Mariehamn",
+                  "streams": [
+                    {
+                      "id": "kaytee-7efe330a411e",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
           "id": "kaytee-248b60ade0ab",
           "name": "⚽ Ukraina vs Ba Lan | 17:00",
           "type": "single",
@@ -315,7 +315,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-248b60ade0ab.webp?v=1781745330",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-248b60ade0ab.webp?v=1781745904",
             "width": 1600,
             "height": 1200
           },
@@ -357,7 +357,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-e569bec9384a.webp?v=1781745334",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-e569bec9384a.webp?v=1781745907",
             "width": 1600,
             "height": 1200
           },
@@ -390,6 +390,48 @@
           ]
         },
         {
+          "id": "kaytee-5dd0eb8faf04",
+          "name": "⚽ Akademiya Ontustik vs Yelimay Semey 2 | 19:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-5dd0eb8faf04.webp?v=1781745903",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-5dd0eb8faf04",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-5dd0eb8faf04",
+                  "name": "Akademiya Ontustik vs Yelimay Semey 2",
+                  "streams": [
+                    {
+                      "id": "kaytee-5dd0eb8faf04",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
           "id": "kaytee-09956b986b5e",
           "name": "⚽ Serbia vs Italy | 19:00",
           "type": "single",
@@ -399,7 +441,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-09956b986b5e.webp?v=1781745331",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-09956b986b5e.webp?v=1781745904",
             "width": 1600,
             "height": 1200
           },
@@ -441,7 +483,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-06284e93c4b5.webp?v=1781745331",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-06284e93c4b5.webp?v=1781745905",
             "width": 1600,
             "height": 1200
           },
@@ -483,7 +525,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-fc3cc93eed49.webp?v=1781745332",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-fc3cc93eed49.webp?v=1781745906",
             "width": 1600,
             "height": 1200
           },
@@ -525,7 +567,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-205af5676a66.webp?v=1781745335",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-205af5676a66.webp?v=1781745908",
             "width": 1600,
             "height": 1200
           },
@@ -567,7 +609,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-ef88106b3f06.webp?v=1781745336",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-ef88106b3f06.webp?v=1781745909",
             "width": 1600,
             "height": 1200
           },
@@ -609,7 +651,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-3a7f05a0136b.webp?v=1781745339",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-3a7f05a0136b.webp?v=1781745911",
             "width": 1600,
             "height": 1200
           },
@@ -651,7 +693,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-ccce656ea4ee.webp?v=1781745337",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-ccce656ea4ee.webp?v=1781745910",
             "width": 1600,
             "height": 1200
           },
