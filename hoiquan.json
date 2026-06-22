@@ -24,56 +24,6 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "kaytee-d98f72ab0044",
-          "name": "⚽ Austin II vs Sporting KC II | 07:30",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-d98f72ab0044.webp?v=1782095110",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-d98f72ab0044",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-d98f72ab0044",
-                  "name": "Austin II vs Sporting KC II",
-                  "streams": [
-                    {
-                      "id": "kaytee-d98f72ab0044",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-2af2f7b4fe",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "kaytee-fa8a7371588e",
           "name": "⚽ New Zealand vs Egypt | 08:00",
           "type": "single",
@@ -83,7 +33,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-fa8a7371588e.webp?v=1782095108",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-fa8a7371588e.webp?v=1782095693",
             "width": 1600,
             "height": 1200
           },
@@ -116,11 +66,25 @@
                           "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8"
                         },
                         {
-                          "id": "lnk-c057a6c8ab",
+                          "id": "lnk-1d9b9ab2a3",
                           "name": "Link 2",
                           "type": "hls",
                           "default": false,
+                          "url": "https://tfwy3gr4nhct1gwzdrcbqgr5ucmmwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=9da0ecc96b372ba9816c33fd-178209567003185&wsIPSercert=fc4acc60e94b8aeff93609b084b272d2&wsBindIP=2&wsserid=1172648037364824205"
+                        },
+                        {
+                          "id": "lnk-c057a6c8ab",
+                          "name": "Link 3",
+                          "type": "hls",
+                          "default": false,
                           "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8"
+                        },
+                        {
+                          "id": "lnk-133f03b738",
+                          "name": "Link 4",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://tfwy3gr4nhct1gwzdrcbqgrhdqmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=ee1ebc7ca2eb16c49145384f-178209566711144&wsIPSercert=fc4acc60e94b8aeff93609b084b272d2&wsBindIP=2&wsserid=1168239097219265334"
                         }
                       ]
                     }
@@ -140,7 +104,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-2660398b71f6.webp?v=1782095111",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-2660398b71f6.webp?v=1782095694",
             "width": 1600,
             "height": 1200
           },
@@ -182,7 +146,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-cdc030aed7c8.webp?v=1782095113",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-cdc030aed7c8.webp?v=1782095697",
             "width": 1600,
             "height": 1200
           },
@@ -224,7 +188,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-ef8b27bacede.webp?v=1782095112",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-ef8b27bacede.webp?v=1782095695",
             "width": 1600,
             "height": 1200
           },
@@ -266,7 +230,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-6953f3b9ad20.webp?v=1782095114",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-6953f3b9ad20.webp?v=1782095697",
             "width": 1600,
             "height": 1200
           },
@@ -289,6 +253,48 @@
                   "streams": [
                     {
                       "id": "kaytee-6953f3b9ad20",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-d26e27bf6043",
+          "name": "⚽ Rīgas FS vs Ogre United | 22:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-d26e27bf6043.webp?v=1782095696",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-d26e27bf6043",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-d26e27bf6043",
+                  "name": "Rīgas FS vs Ogre United",
+                  "streams": [
+                    {
+                      "id": "kaytee-d26e27bf6043",
                       "name": "F",
                       "stream_links": []
                     }
