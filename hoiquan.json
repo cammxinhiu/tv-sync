@@ -24,63 +24,6 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "kaytee-0b30a59715dd",
-          "name": "⚽ Coquimbo Unido vs Deportes Limache | 02:00",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "image": {
-            "padding": 1,
-            "background_color": "#ececec",
-            "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-0b30a59715dd.webp?v=1782248069",
-            "width": 1600,
-            "height": 1200
-          },
-          "labels": [
-            {
-              "text": "● Live",
-              "position": "top-left",
-              "color": "#00ffffff",
-              "text_color": "#ff0000"
-            }
-          ],
-          "sources": [
-            {
-              "id": "kaytee-0b30a59715dd",
-              "name": "Hội Quán",
-              "contents": [
-                {
-                  "id": "kaytee-0b30a59715dd",
-                  "name": "Coquimbo Unido vs Deportes Limache",
-                  "streams": [
-                    {
-                      "id": "kaytee-0b30a59715dd",
-                      "name": "F",
-                      "stream_links": [
-                        {
-                          "id": "lnk-ece8f6d991",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8"
-                        },
-                        {
-                          "id": "lnk-c2b04e735d",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
-                          "url": "https://tfwz3gr4nhct1gwzdepjqgrhuqmmwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=2ea24eeaab6b90524c5bac93-178224805901857&wsIPSercert=fc4acc60e94b8aeff93609b084b272d2&wsBindIP=2&wsserid=1168271556800904919"
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "kaytee-151737abffd9",
           "name": "⚽ England vs Ghana | 03:00",
           "type": "single",
@@ -90,7 +33,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-151737abffd9.webp?v=1782248068",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-151737abffd9.webp?v=1782248667",
             "width": 1600,
             "height": 1200
           },
@@ -116,46 +59,46 @@
                       "name": "F",
                       "stream_links": [
                         {
-                          "id": "lnk-54161fee19",
+                          "id": "lnk-5cc8eb5745",
                           "name": "Link 1",
                           "type": "hls",
                           "default": true,
-                          "url": "https://tfwz3gr4nhct1gwzdepjqgrhuqmmwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=dd4bb502e89ec83c9bff36ac-178224805462935&wsIPSercert=fc4acc60e94b8aeff93609b084b272d2&wsBindIP=2&wsserid=1168276518868027036"
-                        },
-                        {
-                          "id": "lnk-5cc8eb5745",
-                          "name": "Link 2",
-                          "type": "hls",
-                          "default": false,
                           "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8"
                         },
                         {
-                          "id": "lnk-d7164e3cc1",
-                          "name": "Link 3",
+                          "id": "lnk-c0e3f23328",
+                          "name": "Link 2",
                           "type": "hls",
                           "default": false,
-                          "url": "https://tfwz3gr4nhct1gwzdepjqgrhuqmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=dd4bb502e89ec83c9bff36ac-178224805462877&wsIPSercert=fc4acc60e94b8aeff93609b084b272d2&wsBindIP=2&wsserid=1168276518868027036"
+                          "url": "https://tfwz3gr4nhct1gwzdepjqgrhuqmmwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8?wsSession=dd4bb502e89ec83c9bff36ac-178224865650484&wsIPSercert=fc4acc60e94b8aeff93609b084b272d2&wsBindIP=2&wsserid=1168276518868027036"
                         },
                         {
                           "id": "lnk-21b1651418",
-                          "name": "Link 4",
+                          "name": "Link 3",
                           "type": "hls",
                           "default": false,
                           "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8"
                         },
                         {
-                          "id": "lnk-c057a6c8ab",
+                          "id": "lnk-2e5242a709",
+                          "name": "Link 4",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://tfwz3gr4nhct1gwzdepjqgrhuqmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8?wsSession=dd4bb502e89ec83c9bff36ac-178224865655378&wsIPSercert=fc4acc60e94b8aeff93609b084b272d2&wsBindIP=2&wsserid=1168276518868027036"
+                        },
+                        {
+                          "id": "lnk-18eb6169e7",
                           "name": "Link 5",
                           "type": "hls",
                           "default": false,
-                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8"
+                          "url": "https://tfwz3gr4nhct1gwzdepjqgrhuqmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=dd4bb502e89ec83c9bff36ac-178224865655398&wsIPSercert=fc4acc60e94b8aeff93609b084b272d2&wsBindIP=2&wsserid=1168276518868027036"
                         },
                         {
-                          "id": "lnk-0bbd11cf38",
+                          "id": "lnk-c057a6c8ab",
                           "name": "Link 6",
                           "type": "hls",
                           "default": false,
-                          "url": "https://tfwz3gr4nhct1gwzdepjqgrhuqmmeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8?wsSession=dd4bb502e89ec83c9bff36ac-178224805462853&wsIPSercert=fc4acc60e94b8aeff93609b084b272d2&wsBindIP=2&wsserid=1168276518868027036"
+                          "url": "https://hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8"
                         }
                       ]
                     }
@@ -175,7 +118,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-9f06b06e7d50.webp?v=1782248069",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-9f06b06e7d50.webp?v=1782248668",
             "width": 1600,
             "height": 1200
           },
@@ -217,7 +160,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-b0a11736967f.webp?v=1782248070",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-b0a11736967f.webp?v=1782248669",
             "width": 1600,
             "height": 1200
           },
@@ -259,7 +202,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-0653c9172ee3.webp?v=1782248071",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-0653c9172ee3.webp?v=1782248670",
             "width": 1600,
             "height": 1200
           },
@@ -301,7 +244,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-4bd8f2fed9b0.webp?v=1782248071",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-4bd8f2fed9b0.webp?v=1782248670",
             "width": 1600,
             "height": 1200
           },
@@ -343,7 +286,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-8baf9687fd69.webp?v=1782248072",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-8baf9687fd69.webp?v=1782248671",
             "width": 1600,
             "height": 1200
           },
@@ -385,7 +328,7 @@
             "padding": 1,
             "background_color": "#ececec",
             "display": "contain",
-            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-8d1970eb0e07.webp?v=1782248072",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-8d1970eb0e07.webp?v=1782248672",
             "width": 1600,
             "height": 1200
           },
