@@ -22,7 +22,443 @@
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
-      "channels": []
+      "channels": [
+        {
+          "id": "kaytee-6e6e94c14e8c",
+          "name": "⚽ U18 Việt Nam vs U18 Malaysia | 10:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-6e6e94c14e8c.webp?v=1782357871",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "● Live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#ff0000"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-6e6e94c14e8c",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-6e6e94c14e8c",
+                  "name": "U18 Việt Nam vs U18 Malaysia",
+                  "streams": [
+                    {
+                      "id": "kaytee-6e6e94c14e8c",
+                      "name": "F",
+                      "stream_links": [
+                        {
+                          "id": "lnk-486581e8bd",
+                          "name": "Link 1",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://tfx13gr3dgmtugrzdgpbqgrhdommwctsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8?wsSession=6931d1040439771ff9a052ea-178235785816768&wsIPSercert=fc4acc60e94b8aeff93609b084b272d2&wsBindIP=2&wsserid=1168239032787589538"
+                        },
+                        {
+                          "id": "lnk-ece8f6d991",
+                          "name": "Link 2",
+                          "type": "hls",
+                          "default": false,
+                          "url": "https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-80f0f2d9f951",
+          "name": "⚽ Oman vs Hàn Quốc | 13:30",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-80f0f2d9f951.webp?v=1782357872",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-80f0f2d9f951",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-80f0f2d9f951",
+                  "name": "Oman vs Hàn Quốc",
+                  "streams": [
+                    {
+                      "id": "kaytee-80f0f2d9f951",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-51753caf3f1f",
+          "name": "⚽ Khovd vs Hunters | 15:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-51753caf3f1f.webp?v=1782357873",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-51753caf3f1f",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-51753caf3f1f",
+                  "name": "Khovd vs Hunters",
+                  "streams": [
+                    {
+                      "id": "kaytee-51753caf3f1f",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-42bf3c44d16b",
+          "name": "⚽ Hà Nội Nữ vs Nữ Hồ Chí Minh | 16:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-42bf3c44d16b.webp?v=1782357873",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-42bf3c44d16b",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-42bf3c44d16b",
+                  "name": "Hà Nội Nữ vs Nữ Hồ Chí Minh",
+                  "streams": [
+                    {
+                      "id": "kaytee-42bf3c44d16b",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-45d1496347aa",
+          "name": "⚽ Đài Loan vs New Zealand | 16:30",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-45d1496347aa.webp?v=1782357874",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-45d1496347aa",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-45d1496347aa",
+                  "name": "Đài Loan vs New Zealand",
+                  "streams": [
+                    {
+                      "id": "kaytee-45d1496347aa",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-0829457bbe29",
+          "name": "⚽ Sport Academy Kairat vs Khan Tengri | 19:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-0829457bbe29.webp?v=1782357876",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-0829457bbe29",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-0829457bbe29",
+                  "name": "Sport Academy Kairat vs Khan Tengri",
+                  "streams": [
+                    {
+                      "id": "kaytee-0829457bbe29",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-533e180a63f4",
+          "name": "⚽ Bahrain vs Kazakhstan | 19:30",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-533e180a63f4.webp?v=1782357875",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-533e180a63f4",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-533e180a63f4",
+                  "name": "Bahrain vs Kazakhstan",
+                  "streams": [
+                    {
+                      "id": "kaytee-533e180a63f4",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-eb07cb3445fc",
+          "name": "⚽ Jaiyq vs Akademiya Ontustik | 20:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-eb07cb3445fc.webp?v=1782357877",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-eb07cb3445fc",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-eb07cb3445fc",
+                  "name": "Jaiyq vs Akademiya Ontustik",
+                  "streams": [
+                    {
+                      "id": "kaytee-eb07cb3445fc",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-20095269503e",
+          "name": "⚽ Trung Quốc vs Bỉ | 21:30",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-20095269503e.webp?v=1782357875",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-20095269503e",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-20095269503e",
+                  "name": "Trung Quốc vs Bỉ",
+                  "streams": [
+                    {
+                      "id": "kaytee-20095269503e",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "kaytee-72d00d71874f",
+          "name": "⚽ FC jazz vs Tampere United | 23:00",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "image": {
+            "padding": 1,
+            "background_color": "#ececec",
+            "display": "contain",
+            "url": "https://pub-26bab83910ab4b5781549d12d2f0ef6f.r2.dev/hoiquan_thumbs/kaytee-72d00d71874f.webp?v=1782357878",
+            "width": 1600,
+            "height": 1200
+          },
+          "labels": [
+            {
+              "text": "⏳ Chưa live",
+              "position": "top-left",
+              "color": "#00ffffff",
+              "text_color": "#d54f1a"
+            }
+          ],
+          "sources": [
+            {
+              "id": "kaytee-72d00d71874f",
+              "name": "Hội Quán",
+              "contents": [
+                {
+                  "id": "kaytee-72d00d71874f",
+                  "name": "FC jazz vs Tampere United",
+                  "streams": [
+                    {
+                      "id": "kaytee-72d00d71874f",
+                      "name": "F",
+                      "stream_links": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ]
 }
